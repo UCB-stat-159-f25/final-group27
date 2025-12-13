@@ -1,0 +1,247 @@
+TableType,Top25Type,Year,Drug_Category,Payer_Type,Rank,National_Drug_Code,Drug_Name,NumberofPrescriptions,NumberofIndividuals,TotalCost,AverageCostperUnit,AverageDispensedUnitsPerFill,DrugUnitofMeasure,Out-of-Pocket Median,Out-of-Pocket25P,Out-of-Pocket75P,OOPZeroCount
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,1.0,88221905.0,Lantus SoloStar,"552,731","131,318","$283,095,982",$26.76,19,ML,$10.00,$1.33,$31.50,18.9%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,2.0,58160082311.0,Shingrix,"450,363","342,827","$80,175,227",$177.60,1,EA,$9.20,$0.00,$47.00,37.0%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,3.0,2831501.0,HumuLIN N,"301,369","98,977","$61,651,560",$3.91,52,ML,$6.67,$3.33,$10.00,6.1%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,4.0,88222033.0,Lantus,"283,200","72,425","$147,240,425",$21.48,24,ML,$10.00,$0.00,$31.33,25.8%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,5.0,2143480.0,Trulicity,"251,337","49,617","$285,686,243",$418.17,3,ML,$17.50,$1.33,$45.00,14.4%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,6.0,2879959.0,HumaLOG KwikPen,"199,924","57,886","$132,602,411",$25.55,26,ML,$16.67,$1.67,$35.00,17.0%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,7.0,2771559.0,Basaglar KwikPen,"198,820","54,350","$72,220,593",$21.85,17,ML,$1.33,$0.00,$4.00,28.1%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,8.0,2751001.0,HumaLOG,"195,682","50,054","$125,811,496",$16.29,39,ML,$16.67,$2.67,$31.67,18.1%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,9.0,2143380.0,Trulicity,"172,647","41,006","$183,890,224",$420.39,3,ML,$13.33,$1.33,$43.00,17.4%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,10.0,169633910.0,NovoLOG FlexPen,"150,524","40,728","$111,802,069",$37.05,20,ML,$2.29,$0.33,$20.00,22.9%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,11.0,2821501.0,HumuLIN R,"131,429","45,172","$22,521,969",$4.40,39,ML,$5.33,$3.00,$10.00,10.8%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,12.0,2880559.0,HumuLIN N KwikPen,"129,635","43,157","$32,380,577",$6.11,41,ML,$8.33,$3.33,$13.33,4.5%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,13.0,72511076002.0,Repatha SureClick,"118,013","17,421","$70,975,078",$240.27,3,ML,$46.21,$15.56,$89.95,6.0%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,14.0,169643810.0,Levemir FlexTouch,"100,204","23,164","$62,340,334",$30.79,20,ML,$4.99,$1.00,$35.00,18.4%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,15.0,74055402.0,Humira (2 Pen),"98,904","13,579","$658,455,118","$2,767.33",2,EA,$47.99,$5.00,$250.00,14.3%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,16.0,58160084252.0,Boostrix,"96,998","95,541","$5,506,597",$104.98,1,ML,$0.00,$0.00,$37.00,53.9%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,17.0,24586903.0,Toujeo SoloStar,"78,809","16,810","$49,155,250",$85.56,7,ML,$18.33,$2.00,$35.00,10.6%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,18.0,169266015.0,Tresiba FlexTouch,"73,876","18,079","$42,457,535",$33.68,17,ML,$13.33,$1.07,$35.00,17.4%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,19.0,32301613.0,Creon,"71,467","16,635","$118,789,055",$10.82,154,EA,$4.00,$1.00,$28.00,17.6%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,20.0,169750111.0,NovoLOG,"71,151","16,500","$54,933,468",$27.78,28,ML,$4.00,$0.00,$25.10,28.4%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,21.0,58406003204.0,Enbrel SureClick,"70,151","9,754","$400,942,148","$1,332.09",4,ML,$50.00,$10.00,$250.00,8.4%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,22.0,74433902.0,Humira (2 Pen),"66,878","9,062","$386,458,748","$2,336.77",2,EA,$30.00,$13.75,$200.00,6.5%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,23.0,2822259.0,Insulin Lispro (1 Unit Dial),"62,886","19,367","$18,469,632",$17.87,16,ML,$4.00,$0.00,$23.50,34.3%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,24.0,24591401.0,Dupixent,"62,616","7,898","$201,922,116",$770.87,4,ML,$65.00,$20.00,$250.00,7.9%
+Top 25 List Overall,Freq,2021,Biologic,All Payers ,25.0,2871501.0,HumuLIN 70/30,"62,536","17,004","$21,478,506",$5.99,57,ML,$5.00,$1.67,$10.00,16.5%
+Top 25 List Overall,Freq,2021,Biosimilar,All Payers ,1.0,61314031810.0,Zarxio,"13,030","4,238","$13,822,746",$279.42,4,ML,$20.00,$7.00,$40.00,15.6%
+Top 25 List Overall,Freq,2021,Biosimilar,All Payers ,2.0,61314032610.0,Zarxio,"9,899","3,154","$16,590,779",$281.01,6,ML,$20.00,$7.00,$35.00,15.3%
+Top 25 List Overall,Freq,2021,Biosimilar,All Payers ,3.0,69130810.0,Retacrit,"7,709","2,068","$3,079,657",$113.44,4,ML,$10.00,$0.42,$95.00,23.6%
+Top 25 List Overall,Freq,2021,Biosimilar,All Payers ,4.0,61314031801.0,Zarxio,"1,906",889,"$2,649,527",$454.50,3,ML,$20.00,$0.05,$100.00,24.9%
+Top 25 List Overall,Freq,2021,Biosimilar,All Payers ,5.0,69131110.0,Retacrit,"1,591",532,"$1,058,774",$223.40,3,ML,$14.57,$0.65,$100.00,21.8%
+Top 25 List Overall,Freq,2021,Biosimilar,All Payers ,6.0,69130904.0,Retacrit,"1,566",411,"$2,006,816",$450.36,3,ML,$45.00,$0.33,$140.90,23.1%
+Top 25 List Overall,Freq,2021,Biosimilar,All Payers ,7.0,67457083306.0,Fulphila,"1,545",450,"$5,596,308","$5,315.39",1,ML,$5.00,$0.00,$35.00,33.3%
+Top 25 List Overall,Freq,2021,Biosimilar,All Payers ,8.0,61314032601.0,Zarxio,"1,153",566,"$2,655,984",$440.04,5,ML,$20.00,$0.00,$93.60,27.9%
+Top 25 List Overall,Freq,2021,Biosimilar,All Payers ,9.0,69130710.0,Retacrit,877,212,"$141,671",$45.03,4,ML,$1.30,$0.00,$43.01,39.2%
+Top 25 List Overall,Freq,2021,Biosimilar,All Payers ,10.0,49502039475.0,Insulin Glargine-yfgn,486,377,"$36,071",$10.98,7,ML,$0.00,$0.00,$0.00,82.5%
+Top 25 List Overall,Freq,2021,Biosimilar,All Payers ,11.0,70114010101.0,Udenyca,457,145,"$2,203,842","$7,045.53",1,ML,$40.00,$0.26,$200.00,23.4%
+Top 25 List Overall,Freq,2021,Biosimilar,All Payers ,12.0,69080901.0,Inflectra,451,108,"$2,160,986",$954.08,5,EA,$1.30,$0.15,$114.18,24.1%
+Top 25 List Overall,Freq,2021,Biosimilar,All Payers ,13.0,63459010310.0,Truxima,379,124,"$3,273,356",$86.01,100,ML,$260.37,$0.42,$550.02,17.7%
+Top 25 List Overall,Freq,2021,Biosimilar,All Payers ,14.0,69130610.0,Retacrit,378,92,"$71,845",$34.53,6,ML,$1.30,$0.00,$45.50,44.6%
+Top 25 List Overall,Freq,2021,Biosimilar,All Payers ,15.0,61314086601.0,Ziextenzo,281,92,"$1,195,727","$5,798.87",1,ML,$18.33,$0.00,$86.51,42.4%
+Top 25 List Overall,Freq,2021,Biosimilar,All Payers ,16.0,69029101.0,Nivestym,225,76,"$243,626",$364.71,3,ML,$30.00,$0.00,$143.72,28.9%
+Top 25 List Overall,Freq,2021,Biosimilar,All Payers ,17.0,55513020601.0,Mvasi,204,54,"$990,284",$180.71,27,ML,$0.79,$0.00,$305.01,40.7%
+Top 25 List Overall,Freq,2021,Biosimilar,All Payers ,18.0,69130801.0,Retacrit,172,75,"$64,269",$113.35,3,ML,$45.00,$1.30,$100.00,14.7%
+Top 25 List Overall,Freq,2021,Biosimilar,All Payers ,19.0,69029310.0,Nivestym,171,60,"$252,104",$129.82,11,ML,$5.00,$0.00,$30.00,43.3%
+Top 25 List Overall,Freq,2021,Biosimilar,All Payers ,20.0,69029201.0,Nivestym,135,61,"$244,201",$376.16,5,ML,$30.00,$0.00,$139.62,32.8%
+Top 25 List Overall,Freq,2021,Biosimilar,All Payers ,21.0,49502039380.0,Insulin Glargine-yfgn,118,95,"$13,551",$10.75,11,ML,$0.00,$0.00,$0.00,88.4%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,1.0,53885027210.0,OneTouch Verio,"1,025,935","494,302","$39,887,419",$0.19,209,EA,$0.00,$0.00,$1.64,66.8%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,2.0,3089421.0,Eliquis,"996,543","210,437","$768,142,905",$8.40,92,EA,$33.07,$4.00,$73.87,9.4%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,3.0,173068220.0,Ventolin HFA,"489,041","215,742","$32,317,097",$3.14,21,GM,$9.00,$3.00,$20.00,11.0%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,4.0,54429731.0,Furosemide,"485,347","185,007","$4,679,507",$0.11,86,EA,$1.34,$0.00,$3.33,27.4%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,5.0,53885001110.0,OneTouch Delica Plus Lancet30G,"441,004","269,552","$5,960,149",$0.07,193,EA,$0.00,$0.00,$0.68,65.0%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,6.0,6027731.0,Januvia,"380,579","85,379","$323,009,650",$16.42,52,EA,$10.00,$1.33,$39.09,11.2%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,7.0,3089321.0,Eliquis,"379,213","79,402","$267,406,483",$8.46,83,EA,$26.21,$2.60,$67.01,12.2%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,8.0,52937000120.0,Vascepa,"365,248","70,724","$158,639,872",$2.96,147,EA,$2.67,$0.90,$20.00,14.2%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,9.0,47781030301.0,Nitrofurantoin Monohyd Macro,"361,611","289,260","$6,303,581",$1.23,14,EA,$6.97,$2.84,$11.56,8.6%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,10.0,597015330.0,Jardiance,"334,471","83,726","$280,145,801",$17.47,48,EA,$20.00,$1.67,$40.00,10.0%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,11.0,54429931.0,Furosemide,"318,793","113,803","$3,144,669",$0.11,93,EA,$0.99,$0.00,$3.05,32.0%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,12.0,50458057930.0,Xarelto,"310,101","71,896","$254,728,658",$16.26,51,EA,$30.00,$3.33,$73.68,9.2%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,13.0,49281042150.0,Fluzone Quadrivalent,"301,983","299,106","$9,260,058",$56.26,1,ML,$0.00,$0.00,$0.00,98.6%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,14.0,49281012165.0,Fluzone High-Dose Quadrivalent,"259,839","258,621","$17,276,740",$90.64,1,ML,$0.00,$0.00,$65.00,67.3%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,15.0,61958250101.0,Biktarvy,"257,715","36,433","$1,074,016,207",$107.76,39,EA,$0.89,$0.00,$25.00,46.3%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,16.0,597036055.0,Pradaxa,"253,976","74,594","$158,367,669",$4.29,145,EA,$26.67,$11.67,$38.42,2.5%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,17.0,23916360.0,Restasis,"247,523","73,601","$216,056,023",$10.46,83,EA,$7.00,$1.33,$42.15,10.9%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,18.0,597015230.0,Jardiance,"236,434","61,620","$198,057,871",$18.19,46,EA,$15.00,$1.33,$42.00,12.8%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,19.0,52268001201.0,Suprep Bowel Prep Kit,"233,852","211,766","$25,225,913",$0.30,355,ML,$30.00,$0.00,$50.00,26.7%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,20.0,53885004501.0,OneTouch Verio Flex System,"229,460","210,310","$862,229",$3.64,1,EA,$0.00,$0.00,$0.25,71.9%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,21.0,70515071201.0,Alvesco,"228,918","111,173","$32,295,654",$9.75,14,GM,$20.00,$10.00,$35.00,2.4%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,22.0,597010061.0,Spiriva Respimat,"228,180","61,229","$119,466,181",$82.42,6,GM,$20.14,$5.50,$43.87,5.6%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,23.0,53885000810.0,OneTouch Delica Plus Lancet33G,"227,159","123,004","$3,207,543",$0.08,186,EA,$0.00,$0.00,$1.02,66.2%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,24.0,53885027302.0,OneTouch Verio,"220,658","188,507","$1,633,253",$7.02,1,EA,$0.00,$0.00,$0.73,63.0%
+Top 25 List Overall,Freq,2021,Brand,All Payers ,25.0,186037020.0,Symbicort,"216,207","63,383","$108,253,058",$36.28,14,GM,$20.00,$1.33,$47.00,10.6%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,1.0,59267100001.0,Pfizer-BioNTech COVID-19 Vacc,"3,556,816","2,168,224","$131,091,262",$112.91,0,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,2.0,59267100002.0,Pfizer-BioNTech COVID-19 Vacc,"1,654,006","1,095,285","$56,588,326",$95.12,0,ML,$0.00,$0.00,$0.00,99.9%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,3.0,80777027399.0,Moderna COVID-19 Vaccine,"1,128,176","730,022","$36,841,266",$65.33,0,ML,$0.00,$0.00,$0.00,99.9%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,4.0,68180098003.0,Lisinopril,"923,778","289,322","$7,905,427",$0.10,83,EA,$1.09,$0.00,$3.52,32.0%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,5.0,80777027310.0,Moderna COVID-19 Vaccine,"889,949","587,256","$31,573,425",$76.36,0,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,6.0,68180098103.0,Lisinopril,"883,611","268,255","$8,167,181",$0.11,87,EA,$1.04,$0.00,$3.33,34.4%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,7.0,406012301.0,HYDROcodone-Acetaminophen,"879,271","467,727","$9,902,213",$0.30,38,EA,$5.00,$1.50,$7.16,4.8%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,8.0,60505082901.0,Fluticasone Propionate,"863,572","376,592","$13,044,800",$0.72,21,GM,$5.00,$2.50,$10.00,10.9%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,9.0,60505257909.0,Atorvastatin Calcium,"842,950","253,467","$11,204,061",$0.20,66,EA,$0.00,$0.00,$1.33,59.9%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,10.0,62175061743.0,Pantoprazole Sodium,"792,710","277,154","$11,448,533",$0.20,73,EA,$3.33,$1.30,$5.96,12.8%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,11.0,70377002913.0,Atorvastatin Calcium,"791,813","282,928","$9,252,417",$0.12,100,EA,$1.95,$0.00,$3.50,36.5%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,12.0,60505258009.0,Atorvastatin Calcium,"751,745","232,976","$12,070,536",$0.24,68,EA,$0.43,$0.00,$3.33,42.2%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,13.0,70377002813.0,Atorvastatin Calcium,"736,798","266,108","$8,626,670",$0.12,100,EA,$2.50,$0.00,$3.89,34.2%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,14.0,67877019805.0,amLODIPine Besylate,"733,793","205,456","$4,129,108",$0.09,60,EA,$0.43,$0.00,$1.23,36.1%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,15.0,71093014706.0,amLODIPine Besylate,"702,195","203,340","$4,037,069",$0.08,72,EA,$0.43,$0.00,$1.28,40.9%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,16.0,65862020299.0,Losartan Potassium,"699,199","231,107","$8,328,427",$0.13,94,EA,$1.99,$0.00,$3.89,28.3%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,17.0,60505257809.0,Atorvastatin Calcium,"695,986","203,083","$6,914,608",$0.15,65,EA,$0.00,$0.00,$1.30,59.1%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,18.0,29300012810.0,hydroCHLOROthiazide,"692,319","270,255","$5,781,101",$0.10,81,EA,$2.33,$0.43,$3.61,22.7%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,19.0,16729018317.0,hydroCHLOROthiazide,"678,598","179,104","$2,018,080",$0.05,64,EA,$0.43,$0.00,$0.93,39.6%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,20.0,54327099.0,Fluticasone Propionate,"651,435","291,154","$10,137,549",$0.68,23,GM,$3.00,$0.72,$5.00,16.4%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,21.0,65162035109.0,Sildenafil Citrate,"645,334","205,257","$6,278,099",$0.25,39,EA,$4.72,$3.84,$7.67,1.0%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,22.0,29300039710.0,amLODIPine Besylate,"638,462","271,014","$7,160,135",$0.11,102,EA,$3.20,$0.51,$3.89,19.9%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,23.0,406012501.0,HYDROcodone-Acetaminophen,"633,598","142,233","$13,082,319",$0.23,89,EA,$5.00,$2.31,$10.00,5.1%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,24.0,781286810.0,Omeprazole,"631,471","248,880","$6,855,153",$0.17,64,EA,$1.07,$0.05,$3.55,24.5%
+Top 25 List Overall,Freq,2021,Generic,All Payers ,25.0,65862020399.0,Losartan Potassium,"630,430","196,104","$7,421,503",$0.15,76,EA,$1.67,$0.00,$3.68,31.1%
+Top 25 List Overall,Freq,2021,All,All Payers ,1.0,59267100001.0,Pfizer-BioNTech COVID-19 Vacc,"3,556,816","2,168,224","$131,091,262",$112.91,0,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 List Overall,Freq,2021,All,All Payers ,2.0,59267100002.0,Pfizer-BioNTech COVID-19 Vacc,"1,654,006","1,095,285","$56,588,326",$95.12,0,ML,$0.00,$0.00,$0.00,99.9%
+Top 25 List Overall,Freq,2021,All,All Payers ,3.0,80777027399.0,Moderna COVID-19 Vaccine,"1,128,176","730,022","$36,841,266",$65.33,0,ML,$0.00,$0.00,$0.00,99.9%
+Top 25 List Overall,Freq,2021,All,All Payers ,4.0,53885027210.0,OneTouch Verio,"1,025,935","494,302","$39,887,419",$0.19,209,EA,$0.00,$0.00,$1.64,66.8%
+Top 25 List Overall,Freq,2021,All,All Payers ,5.0,3089421.0,Eliquis,"996,543","210,437","$768,142,905",$8.40,92,EA,$33.07,$4.00,$73.87,9.4%
+Top 25 List Overall,Freq,2021,All,All Payers ,6.0,68180098003.0,Lisinopril,"923,778","289,322","$7,905,427",$0.10,83,EA,$1.09,$0.00,$3.52,32.0%
+Top 25 List Overall,Freq,2021,All,All Payers ,7.0,80777027310.0,Moderna COVID-19 Vaccine,"889,949","587,256","$31,573,425",$76.36,0,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 List Overall,Freq,2021,All,All Payers ,8.0,68180098103.0,Lisinopril,"883,611","268,255","$8,167,181",$0.11,87,EA,$1.04,$0.00,$3.33,34.4%
+Top 25 List Overall,Freq,2021,All,All Payers ,9.0,406012301.0,HYDROcodone-Acetaminophen,"879,271","467,727","$9,902,213",$0.30,38,EA,$5.00,$1.50,$7.16,4.8%
+Top 25 List Overall,Freq,2021,All,All Payers ,10.0,60505082901.0,Fluticasone Propionate,"863,572","376,592","$13,044,800",$0.72,21,GM,$5.00,$2.50,$10.00,10.9%
+Top 25 List Overall,Freq,2021,All,All Payers ,11.0,60505257909.0,Atorvastatin Calcium,"842,950","253,467","$11,204,061",$0.20,66,EA,$0.00,$0.00,$1.33,59.9%
+Top 25 List Overall,Freq,2021,All,All Payers ,12.0,62175061743.0,Pantoprazole Sodium,"792,710","277,154","$11,448,533",$0.20,73,EA,$3.33,$1.30,$5.96,12.8%
+Top 25 List Overall,Freq,2021,All,All Payers ,13.0,70377002913.0,Atorvastatin Calcium,"791,813","282,928","$9,252,417",$0.12,100,EA,$1.95,$0.00,$3.50,36.5%
+Top 25 List Overall,Freq,2021,All,All Payers ,14.0,60505258009.0,Atorvastatin Calcium,"751,745","232,976","$12,070,536",$0.24,68,EA,$0.43,$0.00,$3.33,42.2%
+Top 25 List Overall,Freq,2021,All,All Payers ,15.0,70377002813.0,Atorvastatin Calcium,"736,798","266,108","$8,626,670",$0.12,100,EA,$2.50,$0.00,$3.89,34.2%
+Top 25 List Overall,Freq,2021,All,All Payers ,16.0,67877019805.0,amLODIPine Besylate,"733,793","205,456","$4,129,108",$0.09,60,EA,$0.43,$0.00,$1.23,36.1%
+Top 25 List Overall,Freq,2021,All,All Payers ,17.0,71093014706.0,amLODIPine Besylate,"702,195","203,340","$4,037,069",$0.08,72,EA,$0.43,$0.00,$1.28,40.9%
+Top 25 List Overall,Freq,2021,All,All Payers ,18.0,65862020299.0,Losartan Potassium,"699,199","231,107","$8,328,427",$0.13,94,EA,$1.99,$0.00,$3.89,28.3%
+Top 25 List Overall,Freq,2021,All,All Payers ,19.0,60505257809.0,Atorvastatin Calcium,"695,986","203,083","$6,914,608",$0.15,65,EA,$0.00,$0.00,$1.30,59.1%
+Top 25 List Overall,Freq,2021,All,All Payers ,20.0,29300012810.0,hydroCHLOROthiazide,"692,319","270,255","$5,781,101",$0.10,81,EA,$2.33,$0.43,$3.61,22.7%
+Top 25 List Overall,Freq,2021,All,All Payers ,21.0,16729018317.0,hydroCHLOROthiazide,"678,598","179,104","$2,018,080",$0.05,64,EA,$0.43,$0.00,$0.93,39.6%
+Top 25 List Overall,Freq,2021,All,All Payers ,22.0,54327099.0,Fluticasone Propionate,"651,435","291,154","$10,137,549",$0.68,23,GM,$3.00,$0.72,$5.00,16.4%
+Top 25 List Overall,Freq,2021,All,All Payers ,23.0,65162035109.0,Sildenafil Citrate,"645,334","205,257","$6,278,099",$0.25,39,EA,$4.72,$3.84,$7.67,1.0%
+Top 25 List Overall,Freq,2021,All,All Payers ,24.0,29300039710.0,amLODIPine Besylate,"638,462","271,014","$7,160,135",$0.11,102,EA,$3.20,$0.51,$3.89,19.9%
+Top 25 List Overall,Freq,2021,All,All Payers ,25.0,406012501.0,HYDROcodone-Acetaminophen,"633,598","142,233","$13,082,319",$0.23,89,EA,$5.00,$2.31,$10.00,5.1%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,1.0,58160082311.0,Shingrix,"723,945","523,882","$134,636,284",$185.67,1,EA,$0.00,$0.00,$35.00,55.0%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,2.0,88221905.0,Lantus SoloStar,"648,248","166,142","$330,610,042",$26.58,19,ML,$2.67,$0.00,$25.00,35.9%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,3.0,2771559.0,Basaglar KwikPen,"607,086","135,655","$222,653,519",$21.76,17,ML,$0.00,$0.00,$0.75,71.7%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,4.0,2143480.0,Trulicity,"354,902","74,084","$417,911,607",$438.08,3,ML,$1.90,$0.00,$30.00,40.9%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,5.0,2831501.0,HumuLIN N,"308,604","100,995","$71,470,019",$4.56,51,ML,$5.00,$1.75,$10.00,15.8%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,6.0,88222033.0,Lantus,"297,307","78,617","$146,563,851",$20.34,24,ML,$4.00,$0.00,$26.67,37.6%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,7.0,2143380.0,Trulicity,"285,112","71,616","$317,777,895",$438.69,3,ML,$0.62,$0.00,$25.00,48.5%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,8.0,2879959.0,HumaLOG KwikPen,"247,526","74,800","$165,094,599",$25.65,26,ML,$4.93,$0.00,$30.00,36.6%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,9.0,2751001.0,HumaLOG,"221,656","57,736","$151,076,935",$16.73,41,ML,$11.75,$0.00,$30.00,31.4%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,10.0,58160084252.0,Boostrix,"177,432","174,840","$10,143,037",$106.68,1,ML,$0.00,$0.00,$5.00,69.1%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,11.0,169633910.0,NovoLOG FlexPen,"174,639","48,787","$129,421,233",$36.78,20,ML,$1.33,$0.00,$13.33,34.0%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,12.0,72511076002.0,Repatha SureClick,"158,070","25,639","$110,281,588",$258.29,3,ML,$35.00,$4.00,$82.05,15.0%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,13.0,2880559.0,HumuLIN N KwikPen,"155,610","52,472","$48,443,542",$7.52,41,ML,$5.42,$2.33,$11.67,14.1%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,14.0,74055402.0,Humira (2 Pen),"152,651","20,893","$1,098,753,428","$2,978.80",2,EA,$20.00,$0.00,$200.00,35.5%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,15.0,2821501.0,HumuLIN R,"142,539","47,781","$28,492,673",$5.30,38,ML,$4.17,$0.45,$9.85,23.3%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,16.0,2822259.0,Insulin Lispro (1 Unit Dial),"137,093","40,428","$24,694,046",$10.96,16,ML,$0.00,$0.00,$4.00,68.4%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,17.0,2223680.0,Trulicity,"129,680","31,147","$153,416,171",$437.19,3,ML,$1.94,$0.00,$30.00,42.0%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,18.0,5200010.0,Prevnar 20,"112,284","110,113","$29,532,630",$490.38,1,ML,$0.00,$0.00,$0.00,86.2%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,19.0,169643810.0,Levemir FlexTouch,"110,197","27,120","$68,150,079",$30.84,20,ML,$1.33,$0.00,$25.00,38.5%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,20.0,24592505.0,Admelog SoloStar,"102,588","23,321","$23,945,909",$12.98,18,ML,$0.00,$0.00,$0.00,94.6%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,21.0,58406003204.0,Enbrel SureClick,"91,958","12,829","$572,117,592","$1,463.37",4,ML,$20.00,$0.00,$171.70,29.0%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,22.0,169266015.0,Tresiba FlexTouch,"88,445","22,478","$51,640,106",$33.66,17,ML,$4.00,$0.00,$30.33,30.7%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,23.0,32301613.0,Creon,"87,507","20,547","$159,969,463",$11.44,160,EA,$2.00,$0.00,$20.00,31.6%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,24.0,49281072210.0,Flublok Quadrivalent,"83,476","83,174","$6,115,054",$137.83,1,ML,$0.00,$0.00,$0.00,97.2%
+Top 25 List Overall,Freq,2022,Biologic,All Payers ,25.0,78063941.0,Cosentyx Sensoready (300 MG),"80,187","11,129","$439,388,453","$2,516.11",2,ML,$25.00,$1.00,$159.80,22.1%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,1.0,49502039475.0,Insulin Glargine-yfgn,"56,586","17,070","$7,091,108",$10.32,12,ML,$0.00,$0.00,$0.00,83.2%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,2.0,49502025175.0,Semglee (yfgn),"11,245","4,012","$4,569,979",$23.94,17,ML,$0.00,$0.00,$0.31,62.9%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,3.0,61314031810.0,Zarxio,"8,653","3,221","$10,420,400",$335.27,4,ML,$20.00,$0.68,$50.00,24.6%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,4.0,49502039380.0,Insulin Glargine-yfgn,"8,464","3,660","$1,234,843",$10.30,14,ML,$0.00,$0.00,$0.00,88.7%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,5.0,69130810.0,Retacrit,"8,300","2,406","$3,298,493",$113.66,3,ML,$1.35,$0.00,$51.38,39.9%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,6.0,69029110.0,Nivestym,"6,509","2,273","$5,637,236",$235.81,4,ML,$20.00,$1.35,$53.56,24.5%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,7.0,61314032610.0,Zarxio,"6,324","2,364","$11,062,478",$306.90,6,ML,$20.00,$0.05,$35.00,24.9%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,8.0,69029210.0,Nivestym,"4,452","1,607","$5,017,916",$197.97,6,ML,$20.00,$0.00,$38.21,25.1%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,9.0,69131110.0,Retacrit,"2,984",975,"$1,809,312",$225.66,3,ML,$1.35,$0.00,$80.22,39.6%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,10.0,61314031801.0,Zarxio,"2,765","1,277","$4,590,676",$499.69,3,ML,$1.35,$0.00,$100.00,42.8%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,11.0,67457083306.0,Fulphila,"2,640",820,"$9,895,230","$5,555.06",1,ML,$0.00,$0.00,$10.00,63.0%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,12.0,61314032601.0,Zarxio,"1,970",924,"$5,432,306",$498.50,6,ML,$0.75,$0.00,$50.00,48.2%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,13.0,69130904.0,Retacrit,"1,883",486,"$2,477,039",$448.74,3,ML,$4.00,$0.00,$100.00,36.8%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,14.0,69080901.0,Inflectra,"1,762",386,"$9,301,755",$921.42,6,EA,$0.00,$0.00,$1.29,69.7%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,15.0,49502025080.0,Semglee (yfgn),"1,192",526,"$465,795",$25.25,15,ML,$0.00,$0.00,$0.05,73.6%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,16.0,61314086601.0,Ziextenzo,"1,030",297,"$4,370,078","$6,108.58",1,ML,$0.00,$0.00,$50.00,52.2%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,17.0,69029101.0,Nivestym,"1,018",494,"$1,015,419",$310.15,3,ML,$10.00,$0.00,$30.00,37.9%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,18.0,69130710.0,Retacrit,993,306,"$203,047",$46.16,4,ML,$0.00,$0.00,$22.00,52.3%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,19.0,69029201.0,Nivestym,920,509,"$1,262,113",$254.07,5,ML,$15.00,$0.00,$30.00,34.6%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,20.0,70114010101.0,Udenyca,711,221,"$3,358,771","$6,717.54",1,ML,$0.00,$0.00,$110.00,57.5%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,21.0,69031501.0,Zirabev,586,140,"$2,914,905",$159.49,31,ML,$0.00,$0.00,$272.45,51.4%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,22.0,78206016201.0,Renflexis,574,127,"$2,214,586",$758.42,5,EA,$0.00,$0.00,$2.30,66.9%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,23.0,55513020701.0,Mvasi,461,97,"$3,262,897",$182.16,39,ML,$0.00,$0.00,$0.34,64.9%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,24.0,63459010310.0,Truxima,445,138,"$3,391,422",$87.30,87,ML,$1.35,$0.00,$376.42,29.7%
+Top 25 List Overall,Freq,2022,Biosimilar,All Payers ,25.0,55513020601.0,Mvasi,359,87,"$1,773,110",$179.61,27,ML,$0.00,$0.00,$2.68,59.8%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,1.0,3089421.0,Eliquis,"1,258,801","270,634","$1,041,478,893",$8.97,92,EA,$24.68,$1.33,$66.67,20.0%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,2.0,53885027210.0,OneTouch Verio,"1,177,312","560,996","$56,665,904",$0.24,202,EA,$0.00,$0.00,$1.26,70.3%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,3.0,82607066026.0,Flowflex COVID-19 Ag Home Test,"1,155,256","694,215","$80,783,906",$11.87,6,EA,$0.00,$0.00,$0.00,99.9%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,4.0,70461032203.0,Flucelvax Quadrivalent,"599,052","591,789","$24,403,540",$76.50,1,ML,$0.00,$0.00,$0.00,98.9%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,5.0,597015330.0,Jardiance,"596,194","147,356","$534,584,614",$18.36,49,EA,$3.28,$0.00,$30.00,33.3%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,6.0,54429731.0,Furosemide,"540,749","203,098","$5,471,688",$0.12,83,EA,$0.45,$0.00,$3.33,45.0%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,7.0,53885001110.0,OneTouch Delica Plus Lancet30G,"502,626","300,219","$7,748,189",$0.08,188,EA,$0.00,$0.00,$0.67,68.6%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,8.0,6027731.0,Januvia,"463,012","106,045","$410,841,721",$17.28,51,EA,$1.33,$0.00,$25.00,34.6%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,9.0,99073070827.0,FreeStyle Lite Test,"437,805","156,779","$77,821,605",$1.43,124,EA,$0.00,$0.00,$0.00,96.8%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,10.0,597015230.0,Jardiance,"437,495","121,393","$391,727,938",$18.87,47,EA,$1.33,$0.00,$30.00,39.4%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,11.0,3089321.0,Eliquis,"431,288","93,540","$327,942,339",$9.04,84,EA,$20.00,$1.33,$60.00,19.4%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,12.0,904759080.0,FeroSul,"427,066","169,778","$5,090,377",$0.19,64,EA,$0.00,$0.00,$0.00,97.2%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,13.0,69108530.0,Paxlovid (300/100),"410,038","399,293","$4,794,732",$0.38,30,EA,$0.00,$0.00,$0.00,97.8%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,14.0,8290320550.0,BD Pen Needle Nano 2nd Gen,"401,686","163,073","$26,093,931",$0.45,145,EA,$1.33,$0.00,$5.00,41.9%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,15.0,47781030301.0,Nitrofurantoin Monohyd Macro,"394,139","312,898","$6,579,924",$1.19,14,EA,$1.58,$0.00,$7.72,42.0%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,16.0,169413212.0,Ozempic (0.25 or 0.5 MG/DOSE),"389,933","117,482","$424,886,912",$568.68,2,ML,$2.40,$0.00,$30.00,43.8%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,17.0,99073013001.0,FreeStyle Lancets,"385,292","175,423","$6,528,773",$0.14,118,EA,$0.00,$0.00,$0.00,91.2%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,18.0,11877001140.0,BinaxNOW COVID-19 Ag Home Test,"369,369","279,869","$33,722,024",$13.71,7,EA,$0.00,$0.00,$0.00,99.8%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,19.0,54429931.0,Furosemide,"360,250","124,701","$3,914,318",$0.12,90,EA,$0.08,$0.00,$2.40,49.8%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,20.0,50458057930.0,Xarelto,"360,092","84,374","$314,288,090",$17.09,51,EA,$20.00,$0.91,$60.44,22.5%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,21.0,173068220.0,Ventolin HFA,"350,672","144,063","$26,113,660",$3.52,21,GM,$4.00,$0.00,$15.13,25.5%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,22.0,52937000120.0,Vascepa,"339,211","66,730","$153,922,183",$3.08,147,EA,$1.33,$0.33,$4.17,22.2%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,23.0,310621030.0,Farxiga,"338,383","77,102","$291,560,752",$18.14,48,EA,$4.00,$0.00,$35.00,28.3%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,24.0,99073070822.0,FreeStyle Lite Test,"336,682","104,898","$41,348,575",$1.53,80,EA,$0.00,$0.00,$0.00,95.5%
+Top 25 List Overall,Freq,2022,Brand,All Payers ,25.0,49281012265.0,Fluzone High-Dose Quadrivalent,"322,351","318,724","$23,230,459",$98.83,1,ML,$0.00,$0.00,$65.00,69.2%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,1.0,781729685.0,Albuterol Sulfate HFA,"1,589,543","910,764","$34,010,305",$2.85,8,GM,$7.00,$5.00,$10.00,17.6%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,2.0,70700015010.0,Omeprazole,"1,576,494","627,055","$17,297,085",$0.14,77,EA,$1.35,$0.00,$3.50,35.6%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,3.0,60505082901.0,Fluticasone Propionate,"1,352,873","620,515","$21,271,668",$0.80,20,GM,$3.19,$0.00,$7.00,38.2%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,4.0,66993001968.0,Albuterol Sulfate HFA,"1,352,614","598,400","$66,535,532",$2.40,20,GM,$0.00,$0.00,$3.95,65.2%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,5.0,54327099.0,Fluticasone Propionate,"1,278,638","603,972","$19,719,831",$0.76,20,GM,$0.00,$0.00,$3.58,59.7%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,6.0,68180098003.0,Lisinopril,"1,139,621","357,040","$10,906,755",$0.12,80,EA,$0.33,$0.00,$3.33,47.3%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,7.0,68180098103.0,Lisinopril,"1,098,378","332,569","$11,133,017",$0.12,84,EA,$0.11,$0.00,$2.86,49.3%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,8.0,60505257909.0,Atorvastatin Calcium,"1,063,145","308,608","$13,487,649",$0.19,68,EA,$0.00,$0.00,$0.45,70.4%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,9.0,29300039710.0,amLODIPine Besylate,"1,034,827","368,297","$11,525,316",$0.11,98,EA,$1.67,$0.00,$3.89,37.1%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,10.0,64380080807.0,Ibuprofen,"952,162","686,687","$9,588,682",$0.23,45,EA,$0.00,$0.00,$0.67,68.9%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,11.0,60505258009.0,Atorvastatin Calcium,"944,383","283,245","$14,265,613",$0.22,68,EA,$0.00,$0.00,$1.99,57.1%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,12.0,406012301.0,HYDROcodone-Acetaminophen,"912,358","485,876","$10,108,806",$0.31,36,EA,$5.00,$0.64,$6.88,16.8%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,13.0,16729018317.0,hydroCHLOROthiazide,"899,778","238,315","$5,074,053",$0.09,63,EA,$0.00,$0.00,$0.73,56.1%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,14.0,65862020299.0,Losartan Potassium,"857,342","294,092","$10,894,856",$0.13,95,EA,$0.80,$0.00,$3.47,42.9%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,15.0,172208380.0,hydroCHLOROthiazide,"847,688","272,070","$7,802,011",$0.11,81,EA,$1.60,$0.00,$3.33,37.1%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,16.0,65862001705.0,Amoxicillin,"844,132","681,598","$6,281,488",$0.31,24,EA,$0.00,$0.00,$1.83,54.6%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,17.0,65862000899.0,metFORMIN HCl,"840,935","254,733","$7,875,610",$0.07,126,EA,$0.00,$0.00,$0.76,61.7%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,18.0,60505257809.0,Atorvastatin Calcium,"836,486","243,903","$9,108,272",$0.16,67,EA,$0.00,$0.00,$0.45,68.4%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,19.0,64380080707.0,Ibuprofen,"831,535","499,410","$9,087,270",$0.21,52,EA,$0.00,$0.00,$1.09,63.5%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,20.0,67877019810.0,amLODIPine Besylate,"807,674","293,093","$6,268,543",$0.11,68,EA,$0.00,$0.00,$0.98,54.0%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,21.0,69097014260.0,Albuterol Sulfate HFA,"804,212","461,730","$27,810,714",$4.51,8,GM,$0.00,$0.00,$10.00,56.3%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,22.0,69097052444.0,Diclofenac Sodium,"784,591","343,832","$21,880,213",$0.20,143,GM,$0.00,$0.00,$5.00,53.9%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,23.0,68180012202.0,Cephalexin,"783,152","658,759","$7,660,779",$0.38,26,EA,$1.48,$0.00,$5.00,41.4%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,24.0,68180097903.0,Lisinopril,"781,549","231,349","$8,894,165",$0.14,80,EA,$0.23,$0.00,$3.33,48.4%
+Top 25 List Overall,Freq,2022,Generic,All Payers ,25.0,65162010211.0,Gabapentin,"775,133","241,688","$11,881,329",$0.13,114,EA,$0.45,$0.00,$3.29,45.5%
+Top 25 List Overall,Freq,2022,All,All Payers ,1.0,781729685.0,Albuterol Sulfate HFA,"1,589,543","910,764","$34,010,305",$2.85,8,GM,$7.00,$5.00,$10.00,17.6%
+Top 25 List Overall,Freq,2022,All,All Payers ,2.0,70700015010.0,Omeprazole,"1,576,494","627,055","$17,297,085",$0.14,77,EA,$1.35,$0.00,$3.50,35.6%
+Top 25 List Overall,Freq,2022,All,All Payers ,3.0,60505082901.0,Fluticasone Propionate,"1,352,873","620,515","$21,271,668",$0.80,20,GM,$3.19,$0.00,$7.00,38.2%
+Top 25 List Overall,Freq,2022,All,All Payers ,4.0,66993001968.0,Albuterol Sulfate HFA,"1,352,614","598,400","$66,535,532",$2.40,20,GM,$0.00,$0.00,$3.95,65.2%
+Top 25 List Overall,Freq,2022,All,All Payers ,5.0,54327099.0,Fluticasone Propionate,"1,278,638","603,972","$19,719,831",$0.76,20,GM,$0.00,$0.00,$3.58,59.7%
+Top 25 List Overall,Freq,2022,All,All Payers ,6.0,3089421.0,Eliquis,"1,258,801","270,634","$1,041,478,893",$8.97,92,EA,$24.68,$1.33,$66.67,20.0%
+Top 25 List Overall,Freq,2022,All,All Payers ,7.0,53885027210.0,OneTouch Verio,"1,177,312","560,996","$56,665,904",$0.24,202,EA,$0.00,$0.00,$1.26,70.3%
+Top 25 List Overall,Freq,2022,All,All Payers ,8.0,82607066026.0,Flowflex COVID-19 Ag Home Test,"1,155,256","694,215","$80,783,906",$11.87,6,EA,$0.00,$0.00,$0.00,99.9%
+Top 25 List Overall,Freq,2022,All,All Payers ,9.0,68180098003.0,Lisinopril,"1,139,621","357,040","$10,906,755",$0.12,80,EA,$0.33,$0.00,$3.33,47.3%
+Top 25 List Overall,Freq,2022,All,All Payers ,10.0,68180098103.0,Lisinopril,"1,098,378","332,569","$11,133,017",$0.12,84,EA,$0.11,$0.00,$2.86,49.3%
+Top 25 List Overall,Freq,2022,All,All Payers ,11.0,60505257909.0,Atorvastatin Calcium,"1,063,145","308,608","$13,487,649",$0.19,68,EA,$0.00,$0.00,$0.45,70.4%
+Top 25 List Overall,Freq,2022,All,All Payers ,12.0,29300039710.0,amLODIPine Besylate,"1,034,827","368,297","$11,525,316",$0.11,98,EA,$1.67,$0.00,$3.89,37.1%
+Top 25 List Overall,Freq,2022,All,All Payers ,13.0,64380080807.0,Ibuprofen,"952,162","686,687","$9,588,682",$0.23,45,EA,$0.00,$0.00,$0.67,68.9%
+Top 25 List Overall,Freq,2022,All,All Payers ,14.0,60505258009.0,Atorvastatin Calcium,"944,383","283,245","$14,265,613",$0.22,68,EA,$0.00,$0.00,$1.99,57.1%
+Top 25 List Overall,Freq,2022,All,All Payers ,15.0,406012301.0,HYDROcodone-Acetaminophen,"912,358","485,876","$10,108,806",$0.31,36,EA,$5.00,$0.64,$6.88,16.8%
+Top 25 List Overall,Freq,2022,All,All Payers ,16.0,16729018317.0,hydroCHLOROthiazide,"899,778","238,315","$5,074,053",$0.09,63,EA,$0.00,$0.00,$0.73,56.1%
+Top 25 List Overall,Freq,2022,All,All Payers ,17.0,65862020299.0,Losartan Potassium,"857,342","294,092","$10,894,856",$0.13,95,EA,$0.80,$0.00,$3.47,42.9%
+Top 25 List Overall,Freq,2022,All,All Payers ,18.0,172208380.0,hydroCHLOROthiazide,"847,688","272,070","$7,802,011",$0.11,81,EA,$1.60,$0.00,$3.33,37.1%
+Top 25 List Overall,Freq,2022,All,All Payers ,19.0,65862001705.0,Amoxicillin,"844,132","681,598","$6,281,488",$0.31,24,EA,$0.00,$0.00,$1.83,54.6%
+Top 25 List Overall,Freq,2022,All,All Payers ,20.0,65862000899.0,metFORMIN HCl,"840,935","254,733","$7,875,610",$0.07,126,EA,$0.00,$0.00,$0.76,61.7%
+Top 25 List Overall,Freq,2022,All,All Payers ,21.0,60505257809.0,Atorvastatin Calcium,"836,486","243,903","$9,108,272",$0.16,67,EA,$0.00,$0.00,$0.45,68.4%
+Top 25 List Overall,Freq,2022,All,All Payers ,22.0,64380080707.0,Ibuprofen,"831,535","499,410","$9,087,270",$0.21,52,EA,$0.00,$0.00,$1.09,63.5%
+Top 25 List Overall,Freq,2022,All,All Payers ,23.0,67877019810.0,amLODIPine Besylate,"807,674","293,093","$6,268,543",$0.11,68,EA,$0.00,$0.00,$0.98,54.0%
+Top 25 List Overall,Freq,2022,All,All Payers ,24.0,69097014260.0,Albuterol Sulfate HFA,"804,212","461,730","$27,810,714",$4.51,8,GM,$0.00,$0.00,$10.00,56.3%
+Top 25 List Overall,Freq,2022,All,All Payers ,25.0,69097052444.0,Diclofenac Sodium,"784,591","343,832","$21,880,213",$0.20,143,GM,$0.00,$0.00,$5.00,53.9%

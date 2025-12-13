@@ -1,0 +1,19 @@
+Field Title,Field Name,Data Type,Description,
+Type of Table,TableType,text,The Type of Table,"Overall, Top 25 List Overall, Top 25 Payer, Top 25 Totals, Top 25 W/O Medi-Cal"
+Top 25 Category ,Top25Type,text,The Type of Top 25 Category ,"Cost, Frequncy, Medians"
+Year ,Year,numeric,Year of the Prescription,
+Drug Category,Drug_Category,text,The Category of Drug,"All, Brand, Generic, Biologic, Biosimilar"
+Payer Type,Payer_Type,text,The Type of Payer Type,"All Payers, All Payers W/O Medi-Cal, Commercial, Medicare, Medi-Cal"
+Top 25 Ranking,Rank,numeric,Top 25 Ranking,
+National Drug Code,National_Drug_Code,text,National Drug Code,
+Drug Name,Drug_Name,text,Drug Name,
+Number of Prescriptions,NumberofPrescriptions,numeric,The Number of Prescriptions,
+Number of Individuals,NumberofIndividuals,numeric,The Number of Individuals,
+Total Cost,TotalCost,numeric,The Total Cost,
+Average Cost per Unit,AverageCostperUnit,numeric,The Average Cost per Unit Filled,
+AverageDispensedUnitsPerFill,AverageDispensedUnitsPerFill,numeric,The Average Dispensed Units per Fill,
+DrugUnitofMeasure,DrugUnitofMeasure,text,The Unit of Measure ,"EA, ML, GR, "
+Out-of-Pocket Median,OutofPocketMedian,numeric,The Monthly Out-of-Pocket Median,
+Out-of-Pocket25P,Out-of-Pocket25P,numeric,The Monthly Out-of-Pocket 25th Percentile,
+Out-of-Pocket75P,Out-of-Pocket75P,numeric,The Monthly Out-of-Pocket 75th Percentile,
+OOPZeroCount,OOPZeroCount,numeric,Percent of Monthly Out-of-Pocket with Zero Dollar Amounts,

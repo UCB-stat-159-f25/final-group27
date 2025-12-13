@@ -1,0 +1,247 @@
+TableType,Top25Type,Year,Drug_Category,Payer_Type,Rank,National_Drug_Code,Drug_Name,NumberofPrescriptions,NumberofIndividuals,TotalCost,AverageCostperUnit,AverageDispensedUnitsPerFill,DrugUnitofMeasure,Out-of-Pocket Median,Out-of-Pocket25P,Out-of-Pocket75P,OOPZeroCount
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,1.0,74055402.0,Humira (2 Pen),"98,904","13,579","$658,455,118","$2,767.33",2,EA,$47.99,$5.00,$250.00,14.3%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,2.0,57894006103.0,Stelara,"22,973","4,418","$487,220,554","$20,287.33",1,ML,$42.29,$10.00,$135.00,13.2%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,3.0,58406003204.0,Enbrel SureClick,"70,151","9,754","$400,942,148","$1,332.09",4,ML,$50.00,$10.00,$250.00,8.4%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,4.0,74433902.0,Humira (2 Pen),"66,878","9,062","$386,458,748","$2,336.77",2,EA,$30.00,$13.75,$200.00,6.5%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,5.0,78063941.0,Cosentyx Sensoready (300 MG),"56,823","8,015","$291,401,313","$2,303.67",2,ML,$38.87,$16.67,$216.67,6.7%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,6.0,2143480.0,Trulicity,"251,337","49,617","$285,686,243",$418.17,3,ML,$17.50,$1.33,$45.00,14.4%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,7.0,88221905.0,Lantus SoloStar,"552,731","131,318","$283,095,982",$26.76,19,ML,$10.00,$1.33,$31.50,18.9%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,8.0,24591401.0,Dupixent,"62,616","7,898","$201,922,116",$770.87,4,ML,$65.00,$20.00,$250.00,7.9%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,9.0,2143380.0,Trulicity,"172,647","41,006","$183,890,224",$420.39,3,ML,$13.33,$1.33,$43.00,17.4%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,10.0,88222033.0,Lantus,"283,200","72,425","$147,240,425",$21.48,24,ML,$10.00,$0.00,$31.33,25.8%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,11.0,58406002104.0,Enbrel,"25,224","3,454","$142,020,785","$1,306.23",4,ML,$30.00,$9.04,$183.33,8.6%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,12.0,2879959.0,HumaLOG KwikPen,"199,924","57,886","$132,602,411",$25.55,26,ML,$16.67,$1.67,$35.00,17.0%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,13.0,2751001.0,HumaLOG,"195,682","50,054","$125,811,496",$16.29,39,ML,$16.67,$2.67,$31.67,18.1%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,14.0,32301613.0,Creon,"71,467","16,635","$118,789,055",$10.82,154,EA,$4.00,$1.00,$28.00,17.6%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,15.0,74379902.0,Humira (2 Syringe),"19,580","2,727","$112,298,760","$2,317.79",2,EA,$25.00,$7.00,$150.00,7.9%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,16.0,169633910.0,NovoLOG FlexPen,"150,524","40,728","$111,802,069",$37.05,20,ML,$2.29,$0.33,$20.00,22.9%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,17.0,50242092201.0,Hemlibra,"1,384",173,"$98,582,378","$7,037.28",10,ML,$0.00,$0.00,$0.00,76.3%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,18.0,55513071001.0,Prolia,"61,457","39,503","$85,324,549","$1,382.17",1,ML,$0.67,$0.67,$33.33,15.9%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,19.0,57894064011.0,Tremfya,"7,203","1,867","$80,947,296","$10,203.87",1,ML,$45.00,$12.50,$166.67,10.7%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,20.0,74024302.0,Humira (2 Syringe),"12,045","1,754","$80,570,831","$2,724.68",2,EA,$30.00,$0.73,$250.00,20.1%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,21.0,58160082311.0,Shingrix,"450,363","342,827","$80,175,227",$177.60,1,EA,$9.20,$0.00,$47.00,37.0%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,22.0,2144511.0,Taltz,"12,468","1,776","$79,467,457","$5,718.73",1,ML,$50.00,$3.74,$250.00,15.5%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,23.0,2771559.0,Basaglar KwikPen,"198,820","54,350","$72,220,593",$21.85,17,ML,$1.33,$0.00,$4.00,28.1%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,24.0,24591502.0,Dupixent,"21,946","4,086","$71,453,836",$756.41,4,ML,$58.68,$20.00,$250.00,10.6%
+Top 25 List Overall,Cost,2021,Biologic,All Payers ,25.0,72511076002.0,Repatha SureClick,"118,013","17,421","$70,975,078",$240.27,3,ML,$46.21,$15.56,$89.95,6.0%
+Top 25 List Overall,Cost,2021,Biosimilar,All Payers ,1.0,61314032610.0,Zarxio,"9,899","3,154","$16,590,779",$281.01,6,ML,$20.00,$7.00,$35.00,15.3%
+Top 25 List Overall,Cost,2021,Biosimilar,All Payers ,2.0,61314031810.0,Zarxio,"13,030","4,238","$13,822,746",$279.42,4,ML,$20.00,$7.00,$40.00,15.6%
+Top 25 List Overall,Cost,2021,Biosimilar,All Payers ,3.0,67457083306.0,Fulphila,"1,545",450,"$5,596,308","$5,315.39",1,ML,$5.00,$0.00,$35.00,33.3%
+Top 25 List Overall,Cost,2021,Biosimilar,All Payers ,4.0,63459010310.0,Truxima,379,124,"$3,273,356",$86.01,100,ML,$260.37,$0.42,$550.02,17.7%
+Top 25 List Overall,Cost,2021,Biosimilar,All Payers ,5.0,69130810.0,Retacrit,"7,709","2,068","$3,079,657",$113.44,4,ML,$10.00,$0.42,$95.00,23.6%
+Top 25 List Overall,Cost,2021,Biosimilar,All Payers ,6.0,61314032601.0,Zarxio,"1,153",566,"$2,655,984",$440.04,5,ML,$20.00,$0.00,$93.60,27.9%
+Top 25 List Overall,Cost,2021,Biosimilar,All Payers ,7.0,61314031801.0,Zarxio,"1,906",889,"$2,649,527",$454.50,3,ML,$20.00,$0.05,$100.00,24.9%
+Top 25 List Overall,Cost,2021,Biosimilar,All Payers ,8.0,70114010101.0,Udenyca,457,145,"$2,203,842","$7,045.53",1,ML,$40.00,$0.26,$200.00,23.4%
+Top 25 List Overall,Cost,2021,Biosimilar,All Payers ,9.0,69080901.0,Inflectra,451,108,"$2,160,986",$954.08,5,EA,$1.30,$0.15,$114.18,24.1%
+Top 25 List Overall,Cost,2021,Biosimilar,All Payers ,10.0,69130904.0,Retacrit,"1,566",411,"$2,006,816",$450.36,3,ML,$45.00,$0.33,$140.90,23.1%
+Top 25 List Overall,Cost,2021,Biosimilar,All Payers ,11.0,61314086601.0,Ziextenzo,281,92,"$1,195,727","$5,798.87",1,ML,$18.33,$0.00,$86.51,42.4%
+Top 25 List Overall,Cost,2021,Biosimilar,All Payers ,12.0,69131110.0,Retacrit,"1,591",532,"$1,058,774",$223.40,3,ML,$14.57,$0.65,$100.00,21.8%
+Top 25 List Overall,Cost,2021,Biosimilar,All Payers ,13.0,55513020601.0,Mvasi,204,54,"$990,284",$180.71,27,ML,$0.79,$0.00,$305.01,40.7%
+Top 25 List Overall,Cost,2021,Biosimilar,All Payers ,14.0,69029310.0,Nivestym,171,60,"$252,104",$129.82,11,ML,$5.00,$0.00,$30.00,43.3%
+Top 25 List Overall,Cost,2021,Biosimilar,All Payers ,15.0,69029201.0,Nivestym,135,61,"$244,201",$376.16,5,ML,$30.00,$0.00,$139.62,32.8%
+Top 25 List Overall,Cost,2021,Biosimilar,All Payers ,16.0,69029101.0,Nivestym,225,76,"$243,626",$364.71,3,ML,$30.00,$0.00,$143.72,28.9%
+Top 25 List Overall,Cost,2021,Biosimilar,All Payers ,17.0,69130710.0,Retacrit,877,212,"$141,671",$45.03,4,ML,$1.30,$0.00,$43.01,39.2%
+Top 25 List Overall,Cost,2021,Biosimilar,All Payers ,18.0,69130610.0,Retacrit,378,92,"$71,845",$34.53,6,ML,$1.30,$0.00,$45.50,44.6%
+Top 25 List Overall,Cost,2021,Biosimilar,All Payers ,19.0,69130801.0,Retacrit,172,75,"$64,269",$113.35,3,ML,$45.00,$1.30,$100.00,14.7%
+Top 25 List Overall,Cost,2021,Biosimilar,All Payers ,20.0,49502039475.0,Insulin Glargine-yfgn,486,377,"$36,071",$10.98,7,ML,$0.00,$0.00,$0.00,82.5%
+Top 25 List Overall,Cost,2021,Biosimilar,All Payers ,21.0,49502039380.0,Insulin Glargine-yfgn,118,95,"$13,551",$10.75,11,ML,$0.00,$0.00,$0.00,88.4%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,1.0,61958250101.0,Biktarvy,"257,715","36,433","$1,074,016,207",$107.76,39,EA,$0.89,$0.00,$25.00,46.3%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,2.0,3089421.0,Eliquis,"996,543","210,437","$768,142,905",$8.40,92,EA,$33.07,$4.00,$73.87,9.4%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,3.0,61958200201.0,Descovy,"147,067","23,236","$326,431,268",$62.61,35,EA,$0.00,$0.00,$30.00,50.0%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,4.0,6027731.0,Januvia,"380,579","85,379","$323,009,650",$16.42,52,EA,$10.00,$1.33,$39.09,11.2%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,5.0,61958190101.0,Genvoya,"68,590","10,120","$319,830,023",$106.12,44,EA,$13.07,$0.00,$32.28,32.9%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,6.0,49702023113.0,Triumeq,"74,847","10,141","$300,344,339",$102.41,39,EA,$3.33,$0.00,$27.50,37.7%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,7.0,597015330.0,Jardiance,"334,471","83,726","$280,145,801",$17.47,48,EA,$20.00,$1.67,$40.00,10.0%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,8.0,310135030.0,Tagrisso,"17,345","2,437","$276,436,820",$524.95,30,EA,$25.00,$0.77,$166.67,15.7%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,9.0,3089321.0,Eliquis,"379,213","79,402","$267,406,483",$8.46,83,EA,$26.21,$2.60,$67.01,12.2%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,10.0,469012599.0,Xtandi,"22,461","3,462","$258,873,497",$100.50,115,EA,$51.23,$4.00,$725.35,10.6%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,11.0,50458057930.0,Xarelto,"310,101","71,896","$254,728,658",$16.26,51,EA,$30.00,$3.33,$73.68,9.2%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,12.0,50458056401.0,Invega Sustenna,"79,208","11,343","$234,495,736","$1,924.03",2,ML,$0.00,$0.00,$0.40,74.1%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,13.0,55513013760.0,Otezla,"60,287","9,944","$226,562,998",$60.06,63,EA,$35.00,$19.09,$219.46,6.3%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,14.0,57962042028.0,Imbruvica,"15,429","1,956","$220,994,306",$503.64,28,EA,$200.00,$15.81,$888.94,7.0%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,15.0,23916360.0,Restasis,"247,523","73,601","$216,056,023",$10.46,83,EA,$7.00,$1.33,$42.15,10.9%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,16.0,597015230.0,Jardiance,"236,434","61,620","$198,057,871",$18.19,46,EA,$15.00,$1.33,$42.00,12.8%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,17.0,61958210101.0,Odefsey,"46,090","6,384","$193,441,087",$97.26,43,EA,$13.33,$0.00,$30.22,28.9%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,18.0,49702022813.0,Tivicay,"75,266","12,336","$179,678,600",$63.14,38,EA,$0.89,$0.00,$25.00,43.5%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,19.0,59572041028.0,Revlimid,"9,451","1,478","$178,910,002",$819.64,23,EA,$90.32,$1.83,$998.19,18.3%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,20.0,59572041000.0,Revlimid,"10,043","1,714","$171,382,193",$813.54,21,EA,$29.77,$7.50,$351.93,13.8%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,21.0,169413212.0,Ozempic (0.25 or 0.5 MG/DOSE),"148,801","40,268","$163,193,136",$543.61,2,ML,$22.49,$3.07,$47.00,12.6%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,22.0,52937000120.0,Vascepa,"365,248","70,724","$158,639,872",$2.96,147,EA,$2.67,$0.90,$20.00,14.2%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,23.0,597036055.0,Pradaxa,"253,976","74,594","$158,367,669",$4.29,145,EA,$26.67,$11.67,$38.42,2.5%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,24.0,65649030302.0,Xifaxan,"64,463","23,964","$156,768,831",$45.27,54,EA,$30.00,$5.00,$96.05,12.0%
+Top 25 List Overall,Cost,2021,Brand,All Payers ,25.0,69068803.0,Ibrance,"11,642","1,999","$151,560,633",$602.75,22,EA,$25.00,$3.64,$200.00,16.2%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,1.0,59267100001.0,Pfizer-BioNTech COVID-19 Vacc,"3,556,816","2,168,224","$131,091,262",$112.91,0,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,2.0,59267100002.0,Pfizer-BioNTech COVID-19 Vacc,"1,654,006","1,095,285","$56,588,326",$95.12,0,ML,$0.00,$0.00,$0.00,99.9%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,3.0,378932132.0,Wixela Inhub,"285,446","97,688","$55,211,805",$1.89,102,EA,$10.00,$4.67,$15.00,4.0%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,4.0,93770456.0,Emtricitabine-Tenofovir DF,"54,552","23,987","$41,243,988",$10.55,72,EA,$0.00,$0.00,$0.00,85.9%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,5.0,378932232.0,Wixela Inhub,"175,532","53,902","$39,417,462",$2.12,106,EA,$7.78,$4.17,$11.00,3.6%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,6.0,80777027399.0,Moderna COVID-19 Vaccine,"1,128,176","730,022","$36,841,266",$65.33,0,ML,$0.00,$0.00,$0.00,99.9%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,7.0,93760756.0,Emtricitabine-Tenofovir DF,"17,258","11,654","$35,819,158",$40.33,51,EA,$0.00,$0.00,$0.00,85.1%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,8.0,80777027310.0,Moderna COVID-19 Vaccine,"889,949","587,256","$31,573,425",$76.36,0,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,9.0,72205003092.0,Abiraterone Acetate,"9,544","1,893","$25,155,152",$23.58,112,EA,$57.47,$3.70,$206.51,11.2%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,10.0,66993001968.0,Albuterol Sulfate HFA,"494,405","220,538","$24,675,372",$2.38,21,GM,$5.00,$0.87,$15.00,20.5%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,11.0,80777027398.0,Moderna COVID-19 Vaccine,"607,738","504,496","$22,599,299",$86.59,0,ML,$0.00,$0.00,$0.00,99.9%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,12.0,68382071119.0,Mesalamine,"37,729","8,866","$21,392,442",$3.91,145,EA,$15.00,$5.00,$55.00,4.5%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,13.0,93317431.0,Albuterol Sulfate HFA,"505,605","255,481","$19,909,990",$3.85,10,GM,$5.00,$1.30,$15.00,15.5%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,14.0,65862035430.0,Emtricitabine-Tenofovir DF,"19,811","5,861","$19,502,204",$27.70,36,EA,$0.00,$0.00,$0.00,87.1%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,15.0,65162083366.0,Diclofenac Sodium,"589,925","365,457","$18,229,322",$0.18,168,GM,$10.00,$5.00,$12.00,5.7%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,16.0,310737020.0,Budesonide-Formoterol Fumarate,"51,778","18,886","$17,788,395",$26.57,13,GM,$10.00,$2.20,$47.00,11.7%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,17.0,378039991.0,Dimethyl Fumarate,"4,467",892,"$16,937,120",$59.31,64,EA,$13.00,$5.00,$233.37,6.2%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,18.0,378696112.0,Glatiramer Acetate,"5,153",782,"$16,690,662",$256.09,13,ML,$25.00,$4.00,$250.00,12.3%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,19.0,80777027315.0,Moderna COVID-19 Vaccine,"422,955","349,763","$16,689,158",$94.72,0,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,20.0,72626270101.0,Sofosbuvir-Velpatasvir,"2,049",928,"$16,622,641",$285.08,28,EA,$2.00,$0.00,$100.00,39.8%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,21.0,591352530.0,Lidocaine,"99,938","34,631","$15,410,604",$3.68,42,EA,$5.00,$0.56,$10.48,19.5%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,22.0,69097052444.0,Diclofenac Sodium,"427,918","202,468","$14,951,108",$0.23,154,GM,$5.00,$1.30,$10.90,15.1%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,23.0,115169449.0,EPINEPHrine,"102,423","83,337","$14,296,252",$64.10,2,EA,$10.00,$5.00,$15.00,3.3%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,24.0,65162046935.0,EluRyng,"68,302","26,577","$14,047,997",$67.87,3,EA,$0.00,$0.00,$0.00,95.9%
+Top 25 List Overall,Cost,2021,Generic,All Payers ,25.0,378932032.0,Wixela Inhub,"83,819","30,604","$13,914,019",$1.65,100,EA,$10.00,$5.00,$15.00,4.1%
+Top 25 List Overall,Cost,2021,All,All Payers ,1.0,61958250101.0,Biktarvy,"257,715","36,433","$1,074,016,207",$107.76,39,EA,$0.89,$0.00,$25.00,46.3%
+Top 25 List Overall,Cost,2021,All,All Payers ,2.0,3089421.0,Eliquis,"996,543","210,437","$768,142,905",$8.40,92,EA,$33.07,$4.00,$73.87,9.4%
+Top 25 List Overall,Cost,2021,All,All Payers ,3.0,74055402.0,Humira (2 Pen),"98,904","13,579","$658,455,118","$2,767.33",2,EA,$47.99,$5.00,$250.00,14.3%
+Top 25 List Overall,Cost,2021,All,All Payers ,4.0,57894006103.0,Stelara,"22,973","4,418","$487,220,554","$20,287.33",1,ML,$42.29,$10.00,$135.00,13.2%
+Top 25 List Overall,Cost,2021,All,All Payers ,5.0,58406003204.0,Enbrel SureClick,"70,151","9,754","$400,942,148","$1,332.09",4,ML,$50.00,$10.00,$250.00,8.4%
+Top 25 List Overall,Cost,2021,All,All Payers ,6.0,74433902.0,Humira (2 Pen),"66,878","9,062","$386,458,748","$2,336.77",2,EA,$30.00,$13.75,$200.00,6.5%
+Top 25 List Overall,Cost,2021,All,All Payers ,7.0,61958200201.0,Descovy,"147,067","23,236","$326,431,268",$62.61,35,EA,$0.00,$0.00,$30.00,50.0%
+Top 25 List Overall,Cost,2021,All,All Payers ,8.0,6027731.0,Januvia,"380,579","85,379","$323,009,650",$16.42,52,EA,$10.00,$1.33,$39.09,11.2%
+Top 25 List Overall,Cost,2021,All,All Payers ,9.0,61958190101.0,Genvoya,"68,590","10,120","$319,830,023",$106.12,44,EA,$13.07,$0.00,$32.28,32.9%
+Top 25 List Overall,Cost,2021,All,All Payers ,10.0,49702023113.0,Triumeq,"74,847","10,141","$300,344,339",$102.41,39,EA,$3.33,$0.00,$27.50,37.7%
+Top 25 List Overall,Cost,2021,All,All Payers ,11.0,78063941.0,Cosentyx Sensoready (300 MG),"56,823","8,015","$291,401,313","$2,303.67",2,ML,$38.87,$16.67,$216.67,6.7%
+Top 25 List Overall,Cost,2021,All,All Payers ,12.0,2143480.0,Trulicity,"251,337","49,617","$285,686,243",$418.17,3,ML,$17.50,$1.33,$45.00,14.4%
+Top 25 List Overall,Cost,2021,All,All Payers ,13.0,88221905.0,Lantus SoloStar,"552,731","131,318","$283,095,982",$26.76,19,ML,$10.00,$1.33,$31.50,18.9%
+Top 25 List Overall,Cost,2021,All,All Payers ,14.0,597015330.0,Jardiance,"334,471","83,726","$280,145,801",$17.47,48,EA,$20.00,$1.67,$40.00,10.0%
+Top 25 List Overall,Cost,2021,All,All Payers ,15.0,310135030.0,Tagrisso,"17,345","2,437","$276,436,820",$524.95,30,EA,$25.00,$0.77,$166.67,15.7%
+Top 25 List Overall,Cost,2021,All,All Payers ,16.0,3089321.0,Eliquis,"379,213","79,402","$267,406,483",$8.46,83,EA,$26.21,$2.60,$67.01,12.2%
+Top 25 List Overall,Cost,2021,All,All Payers ,17.0,469012599.0,Xtandi,"22,461","3,462","$258,873,497",$100.50,115,EA,$51.23,$4.00,$725.35,10.6%
+Top 25 List Overall,Cost,2021,All,All Payers ,18.0,50458057930.0,Xarelto,"310,101","71,896","$254,728,658",$16.26,51,EA,$30.00,$3.33,$73.68,9.2%
+Top 25 List Overall,Cost,2021,All,All Payers ,19.0,50458056401.0,Invega Sustenna,"79,208","11,343","$234,495,736","$1,924.03",2,ML,$0.00,$0.00,$0.40,74.1%
+Top 25 List Overall,Cost,2021,All,All Payers ,20.0,55513013760.0,Otezla,"60,287","9,944","$226,562,998",$60.06,63,EA,$35.00,$19.09,$219.46,6.3%
+Top 25 List Overall,Cost,2021,All,All Payers ,21.0,57962042028.0,Imbruvica,"15,429","1,956","$220,994,306",$503.64,28,EA,$200.00,$15.81,$888.94,7.0%
+Top 25 List Overall,Cost,2021,All,All Payers ,22.0,23916360.0,Restasis,"247,523","73,601","$216,056,023",$10.46,83,EA,$7.00,$1.33,$42.15,10.9%
+Top 25 List Overall,Cost,2021,All,All Payers ,23.0,24591401.0,Dupixent,"62,616","7,898","$201,922,116",$770.87,4,ML,$65.00,$20.00,$250.00,7.9%
+Top 25 List Overall,Cost,2021,All,All Payers ,24.0,597015230.0,Jardiance,"236,434","61,620","$198,057,871",$18.19,46,EA,$15.00,$1.33,$42.00,12.8%
+Top 25 List Overall,Cost,2021,All,All Payers ,25.0,61958210101.0,Odefsey,"46,090","6,384","$193,441,087",$97.26,43,EA,$13.33,$0.00,$30.22,28.9%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,1.0,74055402.0,Humira (2 Pen),"152,651","20,893","$1,098,753,428","$2,978.80",2,EA,$20.00,$0.00,$200.00,35.5%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,2.0,57894006103.0,Stelara,"34,942","6,269","$794,143,838","$21,671.87",1,ML,$31.51,$0.33,$150.00,23.6%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,3.0,58406003204.0,Enbrel SureClick,"91,958","12,829","$572,117,592","$1,463.37",4,ML,$20.00,$0.00,$171.70,29.0%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,4.0,74433902.0,Humira (2 Pen),"76,065","10,564","$488,892,704","$2,580.94",2,EA,$20.00,$0.00,$125.87,27.4%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,5.0,78063941.0,Cosentyx Sensoready (300 MG),"80,187","11,129","$439,388,453","$2,516.11",2,ML,$25.00,$1.00,$159.80,22.1%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,6.0,2143480.0,Trulicity,"354,902","74,084","$417,911,607",$438.08,3,ML,$1.90,$0.00,$30.00,40.9%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,7.0,88221905.0,Lantus SoloStar,"648,248","166,142","$330,610,042",$26.58,19,ML,$2.67,$0.00,$25.00,35.9%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,8.0,2143380.0,Trulicity,"285,112","71,616","$317,777,895",$438.69,3,ML,$0.62,$0.00,$25.00,48.5%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,9.0,24591401.0,Dupixent,"73,471","9,748","$254,131,191",$818.17,4,ML,$27.06,$0.00,$237.03,26.8%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,10.0,24591502.0,Dupixent,"68,454","11,379","$238,509,870",$808.71,4,ML,$20.00,$0.00,$182.78,31.9%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,11.0,2771559.0,Basaglar KwikPen,"607,086","135,655","$222,653,519",$21.76,17,ML,$0.00,$0.00,$0.75,71.7%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,12.0,74210001.0,Skyrizi Pen,"11,626","3,924","$217,623,196","$18,097.56",1,ML,$10.00,$0.00,$138.72,41.2%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,13.0,57894064011.0,Tremfya,"14,523","3,604","$174,867,511","$11,091.43",1,ML,$25.00,$0.00,$127.13,26.1%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,14.0,58406002104.0,Enbrel,"27,054","3,769","$165,656,709","$1,422.92",4,ML,$20.00,$0.62,$150.00,22.7%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,15.0,2879959.0,HumaLOG KwikPen,"247,526","74,800","$165,094,599",$25.65,26,ML,$4.93,$0.00,$30.00,36.6%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,16.0,32301613.0,Creon,"87,507","20,547","$159,969,463",$11.44,160,EA,$2.00,$0.00,$20.00,31.6%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,17.0,2223680.0,Trulicity,"129,680","31,147","$153,416,171",$437.19,3,ML,$1.94,$0.00,$30.00,42.0%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,18.0,2144511.0,Taltz,"23,037","3,259","$152,472,710","$6,081.88",1,ML,$21.54,$0.00,$250.00,37.7%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,19.0,2751001.0,HumaLOG,"221,656","57,736","$151,076,935",$16.73,41,ML,$11.75,$0.00,$30.00,31.4%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,20.0,88222033.0,Lantus,"297,307","78,617","$146,563,851",$20.34,24,ML,$4.00,$0.00,$26.67,37.6%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,21.0,58160082311.0,Shingrix,"723,945","523,882","$134,636,284",$185.67,1,EA,$0.00,$0.00,$35.00,55.0%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,22.0,74379902.0,Humira (2 Syringe),"20,865","3,080","$134,348,442","$2,600.48",2,EA,$15.04,$0.00,$89.38,30.4%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,23.0,169633910.0,NovoLOG FlexPen,"174,639","48,787","$129,421,233",$36.78,20,ML,$1.33,$0.00,$13.33,34.0%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,24.0,74024302.0,Humira (2 Syringe),"15,540","2,270","$112,392,613","$2,924.61",2,EA,$20.00,$0.00,$182.95,33.9%
+Top 25 List Overall,Cost,2022,Biologic,All Payers ,25.0,72511076002.0,Repatha SureClick,"158,070","25,639","$110,281,588",$258.29,3,ML,$35.00,$4.00,$82.05,15.0%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,1.0,61314032610.0,Zarxio,"6,324","2,364","$11,062,478",$306.90,6,ML,$20.00,$0.05,$35.00,24.9%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,2.0,61314031810.0,Zarxio,"8,653","3,221","$10,420,400",$335.27,4,ML,$20.00,$0.68,$50.00,24.6%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,3.0,67457083306.0,Fulphila,"2,640",820,"$9,895,230","$5,555.06",1,ML,$0.00,$0.00,$10.00,63.0%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,4.0,69080901.0,Inflectra,"1,762",386,"$9,301,755",$921.42,6,EA,$0.00,$0.00,$1.29,69.7%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,5.0,49502039475.0,Insulin Glargine-yfgn,"56,586","17,070","$7,091,108",$10.32,12,ML,$0.00,$0.00,$0.00,83.2%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,6.0,69029110.0,Nivestym,"6,509","2,273","$5,637,236",$235.81,4,ML,$20.00,$1.35,$53.56,24.5%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,7.0,61314032601.0,Zarxio,"1,970",924,"$5,432,306",$498.50,6,ML,$0.75,$0.00,$50.00,48.2%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,8.0,69029210.0,Nivestym,"4,452","1,607","$5,017,916",$197.97,6,ML,$20.00,$0.00,$38.21,25.1%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,9.0,61314031801.0,Zarxio,"2,765","1,277","$4,590,676",$499.69,3,ML,$1.35,$0.00,$100.00,42.8%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,10.0,49502025175.0,Semglee (yfgn),"11,245","4,012","$4,569,979",$23.94,17,ML,$0.00,$0.00,$0.31,62.9%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,11.0,61314086601.0,Ziextenzo,"1,030",297,"$4,370,078","$6,108.58",1,ML,$0.00,$0.00,$50.00,52.2%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,12.0,63459010310.0,Truxima,445,138,"$3,391,422",$87.30,87,ML,$1.35,$0.00,$376.42,29.7%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,13.0,70114010101.0,Udenyca,711,221,"$3,358,771","$6,717.54",1,ML,$0.00,$0.00,$110.00,57.5%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,14.0,69130810.0,Retacrit,"8,300","2,406","$3,298,493",$113.66,3,ML,$1.35,$0.00,$51.38,39.9%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,15.0,55513020701.0,Mvasi,461,97,"$3,262,897",$182.16,39,ML,$0.00,$0.00,$0.34,64.9%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,16.0,69031501.0,Zirabev,586,140,"$2,914,905",$159.49,31,ML,$0.00,$0.00,$272.45,51.4%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,17.0,63459010450.0,Truxima,271,124,"$2,500,857",$85.79,108,ML,$0.00,$0.00,$3.96,62.9%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,18.0,69130904.0,Retacrit,"1,883",486,"$2,477,039",$448.74,3,ML,$4.00,$0.00,$100.00,36.8%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,19.0,78206016201.0,Renflexis,574,127,"$2,214,586",$758.42,5,EA,$0.00,$0.00,$2.30,66.9%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,20.0,69131110.0,Retacrit,"2,984",975,"$1,809,312",$225.66,3,ML,$1.35,$0.00,$80.22,39.6%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,21.0,55513020601.0,Mvasi,359,87,"$1,773,110",$179.61,27,ML,$0.00,$0.00,$2.68,59.8%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,22.0,69023801.0,Ruxience,249,98,"$1,757,759",$74.10,95,ML,$20.00,$0.00,$527.03,34.7%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,23.0,55513013201.0,Kanjinti,271,50,"$1,516,726","$3,899.04",1,EA,$0.00,$0.00,$0.00,80.0%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,24.0,69029201.0,Nivestym,920,509,"$1,262,113",$254.07,5,ML,$15.00,$0.00,$30.00,34.6%
+Top 25 List Overall,Cost,2022,Biosimilar,All Payers ,25.0,49502039380.0,Insulin Glargine-yfgn,"8,464","3,660","$1,234,843",$10.30,14,ML,$0.00,$0.00,$0.00,88.7%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,1.0,61958250101.0,Biktarvy,"288,652","42,769","$1,292,762,100",$113.74,39,EA,$0.33,$0.00,$23.33,49.5%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,2.0,3089421.0,Eliquis,"1,258,801","270,634","$1,041,478,893",$8.97,92,EA,$24.68,$1.33,$66.67,20.0%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,3.0,597015330.0,Jardiance,"596,194","147,356","$534,584,614",$18.36,49,EA,$3.28,$0.00,$30.00,33.3%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,4.0,169413212.0,Ozempic (0.25 or 0.5 MG/DOSE),"389,933","117,482","$424,886,912",$568.68,2,ML,$2.40,$0.00,$30.00,43.8%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,5.0,6027731.0,Januvia,"463,012","106,045","$410,841,721",$17.28,51,EA,$1.33,$0.00,$25.00,34.6%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,6.0,597015230.0,Jardiance,"437,495","121,393","$391,727,938",$18.87,47,EA,$1.33,$0.00,$30.00,39.4%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,7.0,61958200201.0,Descovy,"160,570","26,307","$379,457,610",$65.67,36,EA,$0.00,$0.00,$25.00,59.7%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,8.0,310135030.0,Tagrisso,"22,223","2,981","$367,247,177",$534.89,31,EA,$20.00,$0.29,$150.00,24.5%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,9.0,169413013.0,Ozempic (1 MG/DOSE),"297,925","67,688","$345,567,144",$286.39,4,ML,$9.85,$0.00,$35.00,36.9%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,10.0,3089321.0,Eliquis,"431,288","93,540","$327,942,339",$9.04,84,EA,$20.00,$1.33,$60.00,19.4%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,11.0,55513013760.0,Otezla,"78,443","13,411","$327,420,799",$66.69,63,EA,$20.00,$0.00,$150.00,25.6%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,12.0,50458057930.0,Xarelto,"360,092","84,374","$314,288,090",$17.09,51,EA,$20.00,$0.91,$60.44,22.5%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,13.0,61958190101.0,Genvoya,"58,082","9,020","$291,709,326",$111.85,45,EA,$11.25,$0.00,$30.00,34.9%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,14.0,310621030.0,Farxiga,"338,383","77,102","$291,560,752",$18.14,48,EA,$4.00,$0.00,$35.00,28.3%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,15.0,49702023113.0,Triumeq,"67,479","9,491","$289,081,849",$107.40,40,EA,$2.67,$0.00,$26.61,39.6%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,16.0,50458056401.0,Invega Sustenna,"86,217","12,642","$267,343,739","$2,023.79",2,ML,$0.00,$0.00,$0.00,77.7%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,17.0,65649030302.0,Xifaxan,"90,189","32,318","$245,247,048",$48.37,56,EA,$18.80,$0.00,$50.00,33.3%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,18.0,597015390.0,Jardiance,"275,442","102,242","$240,565,618",$14.37,61,EA,$13.33,$1.33,$30.53,18.7%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,19.0,469012599.0,Xtandi,"18,589","2,811","$227,193,250",$105.82,116,EA,$25.00,$0.67,$503.22,17.0%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,20.0,23916360.0,Restasis,"233,591","75,718","$212,069,625",$10.87,83,EA,$4.00,$0.68,$35.86,19.0%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,21.0,57962042028.0,Imbruvica,"13,000","1,516","$200,451,660",$540.62,29,EA,$143.93,$5.00,$949.90,15.2%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,22.0,61958210101.0,Odefsey,"42,504","6,099","$190,463,199",$102.65,44,EA,$13.33,$0.00,$30.00,30.2%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,23.0,69068803.0,Ibrance,"13,508","2,262","$186,545,942",$642.82,21,EA,$20.00,$0.00,$153.03,27.1%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,24.0,59572041028.0,Revlimid,"9,429","1,574","$186,277,528",$856.70,23,EA,$48.00,$0.34,"$1,031.42",23.5%
+Top 25 List Overall,Cost,2022,Brand,All Payers ,25.0,49702022813.0,Tivicay,"67,705","12,190","$172,474,347",$66.18,38,EA,$0.89,$0.00,$26.33,44.4%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,1.0,50991097730.0,Folite,"16,114","6,810","$66,744,606",$49.89,83,EA,$0.00,$0.00,$0.00,99.8%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,2.0,66993001968.0,Albuterol Sulfate HFA,"1,352,614","598,400","$66,535,532",$2.40,20,GM,$0.00,$0.00,$3.95,65.2%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,3.0,72626270101.0,Sofosbuvir-Velpatasvir,"7,502","3,049","$60,147,903",$282.61,28,EA,$0.00,$0.00,$0.00,81.5%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,4.0,378932132.0,Wixela Inhub,"287,339","106,454","$56,037,602",$1.84,106,EA,$5.00,$1.35,$10.00,20.9%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,5.0,378932232.0,Wixela Inhub,"169,029","57,049","$42,823,061",$2.21,115,EA,$5.00,$1.67,$10.00,16.4%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,6.0,310737020.0,Budesonide-Formoterol Fumarate,"129,819","44,947","$39,958,437",$25.24,12,GM,$0.00,$0.00,$5.00,62.0%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,7.0,15370018060.0,Lofena,"7,574","2,529","$37,837,895",$32.24,155,EA,$0.00,$0.00,$0.00,94.9%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,8.0,781729685.0,Albuterol Sulfate HFA,"1,589,543","910,764","$34,010,305",$2.85,8,GM,$7.00,$5.00,$10.00,17.6%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,9.0,68180096301.0,Albuterol Sulfate HFA,"709,936","360,642","$29,056,835",$4.03,10,GM,$0.00,$0.00,$5.00,58.1%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,10.0,93317431.0,Albuterol Sulfate HFA,"735,377","378,659","$27,824,618",$3.89,10,GM,$0.00,$0.00,$10.00,51.5%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,11.0,69097014260.0,Albuterol Sulfate HFA,"804,212","461,730","$27,810,714",$4.51,8,GM,$0.00,$0.00,$10.00,56.3%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,12.0,27241003203.0,Omeprazole-Sodium Bicarbonate,"12,748","2,394","$27,283,748",$56.25,38,EA,$0.11,$0.00,$0.52,46.6%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,13.0,115169449.0,EPINEPHrine,"155,031","121,900","$26,734,671",$80.58,2,EA,$5.00,$0.00,$10.00,28.3%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,14.0,65862035430.0,Emtricitabine-Tenofovir DF,"39,043","11,297","$26,671,301",$16.73,41,EA,$0.00,$0.00,$0.00,89.8%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,15.0,72205003092.0,Abiraterone Acetate,"10,940","2,412","$26,418,047",$21.34,113,EA,$10.00,$1.35,$139.64,18.4%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,16.0,378193701.0,Lenalidomide,"2,006",669,"$25,439,260",$614.47,21,EA,$10.00,$5.00,$11.20,13.8%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,17.0,378334053.0,Xulane,"94,126","31,140","$25,005,838",$37.04,7,EA,$0.00,$0.00,$0.00,98.5%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,18.0,24979070406.0,Dexlansoprazole,"71,960","21,983","$24,902,058",$7.77,45,EA,$0.68,$0.00,$11.80,40.7%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,19.0,480124328.0,Lenalidomide,"1,761",542,"$24,503,172",$625.50,22,EA,$10.97,$2.19,$150.00,24.5%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,20.0,70512001515.0,SynoFlex,"8,461","4,231","$24,266,709",$44.19,65,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,21.0,80777027399.0,Moderna COVID-19 Vaccine,"654,351","621,085","$22,422,145",$106.44,0,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,22.0,68180018806.0,Meloxicam,"4,356","1,551","$22,068,497",$24.82,204,EA,$0.00,$0.00,$0.00,90.7%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,23.0,69097052444.0,Diclofenac Sodium,"784,591","343,832","$21,880,213",$0.20,143,GM,$0.00,$0.00,$5.00,53.9%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,24.0,591352530.0,Lidocaine,"178,695","73,518","$21,648,477",$3.01,40,EA,$0.00,$0.00,$1.35,65.5%
+Top 25 List Overall,Cost,2022,Generic,All Payers ,25.0,60505082901.0,Fluticasone Propionate,"1,352,873","620,515","$21,271,668",$0.80,20,GM,$3.19,$0.00,$7.00,38.2%
+Top 25 List Overall,Cost,2022,All,All Payers ,1.0,61958250101.0,Biktarvy,"288,652","42,769","$1,292,762,100",$113.74,39,EA,$0.33,$0.00,$23.33,49.5%
+Top 25 List Overall,Cost,2022,All,All Payers ,2.0,74055402.0,Humira (2 Pen),"152,651","20,893","$1,098,753,428","$2,978.80",2,EA,$20.00,$0.00,$200.00,35.5%
+Top 25 List Overall,Cost,2022,All,All Payers ,3.0,3089421.0,Eliquis,"1,258,801","270,634","$1,041,478,893",$8.97,92,EA,$24.68,$1.33,$66.67,20.0%
+Top 25 List Overall,Cost,2022,All,All Payers ,4.0,57894006103.0,Stelara,"34,942","6,269","$794,143,838","$21,671.87",1,ML,$31.51,$0.33,$150.00,23.6%
+Top 25 List Overall,Cost,2022,All,All Payers ,5.0,58406003204.0,Enbrel SureClick,"91,958","12,829","$572,117,592","$1,463.37",4,ML,$20.00,$0.00,$171.70,29.0%
+Top 25 List Overall,Cost,2022,All,All Payers ,6.0,597015330.0,Jardiance,"596,194","147,356","$534,584,614",$18.36,49,EA,$3.28,$0.00,$30.00,33.3%
+Top 25 List Overall,Cost,2022,All,All Payers ,7.0,74433902.0,Humira (2 Pen),"76,065","10,564","$488,892,704","$2,580.94",2,EA,$20.00,$0.00,$125.87,27.4%
+Top 25 List Overall,Cost,2022,All,All Payers ,8.0,78063941.0,Cosentyx Sensoready (300 MG),"80,187","11,129","$439,388,453","$2,516.11",2,ML,$25.00,$1.00,$159.80,22.1%
+Top 25 List Overall,Cost,2022,All,All Payers ,9.0,169413212.0,Ozempic (0.25 or 0.5 MG/DOSE),"389,933","117,482","$424,886,912",$568.68,2,ML,$2.40,$0.00,$30.00,43.8%
+Top 25 List Overall,Cost,2022,All,All Payers ,10.0,2143480.0,Trulicity,"354,902","74,084","$417,911,607",$438.08,3,ML,$1.90,$0.00,$30.00,40.9%
+Top 25 List Overall,Cost,2022,All,All Payers ,11.0,6027731.0,Januvia,"463,012","106,045","$410,841,721",$17.28,51,EA,$1.33,$0.00,$25.00,34.6%
+Top 25 List Overall,Cost,2022,All,All Payers ,12.0,597015230.0,Jardiance,"437,495","121,393","$391,727,938",$18.87,47,EA,$1.33,$0.00,$30.00,39.4%
+Top 25 List Overall,Cost,2022,All,All Payers ,13.0,61958200201.0,Descovy,"160,570","26,307","$379,457,610",$65.67,36,EA,$0.00,$0.00,$25.00,59.7%
+Top 25 List Overall,Cost,2022,All,All Payers ,14.0,310135030.0,Tagrisso,"22,223","2,981","$367,247,177",$534.89,31,EA,$20.00,$0.29,$150.00,24.5%
+Top 25 List Overall,Cost,2022,All,All Payers ,15.0,169413013.0,Ozempic (1 MG/DOSE),"297,925","67,688","$345,567,144",$286.39,4,ML,$9.85,$0.00,$35.00,36.9%
+Top 25 List Overall,Cost,2022,All,All Payers ,16.0,88221905.0,Lantus SoloStar,"648,248","166,142","$330,610,042",$26.58,19,ML,$2.67,$0.00,$25.00,35.9%
+Top 25 List Overall,Cost,2022,All,All Payers ,17.0,3089321.0,Eliquis,"431,288","93,540","$327,942,339",$9.04,84,EA,$20.00,$1.33,$60.00,19.4%
+Top 25 List Overall,Cost,2022,All,All Payers ,18.0,55513013760.0,Otezla,"78,443","13,411","$327,420,799",$66.69,63,EA,$20.00,$0.00,$150.00,25.6%
+Top 25 List Overall,Cost,2022,All,All Payers ,19.0,2143380.0,Trulicity,"285,112","71,616","$317,777,895",$438.69,3,ML,$0.62,$0.00,$25.00,48.5%
+Top 25 List Overall,Cost,2022,All,All Payers ,20.0,50458057930.0,Xarelto,"360,092","84,374","$314,288,090",$17.09,51,EA,$20.00,$0.91,$60.44,22.5%
+Top 25 List Overall,Cost,2022,All,All Payers ,21.0,61958190101.0,Genvoya,"58,082","9,020","$291,709,326",$111.85,45,EA,$11.25,$0.00,$30.00,34.9%
+Top 25 List Overall,Cost,2022,All,All Payers ,22.0,310621030.0,Farxiga,"338,383","77,102","$291,560,752",$18.14,48,EA,$4.00,$0.00,$35.00,28.3%
+Top 25 List Overall,Cost,2022,All,All Payers ,23.0,49702023113.0,Triumeq,"67,479","9,491","$289,081,849",$107.40,40,EA,$2.67,$0.00,$26.61,39.6%
+Top 25 List Overall,Cost,2022,All,All Payers ,24.0,50458056401.0,Invega Sustenna,"86,217","12,642","$267,343,739","$2,023.79",2,ML,$0.00,$0.00,$0.00,77.7%
+Top 25 List Overall,Cost,2022,All,All Payers ,25.0,24591401.0,Dupixent,"73,471","9,748","$254,131,191",$818.17,4,ML,$27.06,$0.00,$237.03,26.8%

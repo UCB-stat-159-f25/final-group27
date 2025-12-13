@@ -1,0 +1,696 @@
+TableType,Top25Type,Year,Drug_Category,Payer_Type,Rank,National_Drug_Code,Drug_Name,NumberofPrescriptions,NumberofIndividuals,TotalCost,AverageCostperUnit,AverageDispensedUnitsPerFill,DrugUnitofMeasure,Out-of-Pocket Median,Out-of-Pocket25P,Out-of-Pocket75P,OOPZeroCount
+Top 25 Payer,Median,2021,Biologic,Commercial,1.0,2814901.0,Humatrope,609,77,"$5,216,046","$3,239.78",3,EA,$250.00,$50.00,$319.90,1.3%
+Top 25 Payer,Median,2021,Biologic,Commercial,2.0,50242007601.0,Nutropin AQ NuSpin 20,"3,043",336,"$21,656,998","$1,225.22",6,ML,$250.00,$85.62,$293.53,3.6%
+Top 25 Payer,Median,2021,Biologic,Commercial,3.0,2144527.0,Taltz,521,257,"$5,532,414","$5,571.41",2,ML,$250.00,$50.00,$250.00,10.5%
+Top 25 Payer,Median,2021,Biologic,Commercial,4.0,2144509.0,Taltz,281,188,"$4,142,101","$5,515.45",3,ML,$250.00,$50.00,$250.00,5.9%
+Top 25 Payer,Median,2021,Biologic,Commercial,5.0,50242007401.0,Nutropin AQ NuSpin 10,"5,803",622,"$24,656,985",$610.22,7,ML,$237.14,$86.39,$271.43,2.4%
+Top 25 Payer,Median,2021,Biologic,Commercial,6.0,2772411.0,Taltz,810,117,"$5,325,667","$5,423.29",1,ML,$220.00,$45.00,$250.00,8.5%
+Top 25 Payer,Median,2021,Biologic,Commercial,7.0,44087000607.0,Serostim,667,69,"$11,557,071",$582.10,30,EA,$219.82,$113.64,$250.00,5.8%
+Top 25 Payer,Median,2021,Biologic,Commercial,8.0,187000402.0,Siliq,484,54,"$1,934,642","$1,292.35",3,ML,$206.87,$50.00,$267.66,0.0%
+Top 25 Payer,Median,2021,Biologic,Commercial,9.0,44087900506.0,Gonal-f RFF,190,76,"$269,227",$119.29,12,EA,$196.63,$20.00,$546.02,1.3%
+Top 25 Payer,Median,2021,Biologic,Commercial,10.0,49281091501.0,YF-VAX,65,65,"$11,068",$170.28,1,EA,$173.54,$173.54,$173.54,7.7%
+Top 25 Payer,Median,2021,Biologic,Commercial,11.0,2814801.0,Humatrope,"1,057",125,"$5,594,120","$1,585.19",3,EA,$150.00,$40.00,$260.00,4.0%
+Top 25 Payer,Median,2021,Biologic,Commercial,12.0,44087334401.0,Rebif Rebidose,658,81,"$5,628,069","$1,397.93",6,ML,$150.00,$25.00,$257.69,12.3%
+Top 25 Payer,Median,2021,Biologic,Commercial,13.0,74055402.0,Humira (2 Pen),"69,658","9,365","$445,696,328","$2,680.00",2,EA,$150.00,$25.00,$250.00,6.2%
+Top 25 Payer,Median,2021,Biologic,Commercial,14.0,74012403.0,Humira-CD/UC/HS Starter,877,650,"$14,639,631","$5,509.83",3,EA,$150.00,$20.00,$250.00,14.6%
+Top 25 Payer,Median,2021,Biologic,Commercial,15.0,74153903.0,Humira-Psoriasis/Uveit Starter,349,272,"$3,815,627","$3,623.58",3,EA,$150.00,$40.00,$250.00,7.0%
+Top 25 Payer,Median,2021,Biologic,Commercial,16.0,24592201.0,Kevzara,863,140,"$2,935,025","$1,487.31",2,ML,$150.00,$30.00,$250.00,12.9%
+Top 25 Payer,Median,2021,Biologic,Commercial,17.0,78063968.0,Cosentyx Sensoready Pen,"3,593",671,"$24,148,988","$5,432.84",1,ML,$150.00,$35.00,$250.00,9.8%
+Top 25 Payer,Median,2021,Biologic,Commercial,18.0,2144511.0,Taltz,"9,105","1,305","$56,370,828","$5,587.91",1,ML,$150.00,$30.00,$250.00,11.0%
+Top 25 Payer,Median,2021,Biologic,Commercial,19.0,169770321.0,Norditropin FlexPro,373,53,"$2,278,833","$1,027.89",6,ML,$150.00,$20.00,$250.00,7.5%
+Top 25 Payer,Median,2021,Biologic,Commercial,20.0,47783064401.0,Takhzyro,729,91,"$32,962,922","$11,676.56",4,ML,$150.00,$30.00,$250.00,2.2%
+Top 25 Payer,Median,2021,Biologic,Commercial,21.0,49401008847.0,Benlysta,495,76,"$1,927,704",$944.03,4,ML,$144.39,$42.50,$250.00,5.3%
+Top 25 Payer,Median,2021,Biologic,Commercial,22.0,50242007501.0,Nutropin AQ NuSpin 5,"1,376",152,"$2,782,496",$303.93,7,ML,$143.75,$40.00,$250.00,5.3%
+Top 25 Payer,Median,2021,Biologic,Commercial,23.0,74433906.0,Humira-CD/UC/HS Starter,124,98,"$1,977,748","$2,578.55",6,EA,$136.85,$20.00,$250.00,11.2%
+Top 25 Payer,Median,2021,Biologic,Commercial,24.0,50474071081.0,Cimzia-Starter,334,246,"$4,509,815","$4,386.98",3,EA,$132.39,$26.25,$250.00,11.4%
+Top 25 Payer,Median,2021,Biologic,Commercial,25.0,57894007002.0,Simponi,"3,649",496,"$19,155,603","$9,171.94",1,ML,$132.24,$20.00,$250.00,6.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,1.0,58406003204.0,Enbrel SureClick,598,127,"$3,646,141","$1,394.89",4,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,2.0,74024302.0,Humira (2 Syringe),"1,105",172,"$8,253,334","$2,910.61",3,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,3.0,74061602.0,Humira (2 Syringe),572,86,"$3,876,761","$2,989.48",2,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,4.0,50242010040.0,Pulmozyme,"4,901",621,"$22,018,972",$44.84,100,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,5.0,24591401.0,Dupixent,374,70,"$1,163,741",$773.76,4,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,6.0,24592505.0,Admelog SoloStar,"3,165","1,303","$968,248",$16.91,18,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,7.0,2751101.0,HumaLOG Mix 75/25,479,116,"$335,002",$27.80,25,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,8.0,2822259.0,Insulin Lispro (1 Unit Dial),"7,066","2,634","$2,082,314",$17.74,17,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,9.0,169368712.0,Levemir,"2,821","1,139","$1,530,815",$30.62,18,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,10.0,169750111.0,NovoLOG,"4,340","1,088","$3,138,389",$28.42,25,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,11.0,781400436.0,Omnitrope,324,50,"$1,083,434",$316.15,11,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,12.0,32121201.0,Creon,526,143,"$724,752",$3.45,399,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,13.0,32121207.0,Creon,799,127,"$1,650,094",$3.47,595,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,14.0,32301613.0,Creon,473,156,"$1,056,018",$10.39,215,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,15.0,73562011201.0,Zenpep,184,50,"$878,767",$7.08,674,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,16.0,944305402.0,Advate,282,97,"$6,780,393",$1.34,"17,902",EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,17.0,2143611.0,Emgality,184,79,"$151,934",$612.64,1,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,18.0,66658023101.0,Synagis,143,143,"$530,727","$3,085.62",1,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,19.0,66658023001.0,Synagis,171,154,"$290,526","$3,378.20",1,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,20.0,58160082152.0,Engerix-B,578,458,"$42,075",$72.79,1,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,21.0,6494300.0,Pneumovax 23,334,332,"$41,771",$245.71,1,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,22.0,5197105.0,Prevnar 13,141,140,"$32,463",$460.46,1,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,23.0,58160081912.0,Shingrix,270,235,"$46,740",$173.43,1,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,24.0,58160081552.0,Twinrix,227,184,"$27,847",$122.67,1,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medi-Cal,25.0,6409602.0,Vaqta,65,64,"$5,432",$83.57,1,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biologic,Medicare,1.0,71981002007.0,Oxervate,766,212,"$22,172,848","$1,785.40",16,ML,"$1,219.24",$2.00,"$1,783.17",15.1%
+Top 25 Payer,Median,2021,Biologic,Medicare,2.0,57894006002.0,Stelara,120,59,"$2,785,558","$23,910.37",1,ML,"$1,152.73",$32.27,"$1,435.53",11.9%
+Top 25 Payer,Median,2021,Biologic,Medicare,3.0,66887000301.0,Xiaflex,431,287,"$3,884,405","$5,387.52",2,EA,"$1,120.05",$67.50,"$1,786.68",3.8%
+Top 25 Payer,Median,2021,Biologic,Medicare,4.0,64208823507.0,Gammaplex,454,93,"$6,568,648",$18.40,786,ML,$373.34,$1.00,$965.54,21.5%
+Top 25 Payer,Median,2021,Biologic,Medicare,5.0,4035009.0,Pegasys,330,55,"$1,395,954","$1,051.96",4,ML,$346.04,$23.22,$503.22,1.8%
+Top 25 Payer,Median,2021,Biologic,Medicare,6.0,55513019201.0,Neulasta Onpro,799,214,"$5,383,073","$10,202.94",1,ML,$331.30,$4.00,$766.95,10.7%
+Top 25 Payer,Median,2021,Biologic,Medicare,7.0,76125090020.0,Gammaked,324,59,"$5,217,956",$16.02,"1,005",ML,$326.16,$1.57,"$1,107.34",13.6%
+Top 25 Payer,Median,2021,Biologic,Medicare,8.0,55513019001.0,Neulasta,622,169,"$4,375,693","$10,443.18",1,ML,$308.08,$2.00,$890.31,14.2%
+Top 25 Payer,Median,2021,Biologic,Medicare,9.0,944270007.0,Gammagard,"1,338",178,"$16,226,246",$14.91,813,ML,$236.10,$0.31,$839.35,23.6%
+Top 25 Payer,Median,2021,Biologic,Medicare,10.0,55513003201.0,Aranesp (Albumin Free),214,53,"$1,039,547","$3,982.94",1,ML,$204.33,$5.00,$420.88,13.2%
+Top 25 Payer,Median,2021,Biologic,Medicare,11.0,44206043820.0,Privigen,993,144,"$11,742,456",$15.21,777,ML,$191.24,$0.77,$818.59,16.7%
+Top 25 Payer,Median,2021,Biologic,Medicare,12.0,13262681.0,Genotropin,458,55,"$666,050",$690.21,2,EA,$161.71,$4.00,$213.35,7.3%
+Top 25 Payer,Median,2021,Biologic,Medicare,13.0,13533080071.0,Gamunex-C,"1,636",201,"$12,771,498",$12.56,622,ML,$160.55,$1.33,$468.71,15.9%
+Top 25 Payer,Median,2021,Biologic,Medicare,14.0,64208823506.0,Gammaplex,445,87,"$5,874,638",$17.91,737,ML,$149.66,$1.01,$612.84,21.8%
+Top 25 Payer,Median,2021,Biologic,Medicare,15.0,13533080024.0,Gamunex-C,"1,329",198,"$14,034,125",$12.70,831,ML,$124.20,$0.40,$681.34,20.2%
+Top 25 Payer,Median,2021,Biologic,Medicare,16.0,944270005.0,Gammagard,"1,627",245,"$16,589,261",$14.59,699,ML,$116.48,$0.31,$674.03,23.3%
+Top 25 Payer,Median,2021,Biologic,Medicare,17.0,55513073001.0,Xgeva,"3,367",630,"$8,618,007","$1,482.21",2,ML,$88.32,$0.00,$214.12,25.6%
+Top 25 Payer,Median,2021,Biologic,Medicare,18.0,44087004403.0,Rebif,910,102,"$9,093,381","$1,527.53",7,ML,$85.94,$0.69,$631.78,17.6%
+Top 25 Payer,Median,2021,Biologic,Medicare,19.0,944270004.0,Gammagard,"1,734",246,"$12,723,186",$14.54,504,ML,$82.08,$0.44,$560.67,22.4%
+Top 25 Payer,Median,2021,Biologic,Medicare,20.0,64208823505.0,Gammaplex,333,61,"$2,746,828",$17.50,471,ML,$76.48,$0.57,$568.90,24.6%
+Top 25 Payer,Median,2021,Biologic,Medicare,21.0,944270006.0,Gammagard,"1,993",273,"$24,273,582",$14.94,815,ML,$75.88,$0.67,$685.01,17.6%
+Top 25 Payer,Median,2021,Biologic,Medicare,22.0,68982085002.0,Octagam,"1,064",183,"$9,262,456",$16.62,524,ML,$74.14,$0.47,$646.33,21.9%
+Top 25 Payer,Median,2021,Biologic,Medicare,23.0,13533080020.0,Gamunex-C,855,133,"$4,076,168",$12.59,379,ML,$65.37,$1.15,$309.19,20.3%
+Top 25 Payer,Median,2021,Biologic,Medicare,24.0,169770421.0,Norditropin FlexPro,366,56,"$533,455",$470.21,3,ML,$61.81,$6.14,$189.71,7.1%
+Top 25 Payer,Median,2021,Biologic,Medicare,25.0,44206043605.0,Privigen,900,124,"$6,766,181",$14.49,519,ML,$58.52,$0.38,$535.82,22.6%
+Top 25 Payer,Median,2021,Biosimilar,Commercial,1.0,70114010101.0,Udenyca,174,56,"$890,929","$7,150.32",1,ML,$50.00,$26.25,$192.50,23.2%
+Top 25 Payer,Median,2021,Biosimilar,Commercial,2.0,61314086601.0,Ziextenzo,168,52,"$704,858","$5,489.55",1,ML,$45.00,$0.00,$111.28,34.6%
+Top 25 Payer,Median,2021,Biosimilar,Commercial,3.0,69130810.0,Retacrit,772,219,"$285,484",$107.57,3,ML,$35.00,$20.00,$81.90,17.4%
+Top 25 Payer,Median,2021,Biosimilar,Commercial,4.0,69131110.0,Retacrit,152,56,"$105,211",$205.49,3,ML,$30.00,$10.00,$85.40,17.9%
+Top 25 Payer,Median,2021,Biosimilar,Commercial,5.0,67457083306.0,Fulphila,745,218,"$2,296,207","$4,281.17",1,ML,$20.00,$5.00,$91.77,14.2%
+Top 25 Payer,Median,2021,Biosimilar,Commercial,6.0,61314031810.0,Zarxio,"9,586","2,950","$9,731,530",$253.60,4,ML,$20.00,$10.00,$35.00,16.7%
+Top 25 Payer,Median,2021,Biosimilar,Commercial,7.0,61314032601.0,Zarxio,397,240,"$738,767",$301.02,6,ML,$20.00,$5.00,$35.00,21.3%
+Top 25 Payer,Median,2021,Biosimilar,Commercial,8.0,61314031801.0,Zarxio,662,361,"$743,110",$333.37,3,ML,$20.00,$1.50,$35.00,23.3%
+Top 25 Payer,Median,2021,Biosimilar,Commercial,9.0,61314032610.0,Zarxio,"7,421","2,254","$11,410,465",$249.66,6,ML,$20.00,$10.00,$30.00,15.2%
+Top 25 Payer,Median,2021,Biosimilar,Medi-Cal,1.0,49502039475.0,Insulin Glargine-yfgn,67,54,"$6,043",$11.23,8,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biosimilar,Medi-Cal,2.0,67457083306.0,Fulphila,377,94,"$1,594,769","$6,918.74",1,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biosimilar,Medi-Cal,3.0,61314032610.0,Zarxio,88,51,"$319,272",$518.30,7,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biosimilar,Medi-Cal,4.0,61314031810.0,Zarxio,137,79,"$506,722",$483.51,8,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Biosimilar,Medicare,1.0,63459010310.0,Truxima,378,123,"$3,253,327",$86.11,100,ML,$294.06,$0.40,$550.53,17.9%
+Top 25 Payer,Median,2021,Biosimilar,Medicare,2.0,69130904.0,Retacrit,"1,390",359,"$1,779,061",$453.15,3,ML,$47.16,$0.65,$140.45,21.4%
+Top 25 Payer,Median,2021,Biosimilar,Medicare,3.0,69130801.0,Retacrit,172,75,"$64,269",$113.35,3,ML,$45.00,$1.30,$100.00,14.7%
+Top 25 Payer,Median,2021,Biosimilar,Medicare,4.0,70114010101.0,Udenyca,273,87,"$1,271,031","$6,976.02",1,ML,$20.00,$0.26,$215.21,20.7%
+Top 25 Payer,Median,2021,Biosimilar,Medicare,5.0,61314031801.0,Zarxio,"1,187",488,"$1,746,347",$527.60,3,ML,$20.00,$1.30,$203.69,19.5%
+Top 25 Payer,Median,2021,Biosimilar,Medicare,6.0,61314031810.0,Zarxio,"3,307","1,234","$3,584,494",$356.70,3,ML,$20.00,$5.00,$179.63,7.8%
+Top 25 Payer,Median,2021,Biosimilar,Medicare,7.0,61314032610.0,Zarxio,"2,390",870,"$4,861,042",$382.19,5,ML,$20.00,$3.70,$150.00,11.0%
+Top 25 Payer,Median,2021,Biosimilar,Medicare,8.0,61314032601.0,Zarxio,705,281,"$1,665,541",$533.14,4,ML,$15.00,$0.65,$234.88,21.7%
+Top 25 Payer,Median,2021,Biosimilar,Medicare,9.0,67457083306.0,Fulphila,423,140,"$1,705,332","$5,962.70",1,ML,$5.50,$0.65,$263.73,17.9%
+Top 25 Payer,Median,2021,Biosimilar,Medicare,10.0,69131110.0,Retacrit,"1,429",473,"$943,949",$225.59,3,ML,$4.00,$0.65,$100.00,21.8%
+Top 25 Payer,Median,2021,Biosimilar,Medicare,11.0,69130810.0,Retacrit,"6,874","1,827","$2,735,837",$114.12,3,ML,$2.78,$0.43,$96.11,23.4%
+Top 25 Payer,Median,2021,Biosimilar,Medicare,12.0,69080901.0,Inflectra,306,79,"$1,456,896",$969.97,5,EA,$1.30,$0.33,$150.29,19.0%
+Top 25 Payer,Median,2021,Biosimilar,Medicare,13.0,69130710.0,Retacrit,790,184,"$124,675",$45.21,3,ML,$1.30,$0.00,$46.50,39.7%
+Top 25 Payer,Median,2021,Biosimilar,Medicare,14.0,55513020601.0,Mvasi,197,51,"$934,879",$181.18,26,ML,$0.93,$0.00,$302.71,39.2%
+Top 25 Payer,Median,2021,Biosimilar,Medicare,15.0,69130610.0,Retacrit,339,78,"$63,091",$34.69,5,ML,$0.76,$0.00,$13.20,46.2%
+Top 25 Payer,Median,2021,Biosimilar,Medicare,16.0,49502039475.0,Insulin Glargine-yfgn,409,313,"$29,588",$10.95,7,ML,$0.00,$0.00,$0.00,80.8%
+Top 25 Payer,Median,2021,Biosimilar,Medicare,17.0,49502039380.0,Insulin Glargine-yfgn,104,82,"$11,465",$10.82,10,ML,$0.00,$0.00,$0.00,87.8%
+Top 25 Payer,Median,2021,Brand,Commercial,1.0,64406000602.0,Tecfidera,"1,160",252,"$9,548,129",$129.96,63,EA,$250.00,$48.75,"$1,899.66",2.0%
+Top 25 Payer,Median,2021,Brand,Commercial,2.0,64406002003.0,Vumerity,"2,035",315,"$15,385,011",$60.96,124,EA,$250.00,$40.00,$293.48,4.1%
+Top 25 Payer,Median,2021,Brand,Commercial,3.0,299595030.0,Tri-Luma,163,134,"$35,371",$7.23,30,GM,$216.86,$214.43,$224.15,2.2%
+Top 25 Payer,Median,2021,Brand,Commercial,4.0,60842002201.0,Auvi-Q,444,191,"$2,708,444","$2,358.66",3,EA,$200.00,$50.00,$386.67,2.6%
+Top 25 Payer,Median,2021,Brand,Commercial,5.0,61958180101.0,Harvoni,139,53,"$3,633,566",$939.39,28,EA,$200.00,$100.00,$300.00,3.8%
+Top 25 Payer,Median,2021,Brand,Commercial,6.0,60842002101.0,Auvi-Q,"1,733",742,"$9,911,494","$2,319.56",2,EA,$200.00,$50.00,$295.00,2.8%
+Top 25 Payer,Median,2021,Brand,Commercial,7.0,74262528.0,Mavyret,425,184,"$5,319,963",$150.33,83,EA,$200.00,$32.50,$250.00,3.3%
+Top 25 Payer,Median,2021,Brand,Commercial,8.0,66302046760.0,Adcirca,508,62,"$2,059,139",$68.64,59,EA,$194.98,$50.31,$323.95,3.2%
+Top 25 Payer,Median,2021,Brand,Commercial,9.0,70539000102.0,Tymlos,"3,379",595,"$6,969,573","$1,340.83",2,ML,$182.85,$20.71,$274.96,11.9%
+Top 25 Payer,Median,2021,Brand,Commercial,10.0,23485745.0,Vaniqa,72,50,"$12,599",$3.91,45,GM,$181.04,$165.14,$184.78,6.0%
+Top 25 Payer,Median,2021,Brand,Commercial,11.0,50967012630.0,Irospan 24/6,146,68,"$33,977",$6.12,38,EA,$179.77,$44.52,$184.99,1.5%
+Top 25 Payer,Median,2021,Brand,Commercial,12.0,10631012204.0,Ultravate,99,65,"$89,261",$14.88,61,ML,$160.00,$50.00,$250.00,3.1%
+Top 25 Payer,Median,2021,Brand,Commercial,13.0,78064930.0,Gleevec,857,96,"$8,654,184",$322.86,31,EA,$153.13,$28.02,$426.35,6.3%
+Top 25 Payer,Median,2021,Brand,Commercial,14.0,59148008828.0,Jynarque,334,56,"$5,268,100",$280.82,56,EA,$150.53,$50.00,$250.00,3.6%
+Top 25 Payer,Median,2021,Brand,Commercial,15.0,68546032512.0,Copaxone,"4,894",526,"$27,819,494",$443.13,13,ML,$150.00,$20.00,$361.39,3.6%
+Top 25 Payer,Median,2021,Brand,Commercial,16.0,58468021104.0,Aubagio,339,60,"$2,821,590",$257.51,32,EA,$150.00,$50.00,$253.93,6.7%
+Top 25 Payer,Median,2021,Brand,Commercial,17.0,69050130.0,Xeljanz XR,"11,872","1,662","$57,257,352",$152.92,32,EA,$150.00,$25.00,$250.00,5.5%
+Top 25 Payer,Median,2021,Brand,Commercial,18.0,61958220101.0,Epclusa,"3,394","1,262","$45,115,996",$458.82,29,EA,$150.00,$30.00,$250.00,3.9%
+Top 25 Payer,Median,2021,Brand,Commercial,19.0,59148008728.0,Jynarque,"1,417",184,"$22,194,236",$281.42,56,EA,$150.00,$48.75,$250.00,1.6%
+Top 25 Payer,Median,2021,Brand,Commercial,20.0,64011030103.0,Makena,542,163,"$1,596,690",$686.16,4,ML,$150.00,$33.57,$250.00,3.1%
+Top 25 Payer,Median,2021,Brand,Commercial,21.0,74230630.0,Rinvoq,"7,300","1,170","$38,175,987",$167.89,31,EA,$134.88,$20.00,$250.00,8.2%
+Top 25 Payer,Median,2021,Brand,Commercial,22.0,68727015001.0,Xywav,"1,168",184,"$16,315,039",$29.35,476,ML,$134.44,$45.00,$250.00,6.0%
+Top 25 Payer,Median,2021,Brand,Commercial,23.0,50242014001.0,Erivedge,288,52,"$2,644,859",$417.30,22,EA,$130.68,$30.00,$210.94,7.7%
+Top 25 Payer,Median,2021,Brand,Commercial,24.0,169451714.0,Wegovy,888,458,"$1,176,227",$429.19,3,ML,$120.19,$30.00,$250.00,10.0%
+Top 25 Payer,Median,2021,Brand,Commercial,25.0,69639012001.0,Valchlor,284,63,"$1,547,065",$82.91,66,GM,$119.80,$25.00,$250.00,3.2%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,1.0,59385002660.0,Belbuca,463,101,"$397,045",$14.33,60,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,2.0,904646420.0,Robafen DM Cgh/Chest Congest,574,534,"$8,163",$0.08,182,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,3.0,61958210101.0,Odefsey,"13,312","1,754","$48,734,174",$98.71,37,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,4.0,47781030801.0,Nitrofurantoin Macrocrystal,579,500,"$13,587",$1.13,21,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,5.0,59148000813.0,Abilify,814,178,"$352,322",$10.54,41,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,6.0,65757040403.0,Aristada,"2,871",771,"$9,506,606",$849.62,4,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,7.0,59148003913.0,Rexulti,"2,215",445,"$2,806,446",$40.47,31,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,8.0,310027110.0,SEROquel,257,62,"$52,528",$2.69,76,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,9.0,52246092904.0,Natroba,74,58,"$20,466",$2.30,120,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,10.0,65702040810.0,Accu-Chek Aviva Plus,"2,189",826,"$322,701",$1.19,123,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,11.0,69238183107.0,Levothyroxine Sodium,"3,315","1,026","$66,738",$0.43,46,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,12.0,591554301.0,Allopurinol,192,130,"$2,854",$0.23,64,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,13.0,98302000139.0,Clever Choice Holding Chamber,63,60,"$2,505",$38.54,1,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,14.0,98302000160.0,Pharmacist Choice Lancets,"1,341",478,"$19,288",$0.14,105,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,15.0,98302014071.0,Pharmacist Choice Lancets,120,61,"$1,730",$0.13,108,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,16.0,81131013838.0,ReliOn Insulin Syringe,190,101,"$5,819",$0.30,101,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,17.0,8317236132.0,TechLite Pen Needles,368,244,"$6,188",$0.18,94,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,18.0,56151014260.0,TRUEplus Lancets 28G,"16,710","7,482","$248,544",$0.13,112,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,19.0,53436008430.0,Veltassa,272,79,"$289,382",$30.53,35,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,20.0,338008904.0,Dextrose-NaCl,82,54,"$2,309",$0.01,"3,714",GM,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,21.0,187526701.0,Magonate,361,74,"$8,923",$0.05,518,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,22.0,63323082010.0,SMOFlipid,978,50,"$85,062",$0.07,"1,205",ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,23.0,78094625.0,Travatan Z,141,58,"$56,791",$78.33,5,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,24.0,64597030160.0,Nuedexta,490,71,"$613,447",$21.74,58,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medi-Cal,25.0,49281042010.0,Fluzone Quadrivalent,140,140,"$3,990",$57.00,1,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Brand,Medicare,1.0,59676036001.0,OrthoVisc,90,82,"$177,659",$235.62,8,ML,"$1,614.09",$350.93,"$1,695.67",8.5%
+Top 25 Payer,Median,2021,Brand,Medicare,2.0,469142590.0,Xospata,256,71,"$5,788,662",$282.70,80,EA,"$1,153.51",$7.60,"$1,341.79",15.5%
+Top 25 Payer,Median,2021,Brand,Medicare,3.0,58468009003.0,Synvisc One,131,120,"$251,368",$231.46,8,ML,$935.94,$467.97,"$1,619.64",0.8%
+Top 25 Payer,Median,2021,Brand,Medicare,4.0,59572050200.0,Pomalyst,333,88,"$6,381,963",$960.56,20,EA,$928.49,$1.85,"$1,049.25",19.3%
+Top 25 Payer,Median,2021,Brand,Medicare,5.0,59572050400.0,Pomalyst,255,61,"$4,861,878",$947.92,20,EA,$914.89,$0.00,"$1,167.91",26.2%
+Top 25 Payer,Median,2021,Brand,Medicare,6.0,76346007302.0,Korlym,255,57,"$9,029,513",$554.09,64,EA,$851.40,$0.00,"$1,702.80",35.1%
+Top 25 Payer,Median,2021,Brand,Medicare,7.0,59572072012.0,Inrebic,473,72,"$8,957,948",$188.74,100,EA,$819.53,$7.90,"$1,208.07",15.3%
+Top 25 Payer,Median,2021,Brand,Medicare,8.0,89130444401.0,Supartz FX,58,53,"$58,523",$94.77,11,ML,$818.22,$303.33,"$1,472.16",0.0%
+Top 25 Payer,Median,2021,Brand,Medicare,9.0,59572050321.0,Pomalyst,"1,736",361,"$33,987,246",$953.47,21,EA,$753.06,$9.24,"$1,078.33",13.6%
+Top 25 Payer,Median,2021,Brand,Medicare,10.0,59572041028.0,Revlimid,"7,035","1,115","$129,885,878",$835.10,22,EA,$727.39,$3.87,"$1,117.31",13.9%
+Top 25 Payer,Median,2021,Brand,Medicare,11.0,57962028028.0,Imbruvica,"2,149",334,"$30,841,945",$505.90,28,EA,$696.86,$7.66,$908.45,15.6%
+Top 25 Payer,Median,2021,Brand,Medicare,12.0,57962042028.0,Imbruvica,"11,902","1,563","$171,819,718",$509.06,28,EA,$696.85,$13.88,$931.10,6.2%
+Top 25 Payer,Median,2021,Brand,Medicare,13.0,71558059028.0,Arikayce,739,164,"$9,202,236",$52.58,237,ML,$658.11,$30.00,"$1,124.27",9.1%
+Top 25 Payer,Median,2021,Brand,Medicare,14.0,59572040528.0,Revlimid,"4,393",678,"$81,162,739",$833.81,22,EA,$652.89,$9.35,"$1,141.53",13.4%
+Top 25 Payer,Median,2021,Brand,Medicare,15.0,89130202001.0,Durolane,97,88,"$120,647",$316.66,4,ML,$596.70,$298.35,"$1,153.68",1.1%
+Top 25 Payer,Median,2021,Brand,Medicare,16.0,58468009001.0,Synvisc,83,75,"$172,133",$235.15,9,ML,$583.64,$467.97,$935.94,0.0%
+Top 25 Payer,Median,2021,Brand,Medicare,17.0,50881001560.0,Jakafi,"1,423",239,"$20,484,850",$256.80,56,EA,$540.02,$12.00,$870.05,11.3%
+Top 25 Payer,Median,2021,Brand,Medicare,18.0,63020008002.0,Ninlaro,210,124,"$2,353,586","$3,700.61",3,EA,$526.37,$10.87,"$1,319.17",12.1%
+Top 25 Payer,Median,2021,Brand,Medicare,19.0,50881000560.0,Jakafi,"3,064",502,"$48,526,202",$254.47,62,EA,$524.45,$2.10,$947.98,14.7%
+Top 25 Payer,Median,2021,Brand,Medicare,20.0,310051260.0,Calquence,"4,757",844,"$65,400,239",$239.29,57,EA,$495.92,$12.00,$939.08,8.4%
+Top 25 Payer,Median,2021,Brand,Medicare,21.0,59676060012.0,Erleada,"5,283",860,"$69,305,853",$110.79,118,EA,$459.83,$2.52,$885.05,12.9%
+Top 25 Payer,Median,2021,Brand,Medicare,22.0,70255001002.0,Mektovi,508,112,"$6,122,844",$72.21,167,EA,$445.88,$10.75,$679.62,17.0%
+Top 25 Payer,Median,2021,Brand,Medicare,23.0,89130311101.0,Gelsyn-3,70,64,"$95,519",$164.12,8,ML,$441.09,$316.71,$633.42,1.6%
+Top 25 Payer,Median,2021,Brand,Medicare,24.0,50881001060.0,Jakafi,"4,630",742,"$65,344,433",$256.15,55,EA,$413.26,$4.00,$938.79,12.1%
+Top 25 Payer,Median,2021,Brand,Medicare,25.0,64842072709.0,Inqovi,571,153,"$4,465,339","$1,565.14",5,EA,$399.82,$3.73,$957.73,14.4%
+Top 25 Payer,Median,2021,Generic,Commercial,1.0,93333406.0,Alyq,474,141,"$1,543,695",$58.12,56,EA,$187.50,$30.00,$250.00,2.8%
+Top 25 Payer,Median,2021,Generic,Commercial,2.0,70710118003.0,Ambrisentan,525,97,"$4,203,503",$267.28,30,EA,$178.57,$30.00,$250.00,1.0%
+Top 25 Payer,Median,2021,Generic,Commercial,3.0,55150030901.0,HYDROXYprogesterone Caproate,161,50,"$509,569",$797.45,4,ML,$150.00,$11.25,$287.50,0.0%
+Top 25 Payer,Median,2021,Generic,Commercial,4.0,24338002610.0,Evekeo,266,64,"$136,292",$6.71,76,EA,$97.50,$57.50,$226.25,0.0%
+Top 25 Payer,Median,2021,Generic,Commercial,5.0,24979014136.0,Hydroquinone,262,239,"$23,733",$3.13,29,GM,$93.37,$85.66,$93.37,0.0%
+Top 25 Payer,Median,2021,Generic,Commercial,6.0,69367017401.0,Hydroquinone,705,613,"$58,549",$2.82,29,GM,$93.37,$85.66,$93.37,0.5%
+Top 25 Payer,Median,2021,Generic,Commercial,7.0,42192015101.0,Hydroquinone,383,290,"$28,909",$2.59,29,GM,$85.66,$61.23,$93.37,0.3%
+Top 25 Payer,Median,2021,Generic,Commercial,8.0,51991080990.0,L-Methylfolate,153,60,"$14,824",$2.24,43,EA,$70.45,$44.79,$81.28,1.7%
+Top 25 Payer,Median,2021,Generic,Commercial,9.0,57844012001.0,Adderall,"1,293",299,"$679,988",$7.67,69,EA,$70.00,$25.23,$237.78,2.3%
+Top 25 Payer,Median,2021,Generic,Commercial,10.0,47335089272.0,Temozolomide,112,60,"$86,859",$54.63,14,EA,$63.07,$10.00,$134.53,15.0%
+Top 25 Payer,Median,2021,Generic,Commercial,11.0,51862029043.0,Triamcinolone Acetonide,89,63,"$54,948",$1.42,435,GM,$60.00,$12.50,$277.50,6.3%
+Top 25 Payer,Median,2021,Generic,Commercial,12.0,57844013001.0,Adderall,641,131,"$271,246",$7.79,54,EA,$60.00,$25.00,$201.72,5.3%
+Top 25 Payer,Median,2021,Generic,Commercial,13.0,51862069010.0,Tavaborole,234,80,"$200,871",$85.84,10,ML,$60.00,$15.00,$91.25,1.3%
+Top 25 Payer,Median,2021,Generic,Commercial,14.0,70700027130.0,Deferasirox,332,50,"$3,073,131",$128.36,72,EA,$59.20,$11.56,$148.56,12.0%
+Top 25 Payer,Median,2021,Generic,Commercial,15.0,60505432701.0,Abiraterone Acetate,448,73,"$1,351,387",$29.08,104,EA,$56.22,$35.00,$150.00,6.8%
+Top 25 Payer,Median,2021,Generic,Commercial,16.0,57844011001.0,Adderall,"1,019",255,"$526,537",$7.72,67,EA,$55.00,$24.39,$235.42,0.8%
+Top 25 Payer,Median,2021,Generic,Commercial,17.0,60505394703.0,Adefovir Dipivoxil,389,52,"$285,417",$19.70,37,EA,$53.50,$9.64,$126.70,0.0%
+Top 25 Payer,Median,2021,Generic,Commercial,18.0,52187052710.0,Salicylic Acid Wart Remover,82,51,"$25,928",$12.28,26,ML,$51.12,$15.00,$255.48,2.0%
+Top 25 Payer,Median,2021,Generic,Commercial,19.0,72143022130.0,Minocycline HCl ER,131,52,"$60,530",$15.40,30,EA,$50.00,$50.00,$234.75,0.0%
+Top 25 Payer,Median,2021,Generic,Commercial,20.0,72143022230.0,Minocycline HCl ER,360,149,"$164,899",$15.23,30,EA,$50.00,$50.00,$100.00,2.0%
+Top 25 Payer,Median,2021,Generic,Commercial,21.0,68308068550.0,Tazarotene,126,78,"$72,516",$10.74,54,GM,$50.00,$45.00,$93.75,5.1%
+Top 25 Payer,Median,2021,Generic,Commercial,22.0,50265019830.0,Prena1 Pearl,"2,753",607,"$253,975",$2.96,31,EA,$50.00,$25.00,$80.00,2.6%
+Top 25 Payer,Median,2021,Generic,Commercial,23.0,38779086905.0,Estradiol Micronized,456,82,"$32,255",$2.37,30,GM,$50.00,$42.63,$64.80,0.0%
+Top 25 Payer,Median,2021,Generic,Commercial,24.0,38779004303.0,Progesterone Micronized,264,112,"$19,791",$2.34,32,GM,$50.00,$42.48,$56.00,2.7%
+Top 25 Payer,Median,2021,Generic,Commercial,25.0,38779016305.0,Testosterone Micronized,409,93,"$25,628",$2.37,26,GM,$50.00,$38.75,$52.50,0.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,1.0,42858061001.0,Amphetamine-Dextroamphet ER,166,71,"$5,653",$1.09,31,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,2.0,60505392901.0,guanFACINE HCl ER,695,154,"$15,150",$0.69,32,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,3.0,406324301.0,HYDROmorphone HCl,712,406,"$10,617",$0.31,48,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,4.0,16714001930.0,Budesonide,164,81,"$17,975",$0.89,123,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,5.0,76204030003.0,Sodium Chloride,270,87,"$11,264",$0.08,509,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,6.0,65862001501.0,Amoxicillin,82,77,"$1,132",$0.72,19,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,7.0,72205002499.0,Atorvastatin Calcium,164,134,"$3,281",$0.39,52,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,8.0,16729043316.0,Ezetimibe,125,56,"$2,499",$0.39,52,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,9.0,68645045790.0,Enalapril Maleate,236,88,"$6,356",$0.31,88,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,10.0,51672404003.0,Enalapril Maleate,"1,146",432,"$29,175",$0.30,85,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,11.0,378104901.0,Doxepin HCl,157,73,"$3,490",$0.57,39,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,12.0,50111064802.0,FLUoxetine HCl,273,143,"$3,704",$0.18,75,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,13.0,13668021830.0,ARIPiprazole,"10,292","3,254","$182,777",$0.53,33,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,14.0,60505327703.0,OLANZapine,"1,714",432,"$84,594",$1.18,42,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,15.0,27241000450.0,risperiDONE,"14,078","2,841","$211,675",$0.32,47,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,16.0,70010049105.0,metFORMIN HCl ER,"1,961",934,"$30,249",$0.14,113,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,17.0,59762005601.0,medroxyPROGESTERone Acetate,822,590,"$13,219",$0.57,28,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,18.0,378180577.0,Levothyroxine Sodium,370,183,"$8,493",$0.48,47,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,19.0,527328046.0,Levothyroxine Sodium,145,72,"$3,076",$0.46,46,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,20.0,378180710.0,Levothyroxine Sodium,"1,955",664,"$45,509",$0.43,54,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,21.0,31722057310.0,Esomeprazole Magnesium,256,95,"$5,931",$0.47,50,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,22.0,72606050902.0,Famotidine,685,594,"$9,548",$0.24,59,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,23.0,31722071290.0,Pantoprazole Sodium,359,176,"$5,126",$0.30,47,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,24.0,51293081101.0,Phenazopyridine HCl,465,447,"$8,195",$2.01,9,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medi-Cal,25.0,80681017000.0,Vitamin D3,"1,280",405,"$16,604",$0.27,47,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,Generic,Medicare,1.0,57894015512.0,Abiraterone Acetate,152,58,"$668,309",$38.90,113,EA,$313.70,$7.50,$739.16,12.1%
+Top 25 Payer,Median,2021,Generic,Medicare,2.0,69238175406.0,Abiraterone Acetate,"1,182",278,"$9,746,703",$136.82,60,EA,$287.31,$0.54,$652.70,19.8%
+Top 25 Payer,Median,2021,Generic,Medicare,3.0,64980041812.0,Abiraterone Acetate,912,235,"$3,805,795",$35.36,118,EA,$246.26,$62.00,$807.20,5.5%
+Top 25 Payer,Median,2021,Generic,Medicare,4.0,527280332.0,Vardenafil HCl,229,125,"$44,806",$28.07,7,EA,$197.57,$10.00,$239.38,5.6%
+Top 25 Payer,Median,2021,Generic,Medicare,5.0,378163191.0,Formoterol Fumarate,167,78,"$172,274",$7.23,143,ML,$168.54,$0.00,$842.57,41.0%
+Top 25 Payer,Median,2021,Generic,Medicare,6.0,378692191.0,Abiraterone Acetate,"1,224",365,"$9,870,051",$134.87,60,EA,$136.76,$0.65,$484.60,20.5%
+Top 25 Payer,Median,2021,Generic,Medicare,7.0,16714046801.0,Capecitabine,675,222,"$606,563",$12.39,73,EA,$132.94,$74.92,$261.32,11.7%
+Top 25 Payer,Median,2021,Generic,Medicare,8.0,59651020508.0,Capecitabine,261,93,"$208,379",$10.33,77,EA,$122.64,$54.43,$186.77,15.1%
+Top 25 Payer,Median,2021,Generic,Medicare,9.0,93406106.0,Formoterol Fumarate,147,62,"$125,608",$7.36,116,ML,$116.83,$0.00,$507.76,37.1%
+Top 25 Payer,Median,2021,Generic,Medicare,10.0,72205000792.0,Capecitabine,477,156,"$425,033",$11.61,77,EA,$116.61,$41.12,$211.22,11.5%
+Top 25 Payer,Median,2021,Generic,Medicare,11.0,67877045912.0,Capecitabine,223,70,"$170,938",$11.37,67,EA,$113.70,$45.67,$202.20,14.3%
+Top 25 Payer,Median,2021,Generic,Medicare,12.0,64679002101.0,Abiraterone Acetate,259,122,"$612,723",$19.80,119,EA,$112.27,$5.00,$217.83,13.1%
+Top 25 Payer,Median,2021,Generic,Medicare,13.0,16714096301.0,Abiraterone Acetate,448,132,"$991,806",$19.17,116,EA,$101.97,$3.70,$168.45,8.3%
+Top 25 Payer,Median,2021,Generic,Medicare,14.0,781751787.0,Budesonide,93,51,"$56,976",$5.62,109,ML,$100.86,$44.02,$362.98,13.7%
+Top 25 Payer,Median,2021,Generic,Medicare,15.0,713050312.0,Anucort-HC,399,285,"$62,352",$6.97,22,EA,$98.92,$33.86,$146.59,1.4%
+Top 25 Payer,Median,2021,Generic,Medicare,16.0,45802047264.0,Hydrocort-Pramoxine (Perianal),351,195,"$52,635",$4.35,34,GM,$98.21,$7.00,$135.96,0.0%
+Top 25 Payer,Median,2021,Generic,Medicare,17.0,69238116507.0,Abiraterone Acetate,"1,114",201,"$1,412,121",$10.75,118,EA,$97.09,$1.30,$183.37,8.0%
+Top 25 Payer,Median,2021,Generic,Medicare,18.0,781620675.0,Bimatoprost,141,107,"$15,048",$20.59,5,ML,$95.62,$47.81,$95.62,0.0%
+Top 25 Payer,Median,2021,Generic,Medicare,19.0,33342015407.0,Vardenafil HCl,202,82,"$41,808",$30.08,7,EA,$93.42,$6.25,$233.04,19.5%
+Top 25 Payer,Median,2021,Generic,Medicare,20.0,713050324.0,Anucort-HC,975,715,"$157,313",$7.37,22,EA,$91.61,$17.86,$146.59,7.6%
+Top 25 Payer,Median,2021,Generic,Medicare,21.0,62756023920.0,Capecitabine,198,74,"$139,234",$8.74,80,EA,$87.98,$35.40,$159.97,12.2%
+Top 25 Payer,Median,2021,Generic,Medicare,22.0,378692078.0,Abiraterone Acetate,326,81,"$1,383,765",$36.01,118,EA,$85.60,$1.30,$533.23,12.3%
+Top 25 Payer,Median,2021,Generic,Medicare,23.0,69367024324.0,Hydrocortisone Acetate,92,74,"$12,337",$5.46,25,EA,$79.29,$51.10,$134.92,5.4%
+Top 25 Payer,Median,2021,Generic,Medicare,24.0,62332051105.0,Bimatoprost,128,94,"$14,496",$21.80,5,ML,$78.16,$32.50,$97.51,1.1%
+Top 25 Payer,Median,2021,Generic,Medicare,25.0,44523061707.0,Urea,103,68,"$15,635",$0.69,220,GM,$77.57,$5.00,$175.74,10.3%
+Top 25 Payer,Median,2021,All,Commercial,1.0,64406000602.0,Tecfidera,"1,160",252,"$9,548,129",$129.96,63,EA,$250.00,$48.75,"$1,899.66",2.0%
+Top 25 Payer,Median,2021,All,Commercial,2.0,2814901.0,Humatrope,609,77,"$5,216,046","$3,239.78",3,EA,$250.00,$50.00,$319.90,1.3%
+Top 25 Payer,Median,2021,All,Commercial,3.0,50242007601.0,Nutropin AQ NuSpin 20,"3,043",336,"$21,656,998","$1,225.22",6,ML,$250.00,$85.62,$293.53,3.6%
+Top 25 Payer,Median,2021,All,Commercial,4.0,64406002003.0,Vumerity,"2,035",315,"$15,385,011",$60.96,124,EA,$250.00,$40.00,$293.48,4.1%
+Top 25 Payer,Median,2021,All,Commercial,5.0,2144509.0,Taltz,281,188,"$4,142,101","$5,515.45",3,ML,$250.00,$50.00,$250.00,5.9%
+Top 25 Payer,Median,2021,All,Commercial,6.0,2144527.0,Taltz,521,257,"$5,532,414","$5,571.41",2,ML,$250.00,$50.00,$250.00,10.5%
+Top 25 Payer,Median,2021,All,Commercial,7.0,50242007401.0,Nutropin AQ NuSpin 10,"5,803",622,"$24,656,985",$610.22,7,ML,$237.14,$86.39,$271.43,2.4%
+Top 25 Payer,Median,2021,All,Commercial,8.0,2772411.0,Taltz,810,117,"$5,325,667","$5,423.29",1,ML,$220.00,$45.00,$250.00,8.5%
+Top 25 Payer,Median,2021,All,Commercial,9.0,44087000607.0,Serostim,667,69,"$11,557,071",$582.10,30,EA,$219.82,$113.64,$250.00,5.8%
+Top 25 Payer,Median,2021,All,Commercial,10.0,299595030.0,Tri-Luma,163,134,"$35,371",$7.23,30,GM,$216.86,$214.43,$224.15,2.2%
+Top 25 Payer,Median,2021,All,Commercial,11.0,187000402.0,Siliq,484,54,"$1,934,642","$1,292.35",3,ML,$206.87,$50.00,$267.66,0.0%
+Top 25 Payer,Median,2021,All,Commercial,12.0,60842002201.0,Auvi-Q,444,191,"$2,708,444","$2,358.66",3,EA,$200.00,$50.00,$386.67,2.6%
+Top 25 Payer,Median,2021,All,Commercial,13.0,61958180101.0,Harvoni,139,53,"$3,633,566",$939.39,28,EA,$200.00,$100.00,$300.00,3.8%
+Top 25 Payer,Median,2021,All,Commercial,14.0,60842002101.0,Auvi-Q,"1,733",742,"$9,911,494","$2,319.56",2,EA,$200.00,$50.00,$295.00,2.8%
+Top 25 Payer,Median,2021,All,Commercial,15.0,74262528.0,Mavyret,425,184,"$5,319,963",$150.33,83,EA,$200.00,$32.50,$250.00,3.3%
+Top 25 Payer,Median,2021,All,Commercial,16.0,44087900506.0,Gonal-f RFF,190,76,"$269,227",$119.29,12,EA,$196.63,$20.00,$546.02,1.3%
+Top 25 Payer,Median,2021,All,Commercial,17.0,66302046760.0,Adcirca,508,62,"$2,059,139",$68.64,59,EA,$194.98,$50.31,$323.95,3.2%
+Top 25 Payer,Median,2021,All,Commercial,18.0,93333406.0,Alyq,474,141,"$1,543,695",$58.12,56,EA,$187.50,$30.00,$250.00,2.8%
+Top 25 Payer,Median,2021,All,Commercial,19.0,70539000102.0,Tymlos,"3,379",595,"$6,969,573","$1,340.83",2,ML,$182.85,$20.71,$274.96,11.9%
+Top 25 Payer,Median,2021,All,Commercial,20.0,23485745.0,Vaniqa,72,50,"$12,599",$3.91,45,GM,$181.04,$165.14,$184.78,6.0%
+Top 25 Payer,Median,2021,All,Commercial,21.0,50967012630.0,Irospan 24/6,146,68,"$33,977",$6.12,38,EA,$179.77,$44.52,$184.99,1.5%
+Top 25 Payer,Median,2021,All,Commercial,22.0,70710118003.0,Ambrisentan,525,97,"$4,203,503",$267.28,30,EA,$178.57,$30.00,$250.00,1.0%
+Top 25 Payer,Median,2021,All,Commercial,23.0,49281091501.0,YF-VAX,65,65,"$11,068",$170.28,1,EA,$173.54,$173.54,$173.54,7.7%
+Top 25 Payer,Median,2021,All,Commercial,24.0,10631012204.0,Ultravate,99,65,"$89,261",$14.88,61,ML,$160.00,$50.00,$250.00,3.1%
+Top 25 Payer,Median,2021,All,Commercial,25.0,78064930.0,Gleevec,857,96,"$8,654,184",$322.86,31,EA,$153.13,$28.02,$426.35,6.3%
+Top 25 Payer,Median,2021,All,Medi-Cal,1.0,13107001901.0,HYDROcodone-Acetaminophen,851,658,"$12,346",$0.55,26,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,2.0,65757030001.0,Vivitrol,"18,834","5,075","$26,553,681","$1,394.11",1,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,3.0,173069600.0,Advair Diskus,"5,150","1,950","$2,326,749",$6.51,69,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,4.0,536118399.0,Fluticasone Propionate,647,468,"$12,559",$1.89,10,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,5.0,42571025201.0,Clindamycin HCl,742,670,"$14,706",$0.68,29,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,6.0,42571017390.0,Atorvastatin Calcium,139,123,"$2,118",$0.24,63,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,7.0,55111022990.0,Pravastatin Sodium,139,70,"$2,228",$0.32,50,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,8.0,65862005199.0,Simvastatin,415,131,"$5,114",$0.17,72,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,9.0,228212750.0,cloNIDine HCl,"7,541","2,201","$94,155",$0.20,61,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,10.0,68180051701.0,Lisinopril,746,467,"$11,274",$0.23,67,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,11.0,31722082030.0,ARIPiprazole,"15,622","4,825","$274,611",$0.49,36,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,12.0,16729027801.0,ARIPiprazole,170,67,"$3,046",$0.46,39,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,13.0,70954027510.0,fluPHENAZine HCl,255,90,"$57,108",$3.45,65,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,14.0,50458056301.0,Invega Sustenna,"23,218","4,999","$45,048,011","$1,933.54",1,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,15.0,68001018008.0,QUEtiapine Fumarate,"2,148",731,"$30,429",$0.29,48,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,16.0,68001018306.0,QUEtiapine Fumarate,"1,049",303,"$19,832",$0.45,42,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,17.0,310621030.0,Farxiga,"2,436",871,"$1,945,986",$17.34,46,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,18.0,33342005510.0,Pioglitazone HCl,312,177,"$6,695",$0.34,62,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,19.0,54981729.0,predniSONE,159,110,"$2,321",$0.37,40,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,20.0,42192080101.0,Phenazopyridine HCl,231,202,"$3,888",$1.05,16,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,21.0,59467031801.0,Mitigare,191,72,"$74,465",$6.22,63,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,22.0,51672402701.0,Warfarin Sodium,568,186,"$10,878",$0.25,76,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,23.0,11112003052.0,Kate Farms Ped Peptide 1.0,274,63,"$221,089",$0.03,"26,979",ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,24.0,70461032103.0,Flucelvax Quadrivalent,"4,565","4,562","$171,069",$74.84,1,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medi-Cal,25.0,781707787.0,metroNIDAZOLE,"1,488","1,362","$106,356",$1.01,71,GM,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2021,All,Medicare,1.0,59676036001.0,OrthoVisc,90,82,"$177,659",$235.62,8,ML,"$1,614.09",$350.93,"$1,695.67",8.5%
+Top 25 Payer,Median,2021,All,Medicare,2.0,71981002007.0,Oxervate,766,212,"$22,172,848","$1,785.40",16,ML,"$1,219.24",$2.00,"$1,783.17",15.1%
+Top 25 Payer,Median,2021,All,Medicare,3.0,469142590.0,Xospata,256,71,"$5,788,662",$282.70,80,EA,"$1,153.51",$7.60,"$1,341.79",15.5%
+Top 25 Payer,Median,2021,All,Medicare,4.0,57894006002.0,Stelara,120,59,"$2,785,558","$23,910.37",1,ML,"$1,152.73",$32.27,"$1,435.53",11.9%
+Top 25 Payer,Median,2021,All,Medicare,5.0,66887000301.0,Xiaflex,431,287,"$3,884,405","$5,387.52",2,EA,"$1,120.05",$67.50,"$1,786.68",3.8%
+Top 25 Payer,Median,2021,All,Medicare,6.0,58468009003.0,Synvisc One,131,120,"$251,368",$231.46,8,ML,$935.94,$467.97,"$1,619.64",0.8%
+Top 25 Payer,Median,2021,All,Medicare,7.0,59572050200.0,Pomalyst,333,88,"$6,381,963",$960.56,20,EA,$928.49,$1.85,"$1,049.25",19.3%
+Top 25 Payer,Median,2021,All,Medicare,8.0,59572050400.0,Pomalyst,255,61,"$4,861,878",$947.92,20,EA,$914.89,$0.00,"$1,167.91",26.2%
+Top 25 Payer,Median,2021,All,Medicare,9.0,76346007302.0,Korlym,255,57,"$9,029,513",$554.09,64,EA,$851.40,$0.00,"$1,702.80",35.1%
+Top 25 Payer,Median,2021,All,Medicare,10.0,59572072012.0,Inrebic,473,72,"$8,957,948",$188.74,100,EA,$819.53,$7.90,"$1,208.07",15.3%
+Top 25 Payer,Median,2021,All,Medicare,11.0,89130444401.0,Supartz FX,58,53,"$58,523",$94.77,11,ML,$818.22,$303.33,"$1,472.16",0.0%
+Top 25 Payer,Median,2021,All,Medicare,12.0,59572050321.0,Pomalyst,"1,736",361,"$33,987,246",$953.47,21,EA,$753.06,$9.24,"$1,078.33",13.6%
+Top 25 Payer,Median,2021,All,Medicare,13.0,59572041028.0,Revlimid,"7,035","1,115","$129,885,878",$835.10,22,EA,$727.39,$3.87,"$1,117.31",13.9%
+Top 25 Payer,Median,2021,All,Medicare,14.0,57962028028.0,Imbruvica,"2,149",334,"$30,841,945",$505.90,28,EA,$696.86,$7.66,$908.45,15.6%
+Top 25 Payer,Median,2021,All,Medicare,15.0,57962042028.0,Imbruvica,"11,902","1,563","$171,819,718",$509.06,28,EA,$696.85,$13.88,$931.10,6.2%
+Top 25 Payer,Median,2021,All,Medicare,16.0,71558059028.0,Arikayce,739,164,"$9,202,236",$52.58,237,ML,$658.11,$30.00,"$1,124.27",9.1%
+Top 25 Payer,Median,2021,All,Medicare,17.0,59572040528.0,Revlimid,"4,393",678,"$81,162,739",$833.81,22,EA,$652.89,$9.35,"$1,141.53",13.4%
+Top 25 Payer,Median,2021,All,Medicare,18.0,89130202001.0,Durolane,97,88,"$120,647",$316.66,4,ML,$596.70,$298.35,"$1,153.68",1.1%
+Top 25 Payer,Median,2021,All,Medicare,19.0,58468009001.0,Synvisc,83,75,"$172,133",$235.15,9,ML,$583.64,$467.97,$935.94,0.0%
+Top 25 Payer,Median,2021,All,Medicare,20.0,50881001560.0,Jakafi,"1,423",239,"$20,484,850",$256.80,56,EA,$540.02,$12.00,$870.05,11.3%
+Top 25 Payer,Median,2021,All,Medicare,21.0,63020008002.0,Ninlaro,210,124,"$2,353,586","$3,700.61",3,EA,$526.37,$10.87,"$1,319.17",12.1%
+Top 25 Payer,Median,2021,All,Medicare,22.0,50881000560.0,Jakafi,"3,064",502,"$48,526,202",$254.47,62,EA,$524.45,$2.10,$947.98,14.7%
+Top 25 Payer,Median,2021,All,Medicare,23.0,310051260.0,Calquence,"4,757",844,"$65,400,239",$239.29,57,EA,$495.92,$12.00,$939.08,8.4%
+Top 25 Payer,Median,2021,All,Medicare,24.0,59676060012.0,Erleada,"5,283",860,"$69,305,853",$110.79,118,EA,$459.83,$2.52,$885.05,12.9%
+Top 25 Payer,Median,2021,All,Medicare,25.0,70255001002.0,Mektovi,508,112,"$6,122,844",$72.21,167,EA,$445.88,$10.75,$679.62,17.0%
+Top 25 Payer,Median,2022,Biologic,Commercial,1.0,50242007601.0,Nutropin AQ NuSpin 20,"2,851",329,"$20,934,271","$1,227.31",6,ML,$250.00,$130.00,$305.77,2.7%
+Top 25 Payer,Median,2022,Biologic,Commercial,2.0,74153903.0,Humira-Psoriasis/Uveit Starter,339,277,"$3,998,494","$3,904.78",3,EA,$250.00,$45.00,$250.00,6.5%
+Top 25 Payer,Median,2022,Biologic,Commercial,3.0,2144527.0,Taltz,799,379,"$8,952,619","$5,862.88",2,ML,$250.00,$100.00,$250.00,6.9%
+Top 25 Payer,Median,2022,Biologic,Commercial,4.0,2144509.0,Taltz,420,267,"$6,608,260","$5,766.37",3,ML,$250.00,$100.00,$250.00,4.1%
+Top 25 Payer,Median,2022,Biologic,Commercial,5.0,44087000607.0,Serostim,727,71,"$12,991,535",$615.36,29,EA,$250.00,$83.33,$250.00,2.8%
+Top 25 Payer,Median,2022,Biologic,Commercial,6.0,50242007401.0,Nutropin AQ NuSpin 10,"5,485",608,"$22,826,629",$611.89,7,ML,$244.78,$82.03,$258.33,1.5%
+Top 25 Payer,Median,2022,Biologic,Commercial,7.0,2772411.0,Taltz,994,141,"$6,600,038","$5,714.32",1,ML,$200.00,$45.00,$333.33,9.2%
+Top 25 Payer,Median,2022,Biologic,Commercial,8.0,49281091501.0,YF-VAX,243,243,"$43,429",$178.72,1,EA,$182.05,$173.83,$182.05,12.3%
+Top 25 Payer,Median,2022,Biologic,Commercial,9.0,74012403.0,Humira-CD/UC/HS Starter,936,667,"$16,854,762","$5,887.10",3,EA,$166.28,$20.00,$250.00,11.8%
+Top 25 Payer,Median,2022,Biologic,Commercial,10.0,50242007501.0,Nutropin AQ NuSpin 5,"1,353",157,"$2,775,064",$304.89,7,ML,$157.18,$45.00,$250.00,2.5%
+Top 25 Payer,Median,2022,Biologic,Commercial,11.0,2814901.0,Humatrope,437,54,"$4,540,637","$3,452.96",3,EA,$150.00,$25.18,$262.66,7.4%
+Top 25 Payer,Median,2022,Biologic,Commercial,12.0,44087334401.0,Rebif Rebidose,509,55,"$4,507,271","$1,450.22",6,ML,$150.00,$22.50,$250.77,10.9%
+Top 25 Payer,Median,2022,Biologic,Commercial,13.0,58406005504.0,Enbrel,413,70,"$2,169,069","$1,446.53",4,ML,$150.00,$31.25,$250.00,10.0%
+Top 25 Payer,Median,2022,Biologic,Commercial,14.0,74055402.0,Humira (2 Pen),"81,726","10,902","$554,523,917","$2,826.13",2,EA,$150.00,$25.00,$250.00,5.9%
+Top 25 Payer,Median,2022,Biologic,Commercial,15.0,74024302.0,Humira (2 Syringe),"8,006","1,117","$53,664,951","$2,721.65",2,EA,$150.00,$20.00,$250.00,4.7%
+Top 25 Payer,Median,2022,Biologic,Commercial,16.0,74433907.0,Humira-Ps/UV/Adol HS Starter,61,53,"$689,422","$2,735.80",4,EA,$150.00,$40.00,$250.00,11.3%
+Top 25 Payer,Median,2022,Biologic,Commercial,17.0,24592201.0,Kevzara,"1,097",166,"$3,957,368","$1,578.17",2,ML,$150.00,$30.00,$250.00,12.0%
+Top 25 Payer,Median,2022,Biologic,Commercial,18.0,4035009.0,Pegasys,215,56,"$774,658",$957.55,4,ML,$150.00,$20.00,$250.00,1.8%
+Top 25 Payer,Median,2022,Biologic,Commercial,19.0,78063997.0,Cosentyx,452,107,"$3,119,274","$5,560.20",1,ML,$150.00,$36.54,$250.00,8.4%
+Top 25 Payer,Median,2022,Biologic,Commercial,20.0,78063968.0,Cosentyx Sensoready Pen,"3,816",667,"$24,635,085","$5,661.94",1,ML,$150.00,$30.00,$250.00,4.9%
+Top 25 Payer,Median,2022,Biologic,Commercial,21.0,187000402.0,Siliq,483,56,"$2,148,500","$1,394.68",3,ML,$150.00,$50.00,$250.00,3.6%
+Top 25 Payer,Median,2022,Biologic,Commercial,22.0,67871011104.0,Sucraid,512,111,"$5,443,144",$33.79,315,ML,$150.00,$50.00,$250.00,1.8%
+Top 25 Payer,Median,2022,Biologic,Commercial,23.0,50474071079.0,Cimzia,"7,657","1,062","$42,777,901","$4,766.87",1,EA,$150.00,$25.00,$250.00,5.9%
+Top 25 Payer,Median,2022,Biologic,Commercial,24.0,47783064601.0,Takhzyro,218,53,"$9,881,890","$12,352.36",4,ML,$150.00,$50.00,$250.00,11.3%
+Top 25 Payer,Median,2022,Biologic,Commercial,25.0,49401008847.0,Benlysta,597,94,"$2,526,466","$1,013.02",4,ML,$150.00,$30.00,$250.00,10.6%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,1.0,74061602.0,Humira (2 Syringe),733,107,"$5,840,707","$3,198.63",2,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,2.0,74012403.0,Humira-CD/UC/HS Starter,775,742,"$14,960,623","$6,393.43",3,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,3.0,50242004062.0,Xolair,484,86,"$1,836,504","$1,216.23",3,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,4.0,50242006001.0,Avastin,"1,738",342,"$2,996,263",$200.74,9,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,5.0,50242005121.0,Rituxan,158,76,"$1,405,599",$94.08,95,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,6.0,61755002002.0,Praluent,"1,136",212,"$668,059",$232.21,3,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,7.0,72511077001.0,Repatha Pushtronex System,"1,481",281,"$933,992",$157.01,4,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,8.0,24592410.0,Admelog,"37,728","7,831","$8,274,854",$10.11,22,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,9.0,2871517.0,HumuLIN 70/30,459,176,"$147,325",$15.39,21,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,10.0,2823305.0,Insulin Lispro Prot & Lispro,"2,931",652,"$757,528",$10.97,24,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,11.0,169643810.0,Levemir FlexTouch,"24,669","7,263","$13,461,144",$30.23,18,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,12.0,169300425.0,NovoLIN N FlexPen ReliOn,286,136,"$87,940",$18.08,17,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,13.0,169300315.0,NovoLIN R FlexPen,"1,690",580,"$407,187",$17.48,14,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,14.0,2814701.0,Humatrope,456,59,"$1,587,872",$889.07,4,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,15.0,55513071001.0,Prolia,"4,057","2,672","$5,742,980","$1,413.83",1,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,16.0,75987013015.0,Tepezza,459,91,"$23,272,012","$15,290.42",3,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,17.0,62541040110.0,Pancreaze,154,53,"$32,840",$0.79,270,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,18.0,57894003001.0,Remicade,"1,928",417,"$12,782,283","$1,170.00",6,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,19.0,55513005704.0,Aranesp (Albumin Free),210,97,"$155,510",$467.78,2,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,20.0,55513019001.0,Neulasta,"1,062",279,"$6,965,531","$10,717.03",1,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,21.0,55513092410.0,Neupogen,268,149,"$906,710",$669.65,5,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,22.0,2143611.0,Emgality,"14,158","2,940","$10,842,204",$641.17,1,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,23.0,68982085004.0,Octagam,227,58,"$3,621,877",$17.97,888,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,24.0,58160082111.0,Engerix-B,"2,980","2,161","$223,351",$74.69,1,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medi-Cal,25.0,69401000002.0,Vivotif,427,419,"$45,198",$26.40,4,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biologic,Medicare,1.0,75987013015.0,Tepezza,269,54,"$13,290,208","$15,993.03",3,EA,"$2,292.90",$1.33,"$3,016.28",11.1%
+Top 25 Payer,Median,2022,Biologic,Medicare,2.0,71981002007.0,Oxervate,"1,193",328,"$40,432,874","$1,860.69",18,ML,"$1,228.59",$1.33,"$1,975.84",15.2%
+Top 25 Payer,Median,2022,Biologic,Medicare,3.0,57894006002.0,Stelara,527,141,"$13,231,860","$25,324.13",1,ML,$892.92,$222.41,"$1,319.54",9.2%
+Top 25 Payer,Median,2022,Biologic,Medicare,4.0,76125090020.0,Gammaked,466,80,"$7,619,267",$17.20,950,ML,$716.11,$5.38,"$1,001.30",13.8%
+Top 25 Payer,Median,2022,Biologic,Medicare,5.0,66887000301.0,Xiaflex,468,294,"$4,462,500","$5,833.33",2,EA,$620.33,$50.00,"$1,873.93",4.8%
+Top 25 Payer,Median,2022,Biologic,Medicare,6.0,64208823507.0,Gammaplex,544,81,"$8,903,134",$19.56,837,ML,$523.14,$4.00,$954.35,16.0%
+Top 25 Payer,Median,2022,Biologic,Medicare,7.0,64208823506.0,Gammaplex,265,60,"$2,911,538",$19.31,569,ML,$299.33,$4.69,$772.50,10.0%
+Top 25 Payer,Median,2022,Biologic,Medicare,8.0,76125090010.0,Gammaked,357,86,"$4,364,818",$17.12,714,ML,$257.17,$2.50,$734.81,18.6%
+Top 25 Payer,Median,2022,Biologic,Medicare,9.0,61755000501.0,Eylea,387,82,"$1,022,621","$39,105.97",0,ML,$250.30,$20.00,$498.60,8.5%
+Top 25 Payer,Median,2022,Biologic,Medicare,10.0,68982085004.0,Octagam,719,135,"$9,482,939",$17.73,744,ML,$242.46,$0.00,$751.98,28.1%
+Top 25 Payer,Median,2022,Biologic,Medicare,11.0,55513003201.0,Aranesp (Albumin Free),224,51,"$1,217,201","$4,017.16",1,ML,$206.12,$15.50,$429.30,13.7%
+Top 25 Payer,Median,2022,Biologic,Medicare,12.0,55513019201.0,Neulasta Onpro,578,154,"$4,012,934","$10,701.16",1,ML,$183.14,$4.00,$468.02,13.6%
+Top 25 Payer,Median,2022,Biologic,Medicare,13.0,13533080071.0,Gamunex-C,"1,573",204,"$11,766,915",$12.81,584,ML,$172.81,$0.79,$475.31,16.7%
+Top 25 Payer,Median,2022,Biologic,Medicare,14.0,944270006.0,Gammagard,"2,016",271,"$24,913,331",$15.68,788,ML,$164.00,$0.78,$696.24,17.7%
+Top 25 Payer,Median,2022,Biologic,Medicare,15.0,44206043820.0,Privigen,"1,005",152,"$12,757,110",$16.07,790,ML,$127.02,$0.30,$822.34,23.0%
+Top 25 Payer,Median,2022,Biologic,Medicare,16.0,82154044901.0,Pegasys,191,50,"$754,168","$1,071.26",4,ML,$109.82,$11.48,$220.13,16.0%
+Top 25 Payer,Median,2022,Biologic,Medicare,17.0,68982085002.0,Octagam,"1,245",197,"$12,948,107",$17.16,606,ML,$106.57,$0.80,$650.85,16.8%
+Top 25 Payer,Median,2022,Biologic,Medicare,18.0,69401000002.0,Vivotif,653,647,"$66,690",$25.65,4,EA,$103.16,$20.00,$103.16,2.9%
+Top 25 Payer,Median,2022,Biologic,Medicare,19.0,57894005427.0,Stelara,65,59,"$384,184",$72.08,82,ML,$100.00,$4.00,$949.43,18.6%
+Top 25 Payer,Median,2022,Biologic,Medicare,20.0,13533080024.0,Gamunex-C,"1,440",192,"$15,780,153",$12.84,853,ML,$62.55,$0.39,$596.47,19.3%
+Top 25 Payer,Median,2022,Biologic,Medicare,21.0,44206043605.0,Privigen,812,124,"$6,147,042",$15.28,495,ML,$54.94,$0.00,$392.02,25.8%
+Top 25 Payer,Median,2022,Biologic,Medicare,22.0,169770421.0,Norditropin FlexPro,382,64,"$584,857",$496.48,3,ML,$54.55,$2.60,$213.11,10.9%
+Top 25 Payer,Median,2022,Biologic,Medicare,23.0,68982085003.0,Octagam,"1,077",189,"$14,441,383",$17.22,779,ML,$53.67,$0.29,$707.20,24.9%
+Top 25 Payer,Median,2022,Biologic,Medicare,24.0,13533080020.0,Gamunex-C,844,124,"$4,122,638",$12.81,381,ML,$50.23,$0.33,$242.47,23.4%
+Top 25 Payer,Median,2022,Biologic,Medicare,25.0,944270007.0,Gammagard,"1,584",219,"$20,445,209",$15.78,818,ML,$50.00,$0.40,$915.19,20.5%
+Top 25 Payer,Median,2022,Biosimilar,Commercial,1.0,61314086601.0,Ziextenzo,380,107,"$1,600,765","$5,404.34",1,ML,$50.00,$0.00,$110.84,28.0%
+Top 25 Payer,Median,2022,Biosimilar,Commercial,2.0,69131110.0,Retacrit,243,79,"$143,930",$210.12,3,ML,$42.70,$10.00,$128.10,20.3%
+Top 25 Payer,Median,2022,Biosimilar,Commercial,3.0,69130810.0,Retacrit,686,221,"$274,507",$107.48,4,ML,$32.03,$16.25,$64.63,16.3%
+Top 25 Payer,Median,2022,Biosimilar,Commercial,4.0,61314031801.0,Zarxio,649,357,"$917,281",$378.89,4,ML,$20.00,$0.04,$61.91,25.0%
+Top 25 Payer,Median,2022,Biosimilar,Commercial,5.0,69029210.0,Nivestym,"3,400","1,190","$3,586,422",$177.34,6,ML,$20.00,$5.00,$50.00,22.5%
+Top 25 Payer,Median,2022,Biosimilar,Commercial,6.0,69029110.0,Nivestym,"4,739","1,630","$3,951,579",$213.31,4,ML,$20.00,$5.00,$50.00,23.7%
+Top 25 Payer,Median,2022,Biosimilar,Commercial,7.0,67457083306.0,Fulphila,722,218,"$1,755,723","$3,282.95",1,ML,$20.00,$0.05,$48.86,18.3%
+Top 25 Payer,Median,2022,Biosimilar,Commercial,8.0,61314031810.0,Zarxio,"5,455","1,872","$5,685,063",$274.28,4,ML,$20.00,$12.50,$36.67,13.9%
+Top 25 Payer,Median,2022,Biosimilar,Commercial,9.0,49502025080.0,Semglee (yfgn),396,121,"$150,511",$22.45,17,ML,$20.00,$0.17,$35.00,8.3%
+Top 25 Payer,Median,2022,Biosimilar,Commercial,10.0,69029101.0,Nivestym,498,273,"$383,954",$230.95,3,ML,$20.00,$5.00,$35.00,24.2%
+Top 25 Payer,Median,2022,Biosimilar,Commercial,11.0,69029201.0,Nivestym,543,318,"$479,001",$167.46,5,ML,$20.00,$0.00,$35.00,29.2%
+Top 25 Payer,Median,2022,Biosimilar,Commercial,12.0,69029310.0,Nivestym,177,59,"$286,266",$109.05,15,ML,$20.00,$7.50,$35.00,18.6%
+Top 25 Payer,Median,2022,Biosimilar,Commercial,13.0,61314032610.0,Zarxio,"4,129","1,424","$6,281,834",$250.95,6,ML,$20.00,$12.38,$35.00,13.8%
+Top 25 Payer,Median,2022,Biosimilar,Commercial,14.0,61314032601.0,Zarxio,548,301,"$1,270,187",$387.11,6,ML,$20.00,$0.00,$35.00,31.2%
+Top 25 Payer,Median,2022,Biosimilar,Commercial,15.0,49502039380.0,Insulin Glargine-yfgn,425,175,"$68,147",$9.12,18,ML,$15.00,$0.05,$35.00,17.7%
+Top 25 Payer,Median,2022,Biosimilar,Commercial,16.0,49502025175.0,Semglee (yfgn),"4,694","1,478","$1,896,965",$20.99,19,ML,$0.42,$0.07,$25.00,10.4%
+Top 25 Payer,Median,2022,Biosimilar,Commercial,17.0,49502039475.0,Insulin Glargine-yfgn,"6,127","1,720","$934,140",$9.41,16,ML,$0.33,$0.05,$25.00,13.4%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,1.0,63459010450.0,Truxima,84,55,"$871,991",$84.66,123,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,2.0,69031501.0,Zirabev,225,55,"$971,529",$153.82,28,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,3.0,49502039475.0,Insulin Glargine-yfgn,"39,152","11,714","$5,342,274",$10.41,13,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,4.0,49502039380.0,Insulin Glargine-yfgn,"5,797","2,467","$902,594",$10.28,15,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,5.0,49502025080.0,Semglee (yfgn),653,337,"$266,156",$26.79,15,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,6.0,49502025175.0,Semglee (yfgn),"5,120","2,150","$2,246,429",$26.70,16,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,7.0,69080901.0,Inflectra,"1,128",244,"$6,064,686",$948.50,6,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,8.0,78206016201.0,Renflexis,352,78,"$1,286,774",$756.04,5,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,9.0,67457083306.0,Fulphila,"1,456",471,"$6,465,450","$6,976.85",1,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,10.0,69029101.0,Nivestym,275,106,"$400,728",$441.57,3,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,11.0,69029201.0,Nivestym,191,79,"$599,692",$439.66,7,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,12.0,69029110.0,Nivestym,412,136,"$640,014",$440.93,4,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,13.0,69029210.0,Nivestym,289,118,"$626,739",$440.13,5,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,14.0,69130904.0,Retacrit,368,110,"$487,452",$445.16,3,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,15.0,69131110.0,Retacrit,710,233,"$443,434",$224.87,3,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,16.0,69130810.0,Retacrit,"2,082",586,"$908,384",$113.30,4,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,17.0,69130710.0,Retacrit,243,92,"$52,723",$46.45,5,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,18.0,70114010101.0,Udenyca,361,107,"$1,858,144","$6,975.01",1,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,19.0,61314032601.0,Zarxio,618,274,"$2,089,419",$550.72,6,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,20.0,61314031801.0,Zarxio,849,362,"$1,832,315",$551.74,4,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,21.0,61314032610.0,Zarxio,674,333,"$2,073,341",$550.71,6,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,22.0,61314031810.0,Zarxio,"1,020",447,"$2,007,928",$551.93,4,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medi-Cal,23.0,61314086601.0,Ziextenzo,427,120,"$1,814,565","$6,560.25",1,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,1.0,69023801.0,Ruxience,190,71,"$1,326,538",$74.99,93,ML,$282.26,$1.35,$610.80,11.3%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,2.0,63459010310.0,Truxima,345,105,"$2,539,235",$88.57,83,ML,$177.88,$0.45,$550.12,10.5%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,3.0,70114010101.0,Udenyca,252,87,"$1,058,682","$6,227.54",1,ML,$111.21,$1.35,$385.29,13.8%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,4.0,69031501.0,Zirabev,353,85,"$1,930,223",$162.64,34,ML,$52.14,$0.51,$480.00,21.2%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,5.0,61314031801.0,Zarxio,"1,267",566,"$1,841,080",$534.42,3,ML,$50.00,$1.35,$268.59,17.5%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,6.0,69130904.0,Retacrit,"1,331",336,"$1,724,282",$453.76,3,ML,$50.00,$1.11,$138.84,18.2%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,7.0,69130801.0,Retacrit,190,93,"$67,839",$113.44,3,ML,$35.00,$1.35,$100.00,15.1%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,8.0,61314086601.0,Ziextenzo,223,73,"$954,747","$6,695.28",1,ML,$30.00,$1.35,$219.63,11.0%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,9.0,61314032601.0,Zarxio,804,352,"$2,072,701",$542.31,5,ML,$27.50,$0.64,$320.69,22.4%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,10.0,61314031810.0,Zarxio,"2,178",929,"$2,727,410",$406.11,3,ML,$25.00,$5.00,$223.13,10.3%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,11.0,61314032610.0,Zarxio,"1,521",632,"$2,707,304",$373.53,5,ML,$20.00,$5.00,$166.81,11.6%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,12.0,69029201.0,Nivestym,186,116,"$183,420",$246.80,4,ML,$20.00,$4.17,$146.74,6.0%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,13.0,69029110.0,Nivestym,"1,358",532,"$1,045,642",$266.10,3,ML,$20.00,$5.00,$129.76,9.6%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,14.0,69029210.0,Nivestym,763,314,"$804,755",$217.52,5,ML,$19.97,$7.00,$99.67,7.6%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,15.0,69029101.0,Nivestym,245,120,"$230,738",$327.75,3,ML,$12.00,$1.35,$47.74,15.0%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,16.0,67457083306.0,Fulphila,462,142,"$1,674,058","$5,234.70",1,ML,$10.13,$1.35,$182.12,11.3%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,17.0,69131110.0,Retacrit,"2,031",667,"$1,221,948",$227.93,3,ML,$9.85,$0.68,$100.00,21.1%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,18.0,69130810.0,Retacrit,"5,532","1,615","$2,115,602",$114.67,3,ML,$4.00,$0.45,$88.62,21.7%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,19.0,69131810.0,Retacrit,232,113,"$112,346",$113.02,4,ML,$3.95,$0.00,$93.30,25.7%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,20.0,69080901.0,Inflectra,469,110,"$2,525,990",$864.18,6,EA,$2.96,$0.14,$308.81,22.5%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,21.0,63459010450.0,Truxima,184,67,"$1,571,587",$87.07,98,ML,$1.35,$0.00,$354.33,32.8%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,22.0,69130710.0,Retacrit,660,192,"$136,258",$46.06,4,ML,$1.35,$0.00,$42.51,35.9%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,23.0,69130610.0,Retacrit,253,68,"$41,783",$35.23,5,ML,$1.35,$0.00,$33.55,45.6%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,24.0,55513020701.0,Mvasi,304,58,"$2,150,890",$186.26,38,ML,$0.21,$0.00,$264.78,41.4%
+Top 25 Payer,Median,2022,Biosimilar,Medicare,25.0,49502025175.0,Semglee (yfgn),"1,431",437,"$426,586",$25.98,11,ML,$0.00,$0.00,$1.35,60.9%
+Top 25 Payer,Median,2022,Brand,Commercial,1.0,61958080201.0,Letairis,471,50,"$5,171,213",$364.66,30,EA,$250.00,$50.00,"$4,269.38",2.0%
+Top 25 Payer,Median,2022,Brand,Commercial,2.0,64406002003.0,Vumerity,"2,625",367,"$20,284,930",$62.38,124,EA,$250.00,$40.00,$253.93,2.2%
+Top 25 Payer,Median,2022,Brand,Commercial,3.0,299595030.0,Tri-Luma,120,103,"$28,234",$7.71,31,GM,$235.12,$234.20,$237.79,1.0%
+Top 25 Payer,Median,2022,Brand,Commercial,4.0,10144042760.0,Ampyra,730,103,"$2,618,514",$57.80,62,EA,$198.11,$48.06,$377.85,6.8%
+Top 25 Payer,Median,2022,Brand,Commercial,5.0,64011030103.0,Makena,407,113,"$1,219,268",$687.80,4,ML,$187.50,$35.00,$250.00,6.2%
+Top 25 Payer,Median,2022,Brand,Commercial,6.0,59148008728.0,Jynarque,"1,675",200,"$28,057,140",$300.01,56,EA,$180.56,$44.25,$250.00,3.5%
+Top 25 Payer,Median,2022,Brand,Commercial,7.0,70539000102.0,Tymlos,"4,700",750,"$10,631,455","$1,459.27",2,ML,$180.19,$25.00,$250.81,10.8%
+Top 25 Payer,Median,2022,Brand,Commercial,8.0,187581230.0,Aplenzin,"2,194",303,"$11,688,059",$163.63,33,EA,$176.47,$50.00,$250.95,3.6%
+Top 25 Payer,Median,2022,Brand,Commercial,9.0,68546032512.0,Copaxone,"3,726",423,"$21,154,447",$441.07,13,ML,$167.26,$24.25,$259.73,4.0%
+Top 25 Payer,Median,2022,Brand,Commercial,10.0,66302046760.0,Adcirca,454,51,"$1,794,637",$67.43,59,EA,$166.67,$60.14,$250.00,2.0%
+Top 25 Payer,Median,2022,Brand,Commercial,11.0,78060715.0,Gilenya,"4,291",523,"$40,417,278",$300.48,31,EA,$150.00,$38.75,$287.50,3.4%
+Top 25 Payer,Median,2022,Brand,Commercial,12.0,2418230.0,Olumiant,"1,293",263,"$3,557,895",$84.56,33,EA,$150.00,$28.33,$250.00,7.6%
+Top 25 Payer,Median,2022,Brand,Commercial,13.0,2447930.0,Olumiant,246,87,"$1,285,067",$169.29,31,EA,$150.00,$40.00,$250.00,8.0%
+Top 25 Payer,Median,2022,Brand,Commercial,14.0,74230630.0,Rinvoq,"10,464","1,769","$58,649,557",$179.92,31,EA,$150.00,$30.00,$250.00,8.0%
+Top 25 Payer,Median,2022,Brand,Commercial,15.0,69050130.0,Xeljanz XR,"10,193","1,328","$51,544,156",$161.61,31,EA,$150.00,$29.50,$250.00,4.9%
+Top 25 Payer,Median,2022,Brand,Commercial,16.0,71558059028.0,Arikayce,335,57,"$4,434,706",$54.65,242,ML,$150.00,$21.88,$250.00,10.7%
+Top 25 Payer,Median,2022,Brand,Commercial,17.0,61958220101.0,Epclusa,"2,750","1,039","$36,762,989",$454.40,29,EA,$150.00,$25.00,$250.00,3.8%
+Top 25 Payer,Median,2022,Brand,Commercial,18.0,74262528.0,Mavyret,349,163,"$4,355,295",$148.28,84,EA,$150.00,$20.00,$250.00,7.4%
+Top 25 Payer,Median,2022,Brand,Commercial,19.0,75987004005.0,Pennsaid,"1,698",632,"$4,127,450",$21.32,114,GM,$150.00,$50.00,$250.00,2.1%
+Top 25 Payer,Median,2022,Brand,Commercial,20.0,59148008828.0,Jynarque,475,71,"$8,022,687",$299.87,56,EA,$150.00,$40.00,$250.00,2.8%
+Top 25 Payer,Median,2022,Brand,Commercial,21.0,68727015001.0,Xywav,"1,996",262,"$28,916,938",$31.97,453,ML,$150.00,$50.00,$250.00,3.1%
+Top 25 Payer,Median,2022,Brand,Commercial,22.0,73499000101.0,Wynzora,334,199,"$385,786",$19.25,60,GM,$145.00,$50.00,$250.00,3.0%
+Top 25 Payer,Median,2022,Brand,Commercial,23.0,72028004503.0,Wakix,153,73,"$680,581",$107.19,41,EA,$143.10,$45.00,$250.00,9.6%
+Top 25 Payer,Median,2022,Brand,Commercial,24.0,78098615.0,Mayzent,676,82,"$6,069,085",$284.53,32,EA,$133.02,$39.20,$250.00,6.1%
+Top 25 Payer,Median,2022,Brand,Commercial,25.0,169452514.0,Wegovy,"6,809","2,860","$8,763,673",$641.25,2,ML,$130.17,$30.00,$250.00,3.9%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,1.0,54092038701.0,Adderall XR,"2,474","1,334","$440,136",$4.60,39,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,2.0,310008828.0,Daliresp,292,104,"$140,283",$13.67,35,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,3.0,135061503.0,Flonase Sensimist,"1,563","1,354","$53,790",$3.67,9,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,4.0,23155001801.0,Tetracycline HCl,53,52,"$4,264",$1.71,47,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,5.0,9332901.0,Cleocin-T,129,92,"$5,496",$0.61,70,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,6.0,11877001133.0,BinaxNOW COVID-19 Ag Home Test,163,152,$0,$0.00,5,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,7.0,169413212.0,Ozempic (0.25 or 0.5 MG/DOSE),"135,910","44,466","$140,471,762",$577.59,2,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,8.0,51285016288.0,Plan B One-Step,"1,581","1,360","$70,762",$44.62,1,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,9.0,69543037410.0,Progesterone,835,303,"$20,133",$0.47,52,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,10.0,47781064010.0,Levothyroxine Sodium,"1,583",429,"$24,799",$0.47,33,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,11.0,47781065990.0,Levothyroxine Sodium,"1,533",672,"$31,269",$0.37,55,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,12.0,69238183007.0,Levothyroxine Sodium,"20,707","6,719","$329,977",$0.27,60,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,13.0,60793085601.0,Levoxyl,240,63,"$5,409",$0.51,44,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,14.0,67618011128.0,Colace Clear,"2,956","1,887","$72,256",$0.47,52,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,15.0,132018582.0,Fleet Liquid Glycerin Supp,172,50,"$9,477",$0.15,377,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,16.0,64764017530.0,Dexilant,"7,126","2,128","$2,865,059",$10.17,40,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,17.0,8290320119.0,BD Pen Needle Mini U/F,"58,069","22,298","$3,856,416",$0.53,125,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,18.0,83490051039.0,Vortex Hold Chmbr/Mask/Child,"1,681","1,567","$65,595",$38.54,1,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,19.0,71101468.0,Lyrica,283,92,"$81,221",$3.59,80,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,20.0,72252051002.0,Valtoco 10 MG Dose,"4,106","2,321","$3,156,830",$303.37,3,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,21.0,43900094139.0,Boost High Protein,686,177,"$122,101",$0.01,"18,793",ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,22.0,23921115.0,Combigan,240,108,"$147,978",$39.78,16,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,23.0,11980017405.0,Pred Mild,342,264,"$65,152",$33.50,6,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,24.0,65143105.0,Systane Ultra,"6,458","2,601","$148,728",$2.05,11,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medi-Cal,25.0,536110788.0,Nicotine Step 2,"1,744","1,224","$89,164",$2.13,24,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Brand,Medicare,1.0,55566410001.0,Euflexxa,98,90,"$141,074",$177.68,8,ML,"$1,231.33",$752.73,"$1,318.12",2.2%
+Top 25 Payer,Median,2022,Brand,Medicare,2.0,72482010012.0,Vonjo,199,61,"$3,902,176",$178.67,110,EA,"$1,080.17",$10.00,"$1,144.40",11.5%
+Top 25 Payer,Median,2022,Brand,Medicare,3.0,59572072012.0,Inrebic,460,71,"$8,873,841",$198.39,97,EA,"$1,032.29",$18.61,"$1,287.26",8.5%
+Top 25 Payer,Median,2022,Brand,Medicare,4.0,469142590.0,Xospata,295,76,"$6,730,557",$296.24,77,EA,$989.97,$9.96,"$1,364.54",15.8%
+Top 25 Payer,Median,2022,Brand,Medicare,5.0,89130444401.0,Supartz FX,54,50,"$65,839",$95.14,13,ML,$859.15,$389.00,"$1,444.38",4.0%
+Top 25 Payer,Median,2022,Brand,Medicare,6.0,58468009001.0,Synvisc,84,78,"$166,233",$232.82,9,ML,$838.21,$467.97,$935.94,3.8%
+Top 25 Payer,Median,2022,Brand,Medicare,7.0,57962042028.0,Imbruvica,"9,462","1,141","$146,653,583",$546.33,28,EA,$789.27,$13.72,$996.95,7.7%
+Top 25 Payer,Median,2022,Brand,Medicare,8.0,57962028028.0,Imbruvica,"1,837",256,"$28,827,023",$540.02,29,EA,$748.42,$0.82,$984.37,17.2%
+Top 25 Payer,Median,2022,Brand,Medicare,9.0,59572041028.0,Revlimid,"6,639","1,126","$127,487,889",$877.00,22,EA,$740.76,$3.66,"$1,198.49",14.0%
+Top 25 Payer,Median,2022,Brand,Medicare,10.0,59676036001.0,OrthoVisc,71,61,"$149,779",$248.80,8,ML,$734.95,$412.99,"$1,695.67",11.5%
+Top 25 Payer,Median,2022,Brand,Medicare,11.0,50881001560.0,Jakafi,"1,699",276,"$26,729,188",$280.13,56,EA,$727.51,$11.95,$970.96,10.5%
+Top 25 Payer,Median,2022,Brand,Medicare,12.0,58468009003.0,Synvisc One,239,212,"$442,723",$234.25,8,ML,$712.20,$467.97,"$1,499.03",1.9%
+Top 25 Payer,Median,2022,Brand,Medicare,13.0,71558059028.0,Arikayce,959,193,"$13,205,207",$58.49,235,ML,$706.10,$14.00,"$1,116.57",6.2%
+Top 25 Payer,Median,2022,Brand,Medicare,14.0,59572040528.0,Revlimid,"4,197",678,"$79,827,474",$874.77,22,EA,$661.01,$3.80,"$1,199.74",15.0%
+Top 25 Payer,Median,2022,Brand,Medicare,15.0,57962001428.0,Imbruvica,744,123,"$12,648,162",$539.41,32,EA,$591.72,$10.45,"$1,024.62",13.8%
+Top 25 Payer,Median,2022,Brand,Medicare,16.0,50881000560.0,Jakafi,"3,186",524,"$54,320,146",$277.34,61,EA,$542.86,$4.00,$999.19,13.9%
+Top 25 Payer,Median,2022,Brand,Medicare,17.0,64842072709.0,Inqovi,731,171,"$5,809,395","$1,594.67",5,EA,$440.92,$4.00,$865.99,8.8%
+Top 25 Payer,Median,2022,Brand,Medicare,18.0,89130202001.0,Durolane,194,181,"$254,862",$318.18,4,ML,$427.99,$307.30,$614.60,0.6%
+Top 25 Payer,Median,2022,Brand,Medicare,19.0,310051260.0,Calquence,"6,464","1,124","$90,112,917",$244.73,57,EA,$392.50,$12.00,$983.63,4.7%
+Top 25 Payer,Median,2022,Brand,Medicare,20.0,73063003504.0,Relyvrio,75,73,"$596,512",$230.31,35,EA,$382.16,$9.85,$424.38,21.9%
+Top 25 Payer,Median,2022,Brand,Medicare,21.0,59572042521.0,Revlimid,"2,709",598,"$43,955,956",$874.78,19,EA,$370.66,$1.24,"$1,049.62",15.2%
+Top 25 Payer,Median,2022,Brand,Medicare,22.0,74057622.0,Venclexta,"6,436","1,459","$62,768,459",$116.64,84,EA,$364.70,$14.04,$831.96,8.8%
+Top 25 Payer,Median,2022,Brand,Medicare,23.0,70255001002.0,Mektovi,539,98,"$6,760,790",$76.32,164,EA,$352.76,$10.50,$744.79,16.3%
+Top 25 Payer,Median,2022,Brand,Medicare,24.0,69015111.0,Inlyta,"1,366",324,"$24,525,406",$315.90,57,EA,$343.77,$2.00,"$1,308.41",13.0%
+Top 25 Payer,Median,2022,Brand,Medicare,25.0,50242012206.0,Esbriet,"1,437",373,"$13,388,647",$40.21,232,EA,$337.53,$9.85,$882.63,7.2%
+Top 25 Payer,Median,2022,Generic,Commercial,1.0,65862086360.0,Dalfampridine ER,501,156,"$520,316",$17.43,60,EA,$116.16,$13.75,$232.32,3.8%
+Top 25 Payer,Median,2022,Generic,Commercial,2.0,69097038702.0,Ambrisentan,"1,132",122,"$8,456,224",$249.01,30,EA,$104.58,$30.00,$250.00,6.6%
+Top 25 Payer,Median,2022,Generic,Commercial,3.0,72626270101.0,Sofosbuvir-Velpatasvir,427,188,"$3,428,005",$272.63,29,EA,$102.50,$20.00,$250.00,9.0%
+Top 25 Payer,Median,2022,Generic,Commercial,4.0,69097052603.0,Tadalafil (PAH),"1,451",196,"$2,927,513",$36.23,56,EA,$100.00,$12.77,$250.00,6.6%
+Top 25 Payer,Median,2022,Generic,Commercial,5.0,781620675.0,Bimatoprost,85,56,"$9,946",$23.29,5,ML,$97.02,$10.00,$157.21,8.9%
+Top 25 Payer,Median,2022,Generic,Commercial,6.0,42192015101.0,Hydroquinone,334,275,"$27,544",$2.81,29,GM,$85.66,$85.66,$93.37,1.1%
+Top 25 Payer,Median,2022,Generic,Commercial,7.0,69367017401.0,Hydroquinone,"1,068",900,"$88,025",$2.81,29,GM,$85.66,$82.16,$93.37,0.6%
+Top 25 Payer,Median,2022,Generic,Commercial,8.0,60505476406.0,Abiraterone Acetate,599,82,"$3,386,552",$113.11,50,EA,$77.27,$5.38,$179.64,19.5%
+Top 25 Payer,Median,2022,Generic,Commercial,9.0,68308068550.0,Tazarotene,255,143,"$147,489",$11.22,52,GM,$70.00,$45.00,$91.38,5.6%
+Top 25 Payer,Median,2022,Generic,Commercial,10.0,60505432701.0,Abiraterone Acetate,728,94,"$2,292,251",$29.78,106,EA,$61.27,$14.00,$174.22,11.7%
+Top 25 Payer,Median,2022,Generic,Commercial,11.0,38779086905.0,Estradiol Micronized,476,91,"$35,072",$2.53,29,GM,$50.50,$43.55,$62.25,0.0%
+Top 25 Payer,Median,2022,Generic,Commercial,12.0,57844013001.0,Adderall,762,209,"$341,892",$8.31,54,EA,$50.00,$10.00,$250.00,2.4%
+Top 25 Payer,Median,2022,Generic,Commercial,13.0,57844012001.0,Adderall,"1,569",406,"$894,251",$8.46,67,EA,$50.00,$15.00,$170.81,2.2%
+Top 25 Payer,Median,2022,Generic,Commercial,14.0,72143022230.0,Minocycline HCl ER,184,89,"$79,788",$14.45,30,EA,$50.00,$50.00,$170.00,0.0%
+Top 25 Payer,Median,2022,Generic,Commercial,15.0,68308066245.0,Adapalene-Benzoyl Peroxide,"1,578",950,"$597,523",$8.41,45,GM,$50.00,$10.00,$105.34,1.7%
+Top 25 Payer,Median,2022,Generic,Commercial,16.0,68308034260.0,Dapsone,431,320,"$174,222",$6.74,60,GM,$50.00,$10.00,$100.00,1.6%
+Top 25 Payer,Median,2022,Generic,Commercial,17.0,50265019830.0,Prena1 Pearl,"1,059",259,"$100,755",$2.98,32,EA,$50.00,$15.00,$80.00,3.5%
+Top 25 Payer,Median,2022,Generic,Commercial,18.0,43169070405.0,Guardian Sensor 3,163,78,"$214,635",$120.24,11,EA,$50.00,$26.67,$72.40,10.3%
+Top 25 Payer,Median,2022,Generic,Commercial,19.0,38779016305.0,Testosterone Micronized,111,67,"$7,219",$2.45,27,GM,$50.00,$40.75,$63.43,0.0%
+Top 25 Payer,Median,2022,Generic,Commercial,20.0,38779016308.0,Testosterone Micronized,255,104,"$14,221",$2.23,25,GM,$47.22,$38.75,$52.00,1.0%
+Top 25 Payer,Median,2022,Generic,Commercial,21.0,38779004309.0,Progesterone Micronized,"1,313",296,"$103,525",$2.18,36,GM,$45.67,$33.98,$54.17,1.0%
+Top 25 Payer,Median,2022,Generic,Commercial,22.0,57844011001.0,Adderall,"1,234",409,"$707,296",$8.18,70,EA,$45.00,$11.79,$139.37,2.2%
+Top 25 Payer,Median,2022,Generic,Commercial,23.0,69097023772.0,Albendazole,653,455,"$775,004",$114.26,10,EA,$45.00,$10.00,$85.00,2.6%
+Top 25 Payer,Median,2022,Generic,Commercial,24.0,31722093502.0,Albendazole,349,218,"$698,628",$130.00,15,EA,$45.00,$10.00,$85.00,5.5%
+Top 25 Payer,Median,2022,Generic,Commercial,25.0,72205000792.0,Capecitabine,"6,145","1,283","$6,423,845",$12.51,84,EA,$44.68,$0.00,$150.00,30.2%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,1.0,57664062388.0,Dexmethylphenidate HCl ER,244,144,"$12,288",$1.56,32,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,2.0,66689002316.0,HYDROcodone-Acetaminophen,"2,906","2,460","$70,490",$0.13,180,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,3.0,536111248.0,Budesonide,604,343,"$16,165",$2.99,9,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,4.0,65862049730.0,Efavirenz-Emtricitab-Tenofo DF,696,152,"$144,521",$5.49,38,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,5.0,16714038801.0,Cefadroxil,407,352,"$6,993",$0.76,23,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,6.0,50742017505.0,Isosorbide Mononitrate ER,"4,247","1,320","$70,229",$0.29,57,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,7.0,60505257808.0,Atorvastatin Calcium,"111,754","28,653","$1,425,792",$0.28,45,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,8.0,75834025550.0,Atorvastatin Calcium,225,114,"$3,057",$0.29,46,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,9.0,69238115403.0,Ezetimibe,"16,913","5,583","$271,882",$0.28,57,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,10.0,527260532.0,Venlafaxine HCl ER,546,166,"$45,211",$2.84,29,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,11.0,66993068030.0,OLANZapine,563,349,"$8,153",$0.22,66,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,12.0,143150005.0,PHENobarbital,920,455,"$24,951",$0.37,73,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,13.0,66993089715.0,Betamethasone Dipropionate Aug,"1,067",686,"$66,484",$1.40,44,GM,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,14.0,378809245.0,Tretinoin Microsphere,168,113,"$71,392",$9.28,46,GM,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,15.0,16714098604.0,Triamcinolone Acetonide,349,272,"$10,331",$0.07,438,GM,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,16.0,59651026830.0,glipiZIDE ER,"4,398","1,753","$73,489",$0.23,72,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,17.0,64380094906.0,predniSONE,"2,761","2,630","$32,956",$2.02,6,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,18.0,68968341008.0,Estradiol,762,208,"$85,038",$8.70,13,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,19.0,65862093090.0,Sevelamer Carbonate,556,217,"$148,457",$2.09,127,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,20.0,49348018810.0,SM Gas Relief,888,589,"$12,320",$0.20,68,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,21.0,65862069299.0,Phenytoin Sodium Extended,"3,512",740,"$86,423",$0.24,101,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,22.0,68001024400.0,Zonisamide,"1,195",218,"$29,828",$0.24,103,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,23.0,93001806.0,Tolterodine Tartrate,352,115,"$13,785",$0.65,60,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,24.0,70436016104.0,Tolterodine Tartrate ER,999,306,"$49,279",$1.35,37,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medi-Cal,25.0,59267102503.0,Pfizer-BioNT COVID-19 Vac-TriS,"38,156","35,059",$0,$0.00,0,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,Generic,Medicare,1.0,72606057301.0,Abiraterone Acetate,916,199,"$5,969,703",$107.55,61,EA,$619.07,$5.00,"$1,163.37",9.5%
+Top 25 Payer,Median,2022,Generic,Medicare,2.0,378692191.0,Abiraterone Acetate,960,276,"$6,773,438",$117.34,60,EA,$257.96,$1.35,"$1,091.12",13.8%
+Top 25 Payer,Median,2022,Generic,Medicare,3.0,378163191.0,Formoterol Fumarate,415,155,"$363,368",$6.35,138,ML,$249.75,$1.35,$407.56,23.2%
+Top 25 Payer,Median,2022,Generic,Medicare,4.0,93406106.0,Formoterol Fumarate,352,127,"$273,236",$6.08,128,ML,$242.86,$56.81,$367.74,15.0%
+Top 25 Payer,Median,2022,Generic,Medicare,5.0,64980041812.0,Abiraterone Acetate,313,137,"$1,355,163",$35.80,121,EA,$184.72,$5.00,$646.78,12.4%
+Top 25 Payer,Median,2022,Generic,Medicare,6.0,16714046801.0,Capecitabine,"1,384",389,"$1,378,381",$13.26,75,EA,$174.75,$70.25,$305.93,6.4%
+Top 25 Payer,Median,2022,Generic,Medicare,7.0,781808532.0,Pirfenidone,589,195,"$3,602,297",$25.46,240,EA,$142.94,$0.65,$370.98,23.6%
+Top 25 Payer,Median,2022,Generic,Medicare,8.0,55111049704.0,Capecitabine,162,70,"$189,572",$14.43,81,EA,$130.58,$19.50,$266.37,12.9%
+Top 25 Payer,Median,2022,Generic,Medicare,9.0,72205000792.0,Capecitabine,492,152,"$447,244",$12.12,75,EA,$126.27,$28.56,$230.02,12.5%
+Top 25 Payer,Median,2022,Generic,Medicare,10.0,68001048807.0,Capecitabine,"1,012",218,"$1,039,108",$13.96,74,EA,$123.73,$39.31,$238.15,11.9%
+Top 25 Payer,Median,2022,Generic,Medicare,11.0,59651020508.0,Capecitabine,735,229,"$531,601",$9.29,78,EA,$115.45,$36.40,$229.12,12.7%
+Top 25 Payer,Median,2022,Generic,Medicare,12.0,67877045912.0,Capecitabine,349,90,"$290,284",$11.59,72,EA,$113.79,$56.89,$242.36,8.9%
+Top 25 Payer,Median,2022,Generic,Medicare,13.0,68001048907.0,Abiraterone Acetate,919,224,"$2,954,854",$28.05,115,EA,$103.57,$1.35,$331.29,12.1%
+Top 25 Payer,Median,2022,Generic,Medicare,14.0,64679002101.0,Abiraterone Acetate,406,194,"$1,070,226",$22.78,116,EA,$100.57,$1.35,$382.61,16.5%
+Top 25 Payer,Median,2022,Generic,Medicare,15.0,378450093.0,Budesonide ER,202,92,"$254,626",$40.35,31,EA,$99.33,$3.95,$355.58,8.7%
+Top 25 Payer,Median,2022,Generic,Medicare,16.0,93406130.0,Formoterol Fumarate,258,108,"$180,768",$5.89,119,ML,$95.03,$1.67,$303.40,22.2%
+Top 25 Payer,Median,2022,Generic,Medicare,17.0,70748025760.0,Arformoterol Tartrate,142,58,"$90,101",$3.98,159,ML,$87.62,$2.26,$294.33,22.4%
+Top 25 Payer,Median,2022,Generic,Medicare,18.0,713050324.0,Anucort-HC,618,418,"$74,432",$5.40,22,EA,$82.30,$30.27,$121.06,9.3%
+Top 25 Payer,Median,2022,Generic,Medicare,19.0,72606056601.0,Abiraterone Acetate,"3,443",868,"$8,378,792",$21.07,116,EA,$80.66,$5.00,$208.26,12.2%
+Top 25 Payer,Median,2022,Generic,Medicare,20.0,70710139109.0,Droxidopa,374,70,"$1,413,035",$24.11,157,EA,$72.71,$0.84,$264.84,12.9%
+Top 25 Payer,Median,2022,Generic,Medicare,21.0,62756023920.0,Capecitabine,215,83,"$180,654",$10.91,77,EA,$69.46,$17.92,$212.49,18.1%
+Top 25 Payer,Median,2022,Generic,Medicare,22.0,60505432701.0,Abiraterone Acetate,549,152,"$1,388,441",$20.40,124,EA,$68.61,$1.08,$326.66,16.4%
+Top 25 Payer,Median,2022,Generic,Medicare,23.0,781751787.0,Budesonide,100,51,"$70,210",$4.78,147,ML,$66.80,$59.29,$333.98,19.6%
+Top 25 Payer,Median,2022,Generic,Medicare,24.0,16714002030.0,Budesonide,120,61,"$59,558",$5.60,89,ML,$66.55,$48.37,$373.30,16.4%
+Top 25 Payer,Median,2022,Generic,Medicare,25.0,58657045401.0,ME/NaPhos/MB/Hyo1,176,83,"$21,603",$2.21,55,EA,$65.23,$33.15,$76.78,1.2%
+Top 25 Payer,Median,2022,All,Commercial,1.0,61958080201.0,Letairis,471,50,"$5,171,213",$364.66,30,EA,$250.00,$50.00,"$4,269.38",2.0%
+Top 25 Payer,Median,2022,All,Commercial,2.0,50242007601.0,Nutropin AQ NuSpin 20,"2,851",329,"$20,934,271","$1,227.31",6,ML,$250.00,$130.00,$305.77,2.7%
+Top 25 Payer,Median,2022,All,Commercial,3.0,64406002003.0,Vumerity,"2,625",367,"$20,284,930",$62.38,124,EA,$250.00,$40.00,$253.93,2.2%
+Top 25 Payer,Median,2022,All,Commercial,4.0,74153903.0,Humira-Psoriasis/Uveit Starter,339,277,"$3,998,494","$3,904.78",3,EA,$250.00,$45.00,$250.00,6.5%
+Top 25 Payer,Median,2022,All,Commercial,5.0,2144527.0,Taltz,799,379,"$8,952,619","$5,862.88",2,ML,$250.00,$100.00,$250.00,6.9%
+Top 25 Payer,Median,2022,All,Commercial,6.0,2144509.0,Taltz,420,267,"$6,608,260","$5,766.37",3,ML,$250.00,$100.00,$250.00,4.1%
+Top 25 Payer,Median,2022,All,Commercial,7.0,44087000607.0,Serostim,727,71,"$12,991,535",$615.36,29,EA,$250.00,$83.33,$250.00,2.8%
+Top 25 Payer,Median,2022,All,Commercial,8.0,50242007401.0,Nutropin AQ NuSpin 10,"5,485",608,"$22,826,629",$611.89,7,ML,$244.78,$82.03,$258.33,1.5%
+Top 25 Payer,Median,2022,All,Commercial,9.0,299595030.0,Tri-Luma,120,103,"$28,234",$7.71,31,GM,$235.12,$234.20,$237.79,1.0%
+Top 25 Payer,Median,2022,All,Commercial,10.0,2772411.0,Taltz,994,141,"$6,600,038","$5,714.32",1,ML,$200.00,$45.00,$333.33,9.2%
+Top 25 Payer,Median,2022,All,Commercial,11.0,10144042760.0,Ampyra,730,103,"$2,618,514",$57.80,62,EA,$198.11,$48.06,$377.85,6.8%
+Top 25 Payer,Median,2022,All,Commercial,12.0,64011030103.0,Makena,407,113,"$1,219,268",$687.80,4,ML,$187.50,$35.00,$250.00,6.2%
+Top 25 Payer,Median,2022,All,Commercial,13.0,49281091501.0,YF-VAX,243,243,"$43,429",$178.72,1,EA,$182.05,$173.83,$182.05,12.3%
+Top 25 Payer,Median,2022,All,Commercial,14.0,59148008728.0,Jynarque,"1,675",200,"$28,057,140",$300.01,56,EA,$180.56,$44.25,$250.00,3.5%
+Top 25 Payer,Median,2022,All,Commercial,15.0,70539000102.0,Tymlos,"4,700",750,"$10,631,455","$1,459.27",2,ML,$180.19,$25.00,$250.81,10.8%
+Top 25 Payer,Median,2022,All,Commercial,16.0,187581230.0,Aplenzin,"2,194",303,"$11,688,059",$163.63,33,EA,$176.47,$50.00,$250.95,3.6%
+Top 25 Payer,Median,2022,All,Commercial,17.0,68546032512.0,Copaxone,"3,726",423,"$21,154,447",$441.07,13,ML,$167.26,$24.25,$259.73,4.0%
+Top 25 Payer,Median,2022,All,Commercial,18.0,66302046760.0,Adcirca,454,51,"$1,794,637",$67.43,59,EA,$166.67,$60.14,$250.00,2.0%
+Top 25 Payer,Median,2022,All,Commercial,19.0,74012403.0,Humira-CD/UC/HS Starter,936,667,"$16,854,762","$5,887.10",3,EA,$166.28,$20.00,$250.00,11.8%
+Top 25 Payer,Median,2022,All,Commercial,20.0,50242007501.0,Nutropin AQ NuSpin 5,"1,353",157,"$2,775,064",$304.89,7,ML,$157.18,$45.00,$250.00,2.5%
+Top 25 Payer,Median,2022,All,Commercial,21.0,2814901.0,Humatrope,437,54,"$4,540,637","$3,452.96",3,EA,$150.00,$25.18,$262.66,7.4%
+Top 25 Payer,Median,2022,All,Commercial,22.0,74055402.0,Humira (2 Pen),"81,726","10,902","$554,523,917","$2,826.13",2,EA,$150.00,$25.00,$250.00,5.9%
+Top 25 Payer,Median,2022,All,Commercial,23.0,2418230.0,Olumiant,"1,293",263,"$3,557,895",$84.56,33,EA,$150.00,$28.33,$250.00,7.6%
+Top 25 Payer,Median,2022,All,Commercial,24.0,71558059028.0,Arikayce,335,57,"$4,434,706",$54.65,242,ML,$150.00,$21.88,$250.00,10.7%
+Top 25 Payer,Median,2022,All,Commercial,25.0,50474071079.0,Cimzia,"7,657","1,062","$42,777,901","$4,766.87",1,EA,$150.00,$25.00,$250.00,5.9%
+Top 25 Payer,Median,2022,All,Medi-Cal,1.0,42858007545.0,Methylphenidate HCl ER (XR),115,64,"$31,680",$7.34,38,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,2.0,69543038810.0,Ketorolac Tromethamine,"1,381","1,181","$34,476",$1.32,19,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,3.0,378037301.0,Hydroxychloroquine Sulfate,"1,680",742,"$48,364",$0.37,79,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,4.0,68180030320.0,Cefuroxime Axetil,256,239,"$5,076",$1.33,15,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,5.0,62135062650.0,Doxycycline Hyclate,426,398,"$6,680",$0.63,25,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,6.0,904601946.0,Bicalutamide,172,74,"$4,079",$0.63,38,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,7.0,69031501.0,Zirabev,225,55,"$971,529",$153.82,28,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,8.0,60505267109.0,Atorvastatin Calcium,"87,626","24,952","$1,246,647",$0.25,57,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,9.0,31722014201.0,Captopril,552,218,"$31,034",$0.62,90,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,10.0,23155048601.0,Verapamil HCl,"1,013",256,"$18,050",$0.21,84,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,11.0,65862001330.0,Sertraline HCl,"7,409","4,596","$103,847",$0.31,46,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,12.0,16714065801.0,Venlafaxine HCl,621,207,"$11,322",$0.33,55,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,13.0,93541701.0,cloZAPine,"2,172",274,"$258,542",$2.55,47,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,14.0,62011009401.0,HM Bacitracin Zinc,604,382,"$8,550",$0.45,31,GM,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,15.0,574210745.0,Ivermectin,974,482,"$264,856",$5.91,46,GM,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,16.0,16714076902.0,Nystatin,"1,121",685,"$25,382",$0.60,38,GM,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,17.0,2775205.0,Insulin Lispro Junior KwikPen,"6,550","1,771","$1,479,612",$10.89,21,ML,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,18.0,70954005820.0,predniSONE,"6,879","3,077","$103,444",$0.31,48,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,19.0,31722010330.0,Cinacalcet HCl,"1,664",553,"$67,707",$0.88,46,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,20.0,62011027703.0,HM Laxative,999,519,"$13,179",$0.30,44,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,21.0,59762500802.0,miSOPROStol,"1,274","1,183","$18,879",$2.76,5,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,22.0,55150020210.0,Pantoprazole Sodium,672,58,"$40,117",$6.22,10,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,23.0,86227090105.0,Sure Comfort Insulin Syringe,465,184,"$14,916",$0.30,108,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,24.0,31722002301.0,OXcarbazepine,238,187,"$5,293",$0.29,77,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medi-Cal,25.0,50991099960.0,Norgesic Forte,"1,198",480,"$3,087,031",$32.66,79,EA,$0.00,$0.00,$0.00,100.0%
+Top 25 Payer,Median,2022,All,Medicare,1.0,75987013015.0,Tepezza,269,54,"$13,290,208","$15,993.03",3,EA,"$2,292.90",$1.33,"$3,016.28",11.1%
+Top 25 Payer,Median,2022,All,Medicare,2.0,55566410001.0,Euflexxa,98,90,"$141,074",$177.68,8,ML,"$1,231.33",$752.73,"$1,318.12",2.2%
+Top 25 Payer,Median,2022,All,Medicare,3.0,71981002007.0,Oxervate,"1,193",328,"$40,432,874","$1,860.69",18,ML,"$1,228.59",$1.33,"$1,975.84",15.2%
+Top 25 Payer,Median,2022,All,Medicare,4.0,72482010012.0,Vonjo,199,61,"$3,902,176",$178.67,110,EA,"$1,080.17",$10.00,"$1,144.40",11.5%
+Top 25 Payer,Median,2022,All,Medicare,5.0,59572072012.0,Inrebic,460,71,"$8,873,841",$198.39,97,EA,"$1,032.29",$18.61,"$1,287.26",8.5%
+Top 25 Payer,Median,2022,All,Medicare,6.0,469142590.0,Xospata,295,76,"$6,730,557",$296.24,77,EA,$989.97,$9.96,"$1,364.54",15.8%
+Top 25 Payer,Median,2022,All,Medicare,7.0,57894006002.0,Stelara,527,141,"$13,231,860","$25,324.13",1,ML,$892.92,$222.41,"$1,319.54",9.2%
+Top 25 Payer,Median,2022,All,Medicare,8.0,89130444401.0,Supartz FX,54,50,"$65,839",$95.14,13,ML,$859.15,$389.00,"$1,444.38",4.0%
+Top 25 Payer,Median,2022,All,Medicare,9.0,58468009001.0,Synvisc,84,78,"$166,233",$232.82,9,ML,$838.21,$467.97,$935.94,3.8%
+Top 25 Payer,Median,2022,All,Medicare,10.0,57962042028.0,Imbruvica,"9,462","1,141","$146,653,583",$546.33,28,EA,$789.27,$13.72,$996.95,7.7%
+Top 25 Payer,Median,2022,All,Medicare,11.0,57962028028.0,Imbruvica,"1,837",256,"$28,827,023",$540.02,29,EA,$748.42,$0.82,$984.37,17.2%
+Top 25 Payer,Median,2022,All,Medicare,12.0,59572041028.0,Revlimid,"6,639","1,126","$127,487,889",$877.00,22,EA,$740.76,$3.66,"$1,198.49",14.0%
+Top 25 Payer,Median,2022,All,Medicare,13.0,59676036001.0,OrthoVisc,71,61,"$149,779",$248.80,8,ML,$734.95,$412.99,"$1,695.67",11.5%
+Top 25 Payer,Median,2022,All,Medicare,14.0,50881001560.0,Jakafi,"1,699",276,"$26,729,188",$280.13,56,EA,$727.51,$11.95,$970.96,10.5%
+Top 25 Payer,Median,2022,All,Medicare,15.0,76125090020.0,Gammaked,466,80,"$7,619,267",$17.20,950,ML,$716.11,$5.38,"$1,001.30",13.8%
+Top 25 Payer,Median,2022,All,Medicare,16.0,58468009003.0,Synvisc One,239,212,"$442,723",$234.25,8,ML,$712.20,$467.97,"$1,499.03",1.9%
+Top 25 Payer,Median,2022,All,Medicare,17.0,71558059028.0,Arikayce,959,193,"$13,205,207",$58.49,235,ML,$706.10,$14.00,"$1,116.57",6.2%
+Top 25 Payer,Median,2022,All,Medicare,18.0,59572040528.0,Revlimid,"4,197",678,"$79,827,474",$874.77,22,EA,$661.01,$3.80,"$1,199.74",15.0%
+Top 25 Payer,Median,2022,All,Medicare,19.0,66887000301.0,Xiaflex,468,294,"$4,462,500","$5,833.33",2,EA,$620.33,$50.00,"$1,873.93",4.8%
+Top 25 Payer,Median,2022,All,Medicare,20.0,72606057301.0,Abiraterone Acetate,916,199,"$5,969,703",$107.55,61,EA,$619.07,$5.00,"$1,163.37",9.5%
+Top 25 Payer,Median,2022,All,Medicare,21.0,57962001428.0,Imbruvica,744,123,"$12,648,162",$539.41,32,EA,$591.72,$10.45,"$1,024.62",13.8%
+Top 25 Payer,Median,2022,All,Medicare,22.0,50881000560.0,Jakafi,"3,186",524,"$54,320,146",$277.34,61,EA,$542.86,$4.00,$999.19,13.9%
+Top 25 Payer,Median,2022,All,Medicare,23.0,64208823507.0,Gammaplex,544,81,"$8,903,134",$19.56,837,ML,$523.14,$4.00,$954.35,16.0%
+Top 25 Payer,Median,2022,All,Medicare,24.0,64842072709.0,Inqovi,731,171,"$5,809,395","$1,594.67",5,EA,$440.92,$4.00,$865.99,8.8%
+Top 25 Payer,Median,2022,All,Medicare,25.0,89130202001.0,Durolane,194,181,"$254,862",$318.18,4,ML,$427.99,$307.30,$614.60,0.6%

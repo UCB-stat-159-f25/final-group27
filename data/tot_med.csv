@@ -1,0 +1,50 @@
+TableType,Top25Type,Year,Drug_Category,Payer_Type,Rank,National_Drug_Code,Drug_Name,NumberofPrescriptions,NumberofIndividuals,TotalCost,AverageCostperUnit,AverageDispensedUnitsPerFill,DrugUnitofMeasure,Out-of-Pocket Median,Out-of-Pocket25P,Out-of-Pocket75P,OOPZeroCount
+Top 25 Totals,Median,2021,Biologic,Commercial,,,,"105,713","14,153","704,725,959","2,347",3,,$150.00,$30.00,$250.00,7.1%
+Top 25 Totals,Median,2021,Biologic,Medi-Cal,,,,"30,122","9,082","60,356,690",9,226,,$0.00,$0.00,$0.00,100.0%
+Top 25 Totals,Median,2021,Biologic,Medicare,,,,"23,408","3,463","208,821,198",21,434,,$132.69,$1.00,$687.45,18.1%
+Top 25 Totals,Median,2021,Biologic,All Payers ,,,,"39,692","11,474","283,464,831",196,36,,$105.23,$20.00,$200.00,9.3%
+Top 25 Totals,Median,2021,Biologic,All Payers W/O Medi-Cal,,,,"26,154","4,295","214,452,585",39,209,,$179.71,$20.00,$439.02,10.9%
+Top 25 Totals,Median,2021,Biosimilar,Commercial,,,,"20,077","5,642","26,906,561",290,5,,$20.00,$10.00,$35.00,16.9%
+Top 25 Totals,Median,2021,Biosimilar,Medi-Cal,,,,669,268,"2,426,806",998,4,,$0.00,$0.00,$0.00,100.0%
+Top 25 Totals,Median,2021,Biosimilar,Medicare,,,,"20,673","6,108","26,230,823",228,6,,$12.00,$0.57,$100.00,22.2%
+Top 25 Totals,Median,2021,Biosimilar,All Payers ,,,,"42,733","12,367","58,352,124",268,5,,$20.00,$0.78,$55.79,22.5%
+Top 25 Totals,Median,2021,Biosimilar,All Payers W/O Medi-Cal,,,,"41,547","11,922","54,676,102",259,5,,$20.00,$1.30,$62.98,19.8%
+Top 25 Totals,Median,2021,Brand,Commercial,,,,"43,880","8,465","286,293,345",150,44,,$150.00,$30.00,$250.00,5.5%
+Top 25 Totals,Median,2021,Brand,Medi-Cal,,,,"48,111","15,191","63,627,607",13,104,,$0.00,$0.00,$0.00,100.0%
+Top 25 Totals,Median,2021,Brand,Medicare,,,,"50,501","7,934","774,798,922",313,49,,$624.10,$10.64,"$1,000.80",11.3%
+Top 25 Totals,Median,2021,Brand,All Payers ,,,,"51,717","8,993","616,221,327",293,41,,$200.00,$20.00,$783.73,9.3%
+Top 25 Totals,Median,2021,Brand,All Payers W/O Medi-Cal,,,,"40,830","7,589","558,366,462",333,41,,$214.43,$24.46,$863.75,8.1%
+Top 25 Totals,Median,2021,Generic,Commercial,,,,"12,067","3,610","13,704,983",24,47,,$77.61,$40.00,$93.37,2.0%
+Top 25 Totals,Median,2021,Generic,Medi-Cal,,,,"38,572","12,400","735,290",0,51,,$0.00,$0.00,$0.00,100.0%
+Top 25 Totals,Median,2021,Generic,Medicare,,,,"10,478","3,590","30,812,707",39,75,,$101.18,$10.00,$224.80,10.8%
+Top 25 Totals,Median,2021,Generic,All Payers ,,,,"12,102","3,996","36,213,476",40,75,,$85.66,$20.00,$151.47,10.6%
+Top 25 Totals,Median,2021,Generic,All Payers W/O Medi-Cal,,,,"12,034","3,970","36,140,951",40,75,,$86.61,$23.60,$153.60,10.1%
+Top 25 Totals,Median,2021,All,Commercial,,,,"24,632","4,619","150,410,128",259,24,,$200.00,$50.00,$271.43,4.7%
+Top 25 Totals,Median,2021,All,Medi-Cal,,,,"87,890","29,993","77,010,712",8,107,,$0.00,$0.00,$0.00,100.0%
+Top 25 Totals,Median,2021,All,Medicare,,,,"46,547","7,774","733,736,442",329,48,,$675.35,$11.20,"$1,047.87",11.1%
+Top 25 Totals,Median,2021,All,All Payers ,,,,"37,430","7,169","472,523,682",245,52,,$237.67,$20.00,$864.38,10.2%
+Top 25 Totals,Median,2021,All,All Payers W/O Medi-Cal,,,,"27,549","5,271","287,305,176",106,98,,$250.00,$20.30,$861.71,9.7%
+Top 25 Totals,Median,2022,Biologic,Commercial,,,,"120,346","16,467","817,944,653","1,643",4,,$150.00,$30.00,$250.00,6.0%
+Top 25 Totals,Median,2022,Biologic,Medi-Cal,,,,"100,654","27,611","117,956,093",69,17,,$0.00,$0.00,$0.00,100.0%
+Top 25 Totals,Median,2022,Biologic,Medicare,,,,"18,884","3,455","236,063,681",24,530,,$103.16,$4.00,$716.11,14.5%
+Top 25 Totals,Median,2022,Biologic,All Payers ,,,,"27,563","8,692","179,682,582",101,64,,$93.94,$20.00,$119.25,8.8%
+Top 25 Totals,Median,2022,Biologic,All Payers W/O Medi-Cal,,,,"23,545","5,720","264,759,982",84,133,,$182.05,$20.00,$350.00,10.8%
+Top 25 Totals,Median,2022,Biosimilar,Commercial,,,,"33,811","9,041","29,666,274",97,9,,$20.00,$0.14,$35.00,17.4%
+Top 25 Totals,Median,2022,Biosimilar,Medi-Cal,,,,"62,486","18,840","40,252,761",53,12,,$0.00,$0.00,$0.00,100.0%
+Top 25 Totals,Median,2022,Biosimilar,All Payers ,,,,"71,225","22,027","82,838,021",140,8,,$0.67,$0.00,$30.00,45.9%
+Top 25 Totals,Median,2022,Biosimilar,All Payers W/O Medi-Cal,,,,"44,056","12,252","59,811,924",239,6,,$10.00,$0.00,$35.00,28.2%
+Top 25 Totals,Median,2022,Brand,Commercial,,,,"59,164","11,623","360,621,039",127,48,,$150.00,$30.00,$250.00,5.1%
+Top 25 Totals,Median,2022,Brand,Medi-Cal,,,,"250,926","89,215","152,278,057",7,90,,$0.00,$0.00,$0.00,100.0%
+Top 25 Totals,Median,2022,Brand,Medicare,,,,"50,174","8,816","758,343,838",286,53,,$550.00,$11.33,"$1,030.78",10.2%
+Top 25 Totals,Median,2022,Brand,All Payers ,,,,"59,327","10,168","754,500,724",174,73,,$133.89,$9.19,$748.42,15.3%
+Top 25 Totals,Median,2022,Brand,All Payers W/O Medi-Cal,,,,"55,097","9,983","788,110,312",267,54,,$226.47,$17.84,$929.40,10.2%
+Top 25 Totals,Median,2022,Generic,Commercial,,,,"22,862","7,079","32,451,740",25,56,,$60.00,$15.00,$95.00,7.6%
+Top 25 Totals,Median,2022,Generic,Medi-Cal,,,,"195,188","82,476","2,779,514",0,42,,$0.00,$0.00,$0.00,100.0%
+Top 25 Totals,Median,2022,Generic,Medicare,,,,"15,201","4,123","38,350,696",25,99,,$105.33,$5.00,$309.19,13.0%
+Top 25 Totals,Median,2022,Generic,All Payers ,,,,"12,980","3,687","25,789,585",26,76,,$60.51,$10.00,$165.51,14.0%
+Top 25 Totals,Median,2022,Generic,All Payers W/O Medi-Cal,,,,"16,729","4,063","49,704,094",29,101,,$93.58,$5.00,$294.94,14.0%
+Top 25 Totals,Median,2022,All,Commercial,,,,"122,697","16,895","815,068,053",770,9,,$150.00,$30.00,$250.00,6.0%
+Top 25 Totals,Median,2022,All,Medi-Cal,,,,"126,286","42,672","7,900,290",1,53,,$0.00,$0.00,$0.00,100.0%
+Top 25 Totals,Median,2022,All,Medicare,,,,"35,531","6,248","610,144,697",281,61,,$716.11,$12.00,"$1,160.79",10.8%
+Top 25 Totals,Median,2022,All,All Payers ,,,,"40,611","7,607","503,823,404",204,61,,$155.44,$11.98,$762.84,14.2%
+Top 25 Totals,Median,2022,All,All Payers W/O Medi-Cal,,,,"31,627","5,495","409,690,022",181,71,,$250.00,$30.00,$935.94,7.4%

@@ -1,0 +1,14 @@
+name: stat159-final
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - jupyterlab
+  - nbconvert
+  - pip
+  - pip:
+      - pytest

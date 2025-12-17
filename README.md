@@ -6,6 +6,8 @@
 
 Link to Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group27.git/HEAD)
 
+Note: The repository is large, so sometimes the binder launch fails. If this happens, just try again! 
+
 ## Project Description
 Through this project, we analyzed what factors impact drug costs for the top 25 costliest drugs in the United States. 
 

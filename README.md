@@ -25,16 +25,13 @@ cd final-group27
 ```
 To create and run the environment: 
 ```
-make env
-conda activate stat159-final
-
+ 
 ```
 ## Analysis via Makefile
 
 For analysis, run in terminal: 
 
 ``` 
-make all
 
 ```
 ## Testing: 
@@ -49,16 +46,16 @@ Use conda env create and make commands to use the associated environment, analys
 
 ## Repo Structure: 
 
-* notebooks/: contains the analysis notebooks associated with cleaning and analyzing the data. Also contains main.ipynb
-* data/: contains both the pre- and post-processed data, along with a data dictionary from the California Open Data Portal
-* images/: contains any images generated within the project notebooks
-* pdf_builds/: contains MYST generated pdf builds
-* results/: contains results from modelling
-* src/: analysis functions
-* tests/: the tests we used to ensure the analysis was done correctly
-* environment.yml: Information necessary to create and use the environment
-* myst.yml: website generation
-* ai-documentation.txt: provides information about ai usage within the project
-* MakeFile: sets up make commands
-* references.bib: holds the references for the project
-* contribution-statement.md: delineates project contributions
+- `notebooks/`: contains the analysis notebooks associated with cleaning and analyzing the data. Also contains main.ipynb
+- `data/`: contains both the pre- and post-processed data, along with a data dictionary from the California Open Data Portal
+- `images/`: contains any images generated within the project notebooks
+- `pdf_builds/`: contains MYST generated pdf builds
+- `results/`: contains results from modelling
+- src/: analysis functions
+- tests/: the tests we used to ensure the analysis was done correctly
+- environment.yml: Information necessary to create and use the environment
+- myst.yml: website generation
+- ai-documentation.txt: provides information about ai usage within the project
+- MakeFile: sets up make commands
+- references.bib: holds the references for the project
+- contribution-statement.md: delineates project contributions

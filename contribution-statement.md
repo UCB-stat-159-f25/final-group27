@@ -9,3 +9,6 @@ Project Structure: Created data, images, and results folders. Created pdf-builds
 
 Riley Yu:
 I finished the data visualization notebook, came up with several questions and ideas to explore our cleaned dataset, and wrote intepretation paragraphs for every output diagrams.
+
+Lin Da Miao: 
+I finished model building notebook, makefile, environment, src package and pytest tests.

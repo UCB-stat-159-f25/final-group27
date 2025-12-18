@@ -1,1 +1,42 @@
 Claire O'Brien: I did not use AI except for fixing indentation in my myst.yml. For that, my prompt was simply "fix indentation," and I used it because I didn't have time to search through my document for incorrect indents. 
+
+Riley Yu:
+
+1. **Data Interpretation and Scale Choices in Visualization**  
+   Prompt (input to ChatGPT):
+
+When plotting TotalCost against Rank or Number of Prescriptions, the values span several orders of magnitude. I am unsure whether using a log scale is appropriate and how to justify that choice in writing. How should I explain this decision and interpret patterns on a log scale correctly?
+    
+    ChatGPT Output (summary):
+
+ChatGPT explained that healthcare cost data is typically highly skewed, especially when focusing on top-ranked drugs, and that using a log scale is a standard and appropriate choice to preserve interpretability. It helped me understand how to explain this choice clearly in my notebook by emphasizing that:
+
+A log scale allows relative differences across drug categories to be compared more meaningfully
+
+It prevents extreme values from visually overwhelming the rest of the data
+
+Trends on a log scale reflect proportional rather than absolute changes
+
+This guidance helped me write more precise interpretations of my figures, particularly when discussing how biologics, brand-name drugs, and generics differ in spending patterns across ranks.
+
+2. **Conceptual Debugging and Refinement of Visualization Scope**  
+   Prompt (input to ChatGPT):
+
+Some of my early plots did not reveal meaningful variation (for example, when all payer types collapsed into “All Payers”). I am unsure whether this indicates a coding issue or a limitation of the dataset. How should I respond analytically when a visualization does not show the variation I expected?
+
+    ChatGPT Output (summary):
+
+ChatGPT helped me recognize that not all “flat” or uninformative plots indicate a mistake. Instead, it encouraged me to treat these outcomes as information about the structure of the data. In cases where payer type did not vary meaningfully, ChatGPT suggested pivoting the analysis toward other dimensions, such as drug category, prescription volume, or average cost per unit.
+
+This reinforced an important analytical lesson: visualization is an iterative process, and refining the scope of analysis based on what the data can and cannot show is part of responsible data exploration. I used this guidance to adjust my visualization focus rather than forcing distinctions that the data did not support.
+
+3. **Conceptual Debugging and Refinement of Visualization Scope**  
+   Prompt (input to ChatGPT):
+
+Some of my early plots did not reveal meaningful variation (for example, when all payer types collapsed into “All Payers”). I am unsure whether this indicates a coding issue or a limitation of the dataset. How should I respond analytically when a visualization does not show the variation I expected?
+
+    ChatGPT Output (summary):
+
+ChatGPT helped me recognize that not all “flat” or uninformative plots indicate a mistake. Instead, it encouraged me to treat these outcomes as information about the structure of the data. In cases where payer type did not vary meaningfully, ChatGPT suggested pivoting the analysis toward other dimensions, such as drug category, prescription volume, or average cost per unit.
+
+This reinforced an important analytical lesson: visualization is an iterative process, and refining the scope of analysis based on what the data can and cannot show is part of responsible data exploration. I used this guidance to adjust my visualization focus rather than forcing distinctions that the data did not support.

@@ -1,6 +1,6 @@
 # Group 27 Final Project: Analyzing Healthcare Payer Data for the Top 25 Costliest Drugs in the United States (2021-2022)
 
-### By Claire O'Brien, Riley Yu, and Mike
+### By Claire O'Brien, Riley Yu, and Lin Da Miao
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/sSkqmNLf)
 
@@ -12,6 +12,33 @@ Note: The repository is large, so sometimes the binder launch fails. If this hap
 Through this project, we analyzed what factors impact drug costs for the top 25 costliest drugs in the United States. 
 
 ## Installation and Use: 
+
+Installation: 
+
+To clone the repository and access our directory, run these commands in the terminal: 
+
+```
+git clone https://github.com/UCB-stat-159-f25/final-group27.git
+cd final-group27
+```
+To create and run the environment: 
+```
+ 
+```
+## Analysis via Makefile
+
+For analysis, run in terminal: 
+
+``` 
+
+```
+## Testing: 
+
+For testing, run in terminal: 
+
+``` 
+make test
+```
 
 Use conda env create and make commands to use the associated environment, analysis, and tests from makefile. 
 
@@ -27,4 +54,6 @@ Use conda env create and make commands to use the associated environment, analys
 * environment.yml: Information necessary to create and use the environment
 * myst.yml: website generation
 * ai-documentation.txt: provides information about ai usage within the project
-* MakeFile: sets up make commands 
+* MakeFile: sets up make commands
+* references.bib: holds the references for the project
+* contribution-statement.md: delineates project contributions

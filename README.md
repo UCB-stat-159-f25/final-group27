@@ -11,7 +11,7 @@ Note: The repository is large, so sometimes the binder launch fails. If this hap
 ## Project Description
 Through this project, we analyzed what factors impact drug costs for the top 25 costliest drugs in the United States. 
 
-## Use
+## Installation and Use: 
 
 Use conda env create and make commands to use the associated environment, analysis, and tests from makefile. 
 

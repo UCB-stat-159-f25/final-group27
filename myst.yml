@@ -6,7 +6,7 @@ project:
   authors:
     - name: "Claire O'Brien"
     - name: "Riley Yu"
-    - name: "Mike"
+    - name: "Lin Da Miao"
   github: https://github.com/UCB-stat-159-f25/final-group27
   # Fixed indentation 
   toc:
@@ -18,12 +18,6 @@ project:
         - file: notebooks/data-visualization.ipynb
         - file: notebooks/model_building.ipynb
         - file: notebooks/main.ipynb
-
-exports:
-  - format: pdf
-    output: pdf_build/data-cleanup.pdf
-    # Ensure the article path matches the location in your toc
-    article: notebooks/data-cleanup.ipynb
 
 site:
   template: book-theme

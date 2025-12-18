@@ -8,7 +8,7 @@ MYST website: Initialized myst.yml and designed website layout, deployed to GitH
 Project Structure: Created data, images, and results folders. Created pdf-builds folder. Populated README.md and made binder badge. Made contribution-statement.md and ai-documentation.txt files. Also added license and bibliography. 
 
 Riley Yu:
-I finished the data visualization notebook, came up with several questions and ideas to explore our cleaned dataset, and wrote intepretation paragraphs for every output diagrams.
+I finished the data visualization notebook, came up with several questions and ideas to explore our cleaned dataset, and wrote intepretation paragraphs for every output diagrams. I also created the releases and published on the Zenodo website.
 
 Lin Da Miao: 
 I finished model building notebook, makefile, environment, src package and pytest tests.

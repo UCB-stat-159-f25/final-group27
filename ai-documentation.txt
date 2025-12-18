@@ -39,3 +39,5 @@ In my visualizations, I noticed that some drugs have extremely high total costs 
     ChatGPT Output (summary):
 
 ChatGPT helped me articulate a clear distinction between two observable spending patterns in the data: volume-driven spending and price-driven spending. It guided me to explain that high total drug costs can arise either from widespread use (high prescription volume) or from high per-unit prices, and that these mechanisms are visible directly in the relationship between total cost, number of prescriptions, and average cost per unit. This framing allowed me to interpret my visualizations more precisely and highlight that different drug categories and payer types exhibit different cost structures, without attributing causality or policy explanations beyond the data.
+
+Lin Da Miao: Grammar check

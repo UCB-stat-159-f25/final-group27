@@ -23,13 +23,16 @@ cd final-group27
 ```
 To create and run the environment: 
 ```
- 
+make env
+conda activate stat159-final
+
 ```
 ## Analysis via Makefile
 
 For analysis, run in terminal: 
 
 ``` 
+make all
 
 ```
 ## Testing: 

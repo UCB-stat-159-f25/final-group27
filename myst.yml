@@ -3,14 +3,12 @@ version: 1
 project:
   id: df7b732e-9400-48f2-8d26-6b42ee07738e
   title: "Group 27 Final Project: Analysis of Healthcare Payer Data for the Top 25 Costliest Drugs in the U.S. (2021-2022)"
-  # description:
-  # keywords: []
   authors:
     - name: "Claire O'Brien"
     - name: "Riley Yu"
     - name: "Mike"
   github: https://github.com/UCB-stat-159-f25/final-group27
-  # Indent "toc" to match "github" and "id"
+  # Fixed indentation 
   toc:
     - file: README.md
     - title: "Overview"
@@ -20,6 +18,12 @@ project:
         - file: notebooks/data-visualization.ipynb
         - file: notebooks/model_building.ipynb
         - file: notebooks/main.ipynb
+
+exports:
+  - format: pdf
+    output: pdf_build/data-cleanup.pdf
+    # Ensure the article path matches the location in your toc
+    article: notebooks/data-cleanup.ipynb
 
 site:
   template: book-theme

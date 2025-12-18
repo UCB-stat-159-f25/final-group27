@@ -1,0 +1,1 @@
+Claire O'Brien: I did not use AI except for fixing indentation in my myst.yml. For that, my prompt was simply "fix indentation," and I used it because I didn't have time to search through my document for incorrect indents. 

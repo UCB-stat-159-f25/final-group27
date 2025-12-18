@@ -4,6 +4,8 @@
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/sSkqmNLf)
 
+DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17972108.svg)](https://doi.org/10.5281/zenodo.17972108)
+
 Link to Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group27.git/HEAD)
 
 Note: The repository is large, so sometimes the binder launch fails. If this happens, just try again! 

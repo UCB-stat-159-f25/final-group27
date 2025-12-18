@@ -2,14 +2,24 @@
 version: 1
 project:
   id: df7b732e-9400-48f2-8d26-6b42ee07738e
-  # title:
+  title: "Group 27 Final Project: Analysis of Healthcare Payer Data for the Top 25 Costliest Drugs in the U.S. (2021-2022)"
   # description:
   # keywords: []
-  # authors: []
+  authors:
+    - name: "Claire O'Brien"
+    - name: "Riley Yu"
+    - name: "Mike"
   github: https://github.com/UCB-stat-159-f25/final-group27
-  # To autogenerate a Table of Contents, run "myst init --write-toc"
+  # Indent "toc" to match "github" and "id"
+  toc:
+    - file: README.md
+    - title: "Overview"
+    - title: "Notebooks"
+      children:
+        - file: notebooks/data-cleanup.ipynb
+        - file: notebooks/data-visualization.ipynb
+        - file: notebooks/model_building.ipynb
+        - file: notebooks/main.ipynb
+
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png

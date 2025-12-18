@@ -51,11 +51,11 @@ Use conda env create and make commands to use the associated environment, analys
 - `images/`: contains any images generated within the project notebooks
 - `pdf_builds/`: contains MYST generated pdf builds
 - `results/`: contains results from modelling
-- src/: analysis functions
-- tests/: the tests we used to ensure the analysis was done correctly
-- environment.yml: Information necessary to create and use the environment
-- myst.yml: website generation
-- ai-documentation.txt: provides information about ai usage within the project
-- MakeFile: sets up make commands
-- references.bib: holds the references for the project
-- contribution-statement.md: delineates project contributions
+- `src/`: analysis functions
+- `tests/`: the tests we used to ensure the analysis was done correctly
+- `environment.yml`: Information necessary to create and use the environment
+- `myst.yml`: website generation
+- `ai-documentation.txt`: provides information about ai usage within the project
+- `MakeFile`: sets up make commands
+- `references.bib`: holds the references for the project
+- `contribution-statement.md`: delineates project contributions
